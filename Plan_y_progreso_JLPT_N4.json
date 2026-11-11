@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 150,
+  "revision_contenido": 151,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-11T17:02:40.000Z",
+  "actualizado_el": "2026-11-11T17:06:50.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -2198,14 +2198,15 @@
           "consolidacion": null,
           "repaso": {
             "requiere_repaso": true,
-            "fecha_proximo": "2026-10-28",
+            "fecha_proximo": "2026-11-12",
             "errores_abiertos_ids": [
               "ERR-8a9e19a8-6fb0-478c-984e-2979c7081fc3",
               "ERR-2d0b0610-41c9-4f8c-a43b-6092c41ab1fe",
-              "ERR-E-SYNC20261102-76bcc9f8-9"
+              "ERR-E-SYNC20261102-76bcc9f8-9",
+              "ERR-cf1f2fb2-896a-41f8-9783-357da01dbf21"
             ],
             "motivo": "Repaso completo solicitado desde cero; alternar pregunta directa, bloque interrogativo y predicado exterior con otras estructuras.",
-            "fecha_ultimo": "2026-10-27",
+            "fecha_ultimo": "2026-11-11",
             "paso_intervalo": 0
           },
           "evidencias_ids": [
@@ -2257,7 +2258,8 @@
             "E-SYNC20261102-76bcc9f8-13",
             "E-SYNC20261102-76bcc9f8-14",
             "E-SYNC20261102-76bcc9f8-15",
-            "E-SYNC20261102-76bcc9f8-21"
+            "E-SYNC20261102-76bcc9f8-21",
+            "E-7a522985-850f-4c4f-ad2a-76c77bf45f94"
           ],
           "historial_cambios": [
             {
@@ -2428,15 +2430,16 @@
           "consolidacion": null,
           "repaso": {
             "requiere_repaso": true,
-            "fecha_proximo": "2026-10-27",
+            "fecha_proximo": "2026-11-12",
             "errores_abiertos_ids": [
               "ERR-887fabf1-6600-4cd2-a379-f94fe495f146",
               "ERR-848eb064-2851-466b-9837-67ad2393c624",
               "ERR-79933328-57df-4bd2-b5bb-0755ffd0f6e4",
-              "ERR-E-SYNC20261102-76bcc9f8-16"
+              "ERR-E-SYNC20261102-76bcc9f8-16",
+              "ERR-1ccc1823-b60b-492b-a7a2-8fb354b86b1e"
             ],
             "motivo": "Distinción léxica ani/ane; estructura verbal かどうか correctamente producida.",
-            "fecha_ultimo": "2026-10-27",
+            "fecha_ultimo": "2026-11-11",
             "paso_intervalo": 0
           },
           "evidencias_ids": [
@@ -2453,7 +2456,8 @@
             "E-5ebdec1b-0e9e-42fd-a1b2-c43e775eef28",
             "E-cec0b5e5-df2f-4cb7-90b8-6426d69b45cc",
             "E-SYNC20261102-76bcc9f8-16",
-            "E-SYNC20261102-76bcc9f8-24"
+            "E-SYNC20261102-76bcc9f8-24",
+            "E-0410ce0b-6a31-4850-88c4-2431663f8353"
           ],
           "historial_cambios": [
             {
@@ -22643,16 +22647,22 @@
       "fecha_ultima_pausa": "2026-10-27T11:42:03.551985+00:00"
     },
     "ejercicios": {
-      "sesion_actual_id": "EX-SYNC-20261102-c6b64776bcc9f8",
+      "sesion_actual_id": "EX-20261111-85d54204ea90",
       "punto_actual_id": "N4-G007",
       "uso_actual_id": "N4-G007-U01",
-      "fase": "pausada_tras_sincronizacion",
-      "ejercicio_pendiente": null,
-      "ultima_actividad": {
-        "evidencia_id": "E-SYNC20261102-76bcc9f8-24",
-        "descripcion": "La construcción かどうか + 担当者に聞きました es correcta. 準備の終わり se entiende pero resulta menos idiomático que 準備が間に合う. Ajuste de naturalidad, no error en pregunta incrustada."
+      "fase": "en_curso",
+      "ejercicio_pendiente": {
+        "id": "Q-3f13a2ef-f438-4eeb-aad7-069c59d579f9",
+        "uso_id": "N4-G007-U01",
+        "direccion": "ja_es",
+        "consigna": "山田さんが明日会社に来るかどうか、私はまだ知りません。",
+        "ayudas": []
       },
-      "siguiente_accion": "Retomar con un ejercicio variado de usos habilitados; no volver a la escena de libros/familia. Sin consigna pendiente.",
+      "ultima_actividad": {
+        "evidencia_id": "E-0410ce0b-6a31-4850-88c4-2431663f8353",
+        "descripcion": "Sustituyó かどうか por のが分かりません; tiempo 終わったか en vez de 終わるか."
+      },
+      "siguiente_accion": "Evaluar la respuesta al ejercicio pendiente (ja_es, かどうか).",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -23050,6 +23060,20 @@
         "EV-E-SYNC20261102-76bcc9f8-24"
       ],
       "resultado": "pausada"
+    },
+    {
+      "id": "EX-20261111-85d54204ea90",
+      "conversacion": null,
+      "inicio": null,
+      "fin": null,
+      "nota_inicio": null,
+      "usos_ids": [
+        "N4-G006-U01",
+        "N4-G007-U01"
+      ],
+      "eventos_ids": [],
+      "resultado": null,
+      "rol": "ejercicios"
     }
   ],
   "evidencias": [
@@ -30071,6 +30095,72 @@
         "produccion"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-11T17:06:50.000Z",
+      "fecha_local": "2026-11-11",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi jefe me preguntó cuándo termino el informe, pero todavía no sé si podré terminarlo hoy.",
+      "primera_respuesta": "joushi wa itsu houkokusho ga owatta ka watashi ni kikimashita demo kyou ni owareru no ga wakarimasen",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "glosa_lexica",
+          "contenido": "上司（じょうし）: jefe; 報告書（ほうこくしょ）: informe. Sin modelo de oración antes del intento.",
+          "momento": "antes"
+        }
+      ],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-7a522985-850f-4c4f-ad2a-76c77bf45f94",
+      "punto_id": "N4-G006",
+      "uso_id": "N4-G006-U01",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Pregunta incrustada con interrogativo correcta (いつ報告書が終わったか私に聞きました, orden válido). Error de tiempo: 終わった (pasado) donde el español pide presente/futuro 終わる. 聞きましたでも en una sola oración sería más natural con が／けど.",
+      "correccion": "上司は私にいつ報告書が終わるか聞きました。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-cf1f2fb2-896a-41f8-9783-357da01dbf21"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-11T17:06:50.000Z",
+      "fecha_local": "2026-11-11",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi jefe me preguntó cuándo termino el informe, pero todavía no sé si podré terminarlo hoy.",
+      "primera_respuesta": "joushi wa itsu houkokusho ga owatta ka watashi ni kikimashita demo kyou ni owareru no ga wakarimasen",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "glosa_lexica",
+          "contenido": "上司（じょうし）: jefe; 報告書（ほうこくしょ）: informe. Sin modelo de oración antes del intento.",
+          "momento": "antes"
+        }
+      ],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-0410ce0b-6a31-4850-88c4-2431663f8353",
+      "punto_id": "N4-G007",
+      "uso_id": "N4-G007-U01",
+      "resultado": "incorrecta",
+      "diagnostico": "No produjo かどうか: usó 今日に終われるのが分かりません. 終われる (potencial inexistente en uso común de 終わる) y 〜のが分かる nominaliza el hecho, no la pregunta sí/no; cambia el significado. 今日 no lleva に aquí.",
+      "correccion": "今日終わるかどうか分かりません。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-1ccc1823-b60b-492b-a7a2-8fb354b86b1e"
+      ]
     }
   ],
   "errores": [
@@ -30411,6 +30501,26 @@
       "evidencia_apertura_id": "E-SYNC20261102-76bcc9f8-16",
       "categoria": "lexico",
       "descripcion": "かどうか知らない correcto; selecciona やめる en lugar de 止む.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-cf1f2fb2-896a-41f8-9783-357da01dbf21",
+      "uso_id": "N4-G006-U01",
+      "evidencia_apertura_id": "E-7a522985-850f-4c4f-ad2a-76c77bf45f94",
+      "categoria": "gramatical",
+      "descripcion": "Tiempo en la pregunta incrustada: 終わったか (pasado) en lugar de 終わるか. El tiempo de la subordinada se interpreta desde el momento de la oración principal.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-1ccc1823-b60b-492b-a7a2-8fb354b86b1e",
+      "uso_id": "N4-G007-U01",
+      "evidencia_apertura_id": "E-0410ce0b-6a31-4850-88c4-2431663f8353",
+      "categoria": "gramatical",
+      "descripcion": "Sustituyó かどうか por のが分かりません (nominalización de hecho). Distinguir \"no entiendo/no sé el hecho de V\" de \"no sé si V\".",
       "estado": "abierto",
       "evidencias_recuperacion_ids": [],
       "fecha_resolucion": null
@@ -32949,6 +33059,20 @@
       "tipo": "guardado",
       "referencias_ids": [],
       "descripcion": "Corrección documental: resumen_inicial recalculado desde los registros vigentes. Sin cambios en estados, evidencias, errores ni cursores."
+    },
+    {
+      "id": "EV-e7180902-1232-4bb0-9bc7-400bfe6d2d12",
+      "fecha_hora": "2026-11-11T17:06:50.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-7a522985-850f-4c4f-ad2a-76c77bf45f94",
+        "E-0410ce0b-6a31-4850-88c4-2431663f8353",
+        "ERR-cf1f2fb2-896a-41f8-9783-357da01dbf21",
+        "ERR-1ccc1823-b60b-492b-a7a2-8fb354b86b1e",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio es_ja integrado G006+G007: pregunta incrustada correcta con error de tiempo; no produjo かどうか."
     }
   ],
   "instrucciones_para_iniciar": {
