@@ -1,0 +1,5084 @@
+[
+  {
+    "Nivel": "N5",
+    "Estructura": "da / desu",
+    "Forma en Kana": "だ / です",
+    "Significado": "to be (am, is, are, were, used to)"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "dake",
+    "Forma en Kana": "だけ",
+    "Significado": "only; just; as much as ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "darou",
+    "Forma en Kana": "だろう",
+    "Significado": "I think; it seems; probably; right?"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "de",
+    "Forma en Kana": "で",
+    "Significado": "in; at; on; by; with; via ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "demo",
+    "Forma en Kana": "でも",
+    "Significado": "but; however; though ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "deshou",
+    "Forma en Kana": "でしょう",
+    "Significado": "I think; it seems; probably; right?"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "donna",
+    "Forma en Kana": "どんな",
+    "Significado": "what kind of; what sort of"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "doushite",
+    "Forma en Kana": "どうして",
+    "Significado": "why; for what reason; how"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "douyatte",
+    "Forma en Kana": "どうやって",
+    "Significado": "how; in what way; by what means​"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ga",
+    "Forma en Kana": "が",
+    "Significado": "subject marker; however; but ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ga arimasu",
+    "Forma en Kana": "があります",
+    "Significado": "there is; is (non-living things)"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ga hoshii",
+    "Forma en Kana": "がほしい",
+    "Significado": "to want something"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ga imasu",
+    "Forma en Kana": "がいます",
+    "Significado": "there is; to be; is (living things)"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "hou ga ii",
+    "Forma en Kana": "ほうがいい",
+    "Significado": "had better; it'd be better to; should ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "i-adjectives",
+    "Forma en Kana": "い-adjectives",
+    "Significado": "i-adjectives"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ichiban",
+    "Forma en Kana": "一番（いちばん）",
+    "Significado": "the most; the best"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "issho ni",
+    "Forma en Kana": "一緒に（いっしょに）",
+    "Significado": "together"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "itsumo",
+    "Forma en Kana": "いつも",
+    "Significado": "always; usually; habitually"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "janai / dewa nai",
+    "Forma en Kana": "じゃない・ではない",
+    "Significado": "to not be (am not; is not; are not)"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ka",
+    "Forma en Kana": "か",
+    "Significado": "question particle"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ka~ka",
+    "Forma en Kana": "か～か",
+    "Significado": "or"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "kara",
+    "Forma en Kana": "から",
+    "Significado": "because; since; from"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "kata",
+    "Forma en Kana": "方（かた）",
+    "Significado": "the way of doing something; how to do ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "kedo",
+    "Forma en Kana": "けど",
+    "Significado": "but; however; although ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "keredo mo",
+    "Forma en Kana": "けれども",
+    "Significado": "but; however; although ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "mada",
+    "Forma en Kana": "まだ",
+    "Significado": "still; not yet"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "mada ~te imasen",
+    "Forma en Kana": "まだ～ていません",
+    "Significado": "have not yet ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "made",
+    "Forma en Kana": "まで",
+    "Significado": "until; as far as; to (an extent); even ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "mae ni",
+    "Forma en Kana": "前に（まえに）",
+    "Significado": "before; in front of ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "masen ka",
+    "Forma en Kana": "ませんか",
+    "Significado": "would you; do you want to; shall we ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "mashou",
+    "Forma en Kana": "ましょう",
+    "Significado": "let's ~; shall we ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "mashouka",
+    "Forma en Kana": "ましょうか",
+    "Significado": "shall I ~; used to offer help to the listener"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "mo",
+    "Forma en Kana": "も",
+    "Significado": "too; also; as well"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "mou",
+    "Forma en Kana": "もう",
+    "Significado": "already; anymore; again; other"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "na-adjectives",
+    "Forma en Kana": "な-adjectives",
+    "Significado": "na-adjectives"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "naa",
+    "Forma en Kana": "なあ",
+    "Significado": "sentence ending particle; confirmation; admiration, etc"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "naide",
+    "Forma en Kana": "ないで",
+    "Significado": "without doing ~; to do [B] without doing [A]"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "naide kudasai",
+    "Forma en Kana": "ないでください",
+    "Significado": "please don't do ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "naito ikenai",
+    "Forma en Kana": "ないといけない",
+    "Significado": "must do; have an obligation to do ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "naku temo ii",
+    "Forma en Kana": "なくてもいい",
+    "Significado": "don't have to"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "nakucha",
+    "Forma en Kana": "なくちゃ",
+    "Significado": "must do; need to; gotta do ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "nakute wa ikenai",
+    "Forma en Kana": "なくてはいけない",
+    "Significado": "must do; need to do"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "nakute wa naranai",
+    "Forma en Kana": "なくてはならない",
+    "Significado": "must do; need to do ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "naru",
+    "Forma en Kana": "なる",
+    "Significado": "to become"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ndesu",
+    "Forma en Kana": "んです",
+    "Significado": "to explain something; show emphasis"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ne",
+    "Forma en Kana": "ね",
+    "Significado": "isn't it? right? eh?"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ni",
+    "Forma en Kana": "に",
+    "Significado": "destination particle; in; at; on; to"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ni iku",
+    "Forma en Kana": "に行く（にいく）",
+    "Significado": "go to do ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ni suru",
+    "Forma en Kana": "にする",
+    "Significado": "to decide on"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ni/e",
+    "Forma en Kana": "に/へ",
+    "Significado": "to (indicates direction / destination)"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "no",
+    "Forma en Kana": "の",
+    "Significado": "possessive particle"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "no desu",
+    "Forma en Kana": "のです",
+    "Significado": "to explain something; show emphasis"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "no ga heta",
+    "Forma en Kana": "のが下手（のがへた）",
+    "Significado": "to be bad at doing something"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "no ga jouzu",
+    "Forma en Kana": "のが上手（のがじょうず）",
+    "Significado": "to be good at"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "no ga suki",
+    "Forma en Kana": "のが好き（のがすき）",
+    "Significado": "to like doing something"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "no naka de [A] ga ichiban",
+    "Forma en Kana": "の中で[A]が一番（のなかで[A]がいちばん）",
+    "Significado": "out of this group, [A] is best"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "node",
+    "Forma en Kana": "ので",
+    "Significado": "because of; given that; since ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "o / go",
+    "Forma en Kana": "お / ご",
+    "Significado": "polite marker; honorific prefix particle"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "o / wo",
+    "Forma en Kana": "を",
+    "Significado": "object marker particle"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "o kudasai",
+    "Forma en Kana": "をください",
+    "Significado": "please give me ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "shikashi",
+    "Forma en Kana": "しかし",
+    "Significado": "but; however ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "sore kara",
+    "Forma en Kana": "それから",
+    "Significado": "and; and then; after that; since then"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "soshite",
+    "Forma en Kana": "そして",
+    "Significado": "and; and then; thus; and now ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "sugiru",
+    "Forma en Kana": "すぎる",
+    "Significado": "too much"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ta koto ga aru",
+    "Forma en Kana": "たことがある",
+    "Significado": "to have done something before"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "tai",
+    "Forma en Kana": "たい",
+    "Significado": "want to do something"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "tari~tari",
+    "Forma en Kana": "たり～たり",
+    "Significado": "do such things as A and B"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "te aru",
+    "Forma en Kana": "てある",
+    "Significado": "is/has been done (resulting state)"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "te iru",
+    "Forma en Kana": "ている",
+    "Significado": "ongoing action or current state"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "te kara",
+    "Forma en Kana": "てから",
+    "Significado": "after doing ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "te kudasai",
+    "Forma en Kana": "てください",
+    "Significado": "please do"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "te wa ikenai",
+    "Forma en Kana": "てはいけない",
+    "Significado": "must not; may not; cannot"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "temo ii desu",
+    "Forma en Kana": "てもいいです",
+    "Significado": "is OK to ~; is alright to ~; may I ~?"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "to",
+    "Forma en Kana": "と",
+    "Significado": "and; with; as; connecting particle"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "toki",
+    "Forma en Kana": "とき",
+    "Significado": "when; at this time"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "totemo",
+    "Forma en Kana": "とても",
+    "Significado": "very; awfully; exceedingly​"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "tsumori",
+    "Forma en Kana": "つもり",
+    "Significado": "plan to ~; intend to ~"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "wa - topic marker",
+    "Forma en Kana": "は",
+    "Significado": "topic marker"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "wa ~yori... desu",
+    "Forma en Kana": "は〜より・・・です",
+    "Significado": "[Noun-1] is more ~ than [Noun-2]"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "wa dou desu ka",
+    "Forma en Kana": "はどうですか",
+    "Significado": "how about; how is"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "ya",
+    "Forma en Kana": "や",
+    "Significado": "and; or; connecting particle"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "yo",
+    "Forma en Kana": "よ",
+    "Significado": "you know; emphasis (ending particle)"
+  },
+  {
+    "Nivel": "N5",
+    "Estructura": "yori ~hou ga",
+    "Forma en Kana": "より～ほうが",
+    "Significado": "[2] is more than [1]"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "aida",
+    "Forma en Kana": "間（あいだ）",
+    "Significado": "while; during; between ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "aida ni",
+    "Forma en Kana": "間に（あいだに）",
+    "Significado": "while; during~ something happened"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "amari~nai",
+    "Forma en Kana": "あまり～ない",
+    "Significado": "not very, not much ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ato de",
+    "Forma en Kana": "後で（あとで）",
+    "Significado": "after~; later"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ba",
+    "Forma en Kana": "ば",
+    "Significado": "conditional form; If [A] then [B]"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "baai wa",
+    "Forma en Kana": "場合は（ばあいは）",
+    "Significado": "in the event of; in the case that ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "bakari",
+    "Forma en Kana": "ばかり",
+    "Significado": "only; nothing but ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "dake de",
+    "Forma en Kana": "だけで",
+    "Significado": "just by; just by doing"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "dasu",
+    "Forma en Kana": "出す（だす）",
+    "Significado": "to begin to; to start to; to burst into; ... out (e.g. to jump out, to carry out)​"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "de gozaimasu",
+    "Forma en Kana": "でございます",
+    "Significado": "to be (honorific)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "demo",
+    "Forma en Kana": "でも",
+    "Significado": "... or something; how about~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "dewa nai ka",
+    "Forma en Kana": "ではないか",
+    "Significado": "right?; isn't it?"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ga hitsuyou",
+    "Forma en Kana": "が必要（がひつよう）",
+    "Significado": "need; necessary"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ga suru",
+    "Forma en Kana": "がする",
+    "Significado": "to smell; hear; taste"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "gari",
+    "Forma en Kana": "がり",
+    "Significado": "personality (someone tends to; has a tendency to; has a sensitivity to ~)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "garu / gatteiru",
+    "Forma en Kana": "がる / がっている",
+    "Significado": "to show signs of; to appear; to feel, to think ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "gozaimasu",
+    "Forma en Kana": "ございます",
+    "Significado": "to be, to exist (the polite form of いる/ある)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "hajimeru",
+    "Forma en Kana": "始める（はじめる）",
+    "Significado": "to start; to begin to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "hazu da",
+    "Forma en Kana": "はずだ",
+    "Significado": "it must be; it should be (expectation)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "hazu ga nai",
+    "Forma en Kana": "はずがない",
+    "Significado": "cannot be (impossible)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "hitsuyou ga aru",
+    "Forma en Kana": "必要がある（ひつようがある）",
+    "Significado": "need to; it is necessary to"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ikou kei - volitional form",
+    "Forma en Kana": "意向形 （いこうけい）",
+    "Significado": "volitional form​; let's do ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "irassharu",
+    "Forma en Kana": "いらっしゃる",
+    "Significado": "to be; to come; to go (polite version)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "itashimasu",
+    "Forma en Kana": "いたします",
+    "Significado": "to do (polite form of する)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "janai ka",
+    "Forma en Kana": "じゃないか",
+    "Significado": "right? isn't it? let's~; confirmation"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ka dou ka",
+    "Forma en Kana": "かどうか",
+    "Significado": "whether or not ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ka shira",
+    "Forma en Kana": "かしら",
+    "Significado": "I wonder (feminine)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "kai",
+    "Forma en Kana": "かい",
+    "Significado": "turns a sentence into a yes/no question"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "kamo shirenai",
+    "Forma en Kana": "かもしれない",
+    "Significado": "might; perhaps; indicates possibility"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "kana",
+    "Forma en Kana": "かな",
+    "Significado": "I wonder; should I?"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "kara tsukuru",
+    "Forma en Kana": "から作る（からつくる）",
+    "Significado": "made from; made with"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "kitto",
+    "Forma en Kana": "きっと",
+    "Significado": "surely; undoubtedly; almost certainly; most likely"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "koro / goro",
+    "Forma en Kana": "頃（ころ / ごろ）",
+    "Significado": "around; about; when"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "koto",
+    "Forma en Kana": "こと",
+    "Significado": "Verb nominalizer"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "koto ga aru",
+    "Forma en Kana": "ことがある",
+    "Significado": "there are times when"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "koto ga dekiru",
+    "Forma en Kana": "ことができる",
+    "Significado": "can; able to"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "koto ni naru",
+    "Forma en Kana": "ことになる",
+    "Significado": "It has been decided that..; it turns out that.."
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "koto ni suru",
+    "Forma en Kana": "ことにする",
+    "Significado": "to decide on"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ku suru",
+    "Forma en Kana": "くする",
+    "Significado": "to make something ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "kyuu ni",
+    "Forma en Kana": "急に（きゅうに）",
+    "Significado": "quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "made ni",
+    "Forma en Kana": "までに",
+    "Significado": "by; by the time; indicates time limit"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "mama",
+    "Forma en Kana": "まま",
+    "Significado": "as it is; current state; without changing"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "matawa",
+    "Forma en Kana": "または",
+    "Significado": "both; or; otherwise​; choice between [A] or [B]"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "mitai da",
+    "Forma en Kana": "みたいだ",
+    "Significado": "like; similar to; resembling ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "mitai na",
+    "Forma en Kana": "みたいな",
+    "Significado": "like, similar to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "mitai ni",
+    "Forma en Kana": "みたいに",
+    "Significado": "like; similar to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "mo",
+    "Forma en Kana": "も",
+    "Significado": "as many as; as much as; up to; nearly ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "na",
+    "Forma en Kana": "な",
+    "Significado": "don’t ~ (order somebody to not do something)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nado",
+    "Forma en Kana": "など",
+    "Significado": "such as; things like ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nagara",
+    "Forma en Kana": "ながら",
+    "Significado": "while; during; as; simultaneously"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nakanaka~nai",
+    "Forma en Kana": "なかなか～ない",
+    "Significado": "not easy to; struggling to; not able to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nakereba ikenai",
+    "Forma en Kana": "なければいけない",
+    "Significado": "must do something; have to do something"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nakereba naranai",
+    "Forma en Kana": "なければならない",
+    "Significado": "must do something; have to do something"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nara",
+    "Forma en Kana": "なら",
+    "Significado": "if; in the case that ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nasai",
+    "Forma en Kana": "なさい",
+    "Significado": "do this (soft/firm command)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nasaru",
+    "Forma en Kana": "なさる",
+    "Significado": "to do (honorific)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ni ki ga tsuku",
+    "Forma en Kana": "に気がつく（にきがつく）",
+    "Significado": "to notice; to realize"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ni mieru",
+    "Forma en Kana": "に見える（にみえる）",
+    "Significado": "to look; to seem; to appear"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ni suru",
+    "Forma en Kana": "にする",
+    "Significado": "to make something ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nikui",
+    "Forma en Kana": "にくい",
+    "Significado": "difficult to do ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "no naka de",
+    "Forma en Kana": "の中で（のなかで）",
+    "Significado": "in; among ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "noni",
+    "Forma en Kana": "のに",
+    "Significado": "although, in spite of, even though ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "noni",
+    "Forma en Kana": "のに",
+    "Significado": "to (do something); in order to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "nowa~da",
+    "Forma en Kana": "のは〜だ",
+    "Significado": "[A] is [B]; the reason for [A] is [B]"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "o~kudasai",
+    "Forma en Kana": "お～ください",
+    "Significado": "please do ~ (honorific)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "o~ni naru",
+    "Forma en Kana": "お～になる",
+    "Significado": "to do (honorific)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "oki ni",
+    "Forma en Kana": "おきに",
+    "Significado": "repeated at intervals, every ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "owaru",
+    "Forma en Kana": "終わる（おわる）",
+    "Significado": "to finish; to end~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "rareru",
+    "Forma en Kana": "られる",
+    "Significado": "potential form; ability or inability to do something"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "rashii",
+    "Forma en Kana": "らしい",
+    "Significado": "it seems like; I heard; apparently ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sa",
+    "Forma en Kana": "さ",
+    "Significado": "-ness​ ; nominalizer for adjective"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sakki",
+    "Forma en Kana": "さっき",
+    "Significado": "some time ago; just now"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "saserareru",
+    "Forma en Kana": "させられる",
+    "Significado": "causative-passive; to be made to do something"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "saseru",
+    "Forma en Kana": "させる",
+    "Significado": "causative form; to make/let somebody do something"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sasete kudasai",
+    "Forma en Kana": "させてください",
+    "Significado": "please let me do"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sasuga",
+    "Forma en Kana": "さすが",
+    "Significado": "as one would expect; as is to be expected; even ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "shi",
+    "Forma en Kana": "し",
+    "Significado": "and; and what’s more ~ (emphasis)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sonna ni",
+    "Forma en Kana": "そんなに",
+    "Significado": "so much; so; like that"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sore demo",
+    "Forma en Kana": "それでも",
+    "Significado": "but still; and yet; even so ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sore ni",
+    "Forma en Kana": "それに",
+    "Significado": "besides; in addition; also; moreover ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sou da [1]",
+    "Forma en Kana": "そうだ",
+    "Significado": "I heard that; it is said that ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sou da [2]",
+    "Forma en Kana": "そうだ",
+    "Significado": "looks like; appears like; seeming ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "sou ni / sou na",
+    "Forma en Kana": "そうに / そうな",
+    "Significado": "seems like; looks like ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ta bakari",
+    "Forma en Kana": "たばかり",
+    "Significado": "just finished; something just occurred"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ta tokoro",
+    "Forma en Kana": "たところ",
+    "Significado": "just finished doing, was just doing"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "tadoushi & jidoushi",
+    "Forma en Kana": "他動詞 & 自動詞（たどうし & じどうし）",
+    "Significado": "Transitive & Intransitive Verbs"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "tagaru",
+    "Forma en Kana": "たがる",
+    "Significado": "wants to do ~ (third person)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "tara",
+    "Forma en Kana": "たら",
+    "Significado": "if; after; when ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "tara dou",
+    "Forma en Kana": "たらどう",
+    "Significado": "why don't you; how about ~ (used to give advice)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "tara ii desu ka",
+    "Forma en Kana": "たらいいですか",
+    "Significado": "what should I do?; speaker seeking instructions from listener"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te / de",
+    "Forma en Kana": "て / で",
+    "Significado": "conjunctive particle; so; because of [A], [B]..."
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te ageru",
+    "Forma en Kana": "てあげる",
+    "Significado": "to do for; to do a favor"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te hoshii",
+    "Forma en Kana": "てほしい",
+    "Significado": "I want you to; need you to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te iku",
+    "Forma en Kana": "ていく",
+    "Significado": "to start; to continue; to go on"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te ita",
+    "Forma en Kana": "ていた",
+    "Significado": "was doing something (past continuous)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te itadakemasen ka",
+    "Forma en Kana": "ていただけませんか",
+    "Significado": "could you please ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te kureru",
+    "Forma en Kana": "てくれる",
+    "Significado": "to do a favor; do something for someone"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te kuru",
+    "Forma en Kana": "てくる",
+    "Significado": "to do… and come back; to become; to continue; to start ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te miru",
+    "Forma en Kana": "てみる",
+    "Significado": "try doing"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te morau",
+    "Forma en Kana": "てもらう",
+    "Significado": "to get somebody to do something"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te oku",
+    "Forma en Kana": "ておく",
+    "Significado": "to do something in advance"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te shimau / chau",
+    "Forma en Kana": "てしまう / ちゃう",
+    "Significado": "to do something by accident, to finish completely"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te sumimasen",
+    "Forma en Kana": "てすみません",
+    "Significado": "I’m sorry for"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te yaru",
+    "Forma en Kana": "てやる",
+    "Significado": "to do for; to do a favor (casual)"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "te yokatta",
+    "Forma en Kana": "てよかった",
+    "Significado": "I’m glad that ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "teiru tokoro",
+    "Forma en Kana": "ているところ",
+    "Significado": "in the process of doing"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "temo",
+    "Forma en Kana": "ても",
+    "Significado": "even; even if; even though ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "to",
+    "Forma en Kana": "と",
+    "Significado": "whenever [A] happens, [B] also happens"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "to ittemo ii",
+    "Forma en Kana": "と言ってもいい（といってもいい）",
+    "Significado": "you could say; one might say; I'd say ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "to iu",
+    "Forma en Kana": "という",
+    "Significado": "called; named; that ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "to iu koto",
+    "Forma en Kana": "ということ",
+    "Significado": "convert phrase into noun"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "to iwarete iru",
+    "Forma en Kana": "と言われている（といわれている）",
+    "Significado": "it is said that ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "to kiita",
+    "Forma en Kana": "と聞いた（ときいた）",
+    "Significado": "I heard..."
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "to omou",
+    "Forma en Kana": "と思う（とおもう）",
+    "Significado": "to think…; I think…; you think…"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "toka~toka",
+    "Forma en Kana": "とか～とか",
+    "Significado": "among other things; such as; like ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "tokoro",
+    "Forma en Kana": "ところ",
+    "Significado": "just about to; on the verge of doing something"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "tsuzukeru",
+    "Forma en Kana": "続ける（つづける）",
+    "Significado": "continue to; keen on ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "tte",
+    "Forma en Kana": "って",
+    "Significado": "named; called ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "ukemi kei",
+    "Forma en Kana": "受身形（うけみけい）",
+    "Significado": "passive form; passive voice"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "wa~ga... wa",
+    "Forma en Kana": "は〜が… は",
+    "Significado": "[A] but [B]; however; comparison"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "yasui",
+    "Forma en Kana": "やすい",
+    "Significado": "easy to; likely to; prone to; have a tendency to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "yatto",
+    "Forma en Kana": "やっと",
+    "Significado": "at last; finally; barely; narrowly ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "yori",
+    "Forma en Kana": "より",
+    "Significado": "than; rather than; more than ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "yotei da",
+    "Forma en Kana": "予定だ（よていだ）",
+    "Significado": "plan to, intend to"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "you da",
+    "Forma en Kana": "ようだ",
+    "Significado": "appears; seems; looks as if ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "you ni / you na",
+    "Forma en Kana": "ように / ような",
+    "Significado": "like; as; similar to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "you ni naru",
+    "Forma en Kana": "ようになる",
+    "Significado": "to reach the point that; to come to be that; to turn into ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "you ni suru",
+    "Forma en Kana": "ようにする",
+    "Significado": "to try to; to make sure that ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "you to omou",
+    "Forma en Kana": "ようと思う（ようとおもう）",
+    "Significado": "thinking of doing; planning to ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "zehi",
+    "Forma en Kana": "ぜひ",
+    "Significado": "by all means; certainly; definitely ~"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "zenzen~nai",
+    "Forma en Kana": "全然～ない（ぜんぜん～ない）",
+    "Significado": "(not) at all"
+  },
+  {
+    "Nivel": "N4",
+    "Estructura": "zurai",
+    "Forma en Kana": "づらい",
+    "Significado": "difficult to do ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ageru",
+    "Forma en Kana": "上げる（あげる）",
+    "Significado": "to finish doing ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "amari",
+    "Forma en Kana": "あまり",
+    "Significado": "so much… that"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "amari ni mo",
+    "Forma en Kana": "あまりにも",
+    "Significado": "too much; so much… that; excessively ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "au",
+    "Forma en Kana": "合う（あう）",
+    "Significado": "do something together"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ba ii",
+    "Forma en Kana": "ばいい",
+    "Significado": "should; can; it’d be good if ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ba yokatta",
+    "Forma en Kana": "ばよかった",
+    "Significado": "should have; would have been better if ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ba~hodo",
+    "Forma en Kana": "ば～ほど",
+    "Significado": "the more… the more ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ba~noni",
+    "Forma en Kana": "ば～のに",
+    "Significado": "would have; should have; if only ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "bakari de",
+    "Forma en Kana": "ばかりで",
+    "Significado": "only; just ~ (negative description)"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "bakari denaku",
+    "Forma en Kana": "ばかりでなく",
+    "Significado": "not only... but also; as well as ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "beki da",
+    "Forma en Kana": "べきだ",
+    "Significado": "should do; must do ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "beki dewa nai",
+    "Forma en Kana": "べきではない",
+    "Significado": "should not do; must not do ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "betsu ni~nai",
+    "Forma en Kana": "別に～ない（べつに～ない）",
+    "Significado": "not really, not particularly"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "buri ni",
+    "Forma en Kana": "ぶりに",
+    "Significado": "for the first time in (period of time)"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "chuu / juu",
+    "Forma en Kana": "中（ちゅう）",
+    "Significado": "currently; during; at some point; throughout; before the end of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "dake",
+    "Forma en Kana": "だけ",
+    "Significado": "as much as ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "dake de naku",
+    "Forma en Kana": "だけでなく",
+    "Significado": "not only… but also ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "dakedo",
+    "Forma en Kana": "だけど",
+    "Significado": "but; however; although; regarding ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "darake",
+    "Forma en Kana": "だらけ",
+    "Significado": "full of; covered with; a lot of (something undesirable)"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "donna ni~temo",
+    "Forma en Kana": "どんなに～ても",
+    "Significado": "no matter how (much)"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "doushitemo",
+    "Forma en Kana": "どうしても",
+    "Significado": "no matter what; at any cost; after all ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "furi o suru",
+    "Forma en Kana": "ふりをする",
+    "Significado": "to pretend; to act as if ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "futo",
+    "Forma en Kana": "ふと",
+    "Significado": "suddenly; accidentally; unexpectedly; unintentionally ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "gachi",
+    "Forma en Kana": "がち",
+    "Significado": "tend to; tendency to; frequently; often; to do something easily"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "gatai",
+    "Forma en Kana": "がたい",
+    "Significado": "very difficult to; hard to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "gimi",
+    "Forma en Kana": "気味（ぎみ）",
+    "Significado": "-like; -looking; -looked; tending to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "goto ni",
+    "Forma en Kana": "ごとに",
+    "Significado": "each; every; at intervals of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "hodo",
+    "Forma en Kana": "ほど",
+    "Significado": "degree; extent; bounds; upper limit"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "hodo~nai",
+    "Forma en Kana": "ほど～ない",
+    "Significado": "is not as… as ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ichido ni",
+    "Forma en Kana": "一度に（いちどに）",
+    "Significado": "all at once"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ikura~temo",
+    "Forma en Kana": "いくら～ても",
+    "Significado": "no matter how ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ippou da",
+    "Forma en Kana": "一方だ（いっぽうだ）",
+    "Significado": "more and more; continue to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ittai",
+    "Forma en Kana": "一体（いったい）",
+    "Significado": "emphasis; what on earth; what in the world"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "janai",
+    "Forma en Kana": "じゃない",
+    "Significado": "maybe; most likely; confirmation of information; express surprise towards listener"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ka nani ka",
+    "Forma en Kana": "か何か（かなにか）",
+    "Significado": "or something ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kakeru",
+    "Forma en Kana": "かける",
+    "Significado": "half-; not yet finished; in the middle of~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kara~ni kakete",
+    "Forma en Kana": "から〜にかけて",
+    "Significado": "through; from [A] to [B]"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kawari ni",
+    "Forma en Kana": "代わりに（かわりに）",
+    "Significado": "instead of; as a substitute for​; in exchange for; in return for"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kekka",
+    "Forma en Kana": "結果（けっか）",
+    "Significado": "as a result of; after ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kekkyoku",
+    "Forma en Kana": "結局（けっきょく）",
+    "Significado": "after all; eventually; in the end ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kesshite~nai",
+    "Forma en Kana": "決して～ない（けっして～ない）",
+    "Significado": "never; by no means ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kirenai",
+    "Forma en Kana": "切れない（きれない）",
+    "Significado": "unable to do; too much to finish/complete"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kiri",
+    "Forma en Kana": "きり",
+    "Significado": "only; just; since; after ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kiru",
+    "Forma en Kana": "切る（きる）",
+    "Significado": "to do something completely to the end"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kke",
+    "Forma en Kana": "っけ",
+    "Significado": "a casual suffix to confirm something you are trying to remember"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "komu",
+    "Forma en Kana": "込む（こむ）",
+    "Significado": "to do something for a long time or to move something inside"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "koso",
+    "Forma en Kana": "こそ",
+    "Significado": "for sure (emphasize preceding word); precisely; definitely ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "koto",
+    "Forma en Kana": "こと",
+    "Significado": "(must) do"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "koto kara",
+    "Forma en Kana": "ことから",
+    "Significado": "from the fact that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "koto ni natteiru",
+    "Forma en Kana": "ことになっている",
+    "Significado": "expresses a standard, rule or expectation"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "koto wa nai",
+    "Forma en Kana": "ことはない",
+    "Significado": "there is no need to; (something) never happens; there is no possibility that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "koto wa~ga",
+    "Forma en Kana": "ことは～が",
+    "Significado": "although; but ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kurai / gurai",
+    "Forma en Kana": "くらい / ぐらい",
+    "Significado": "approximately; about; around; to the extent ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "kuse ni",
+    "Forma en Kana": "くせに",
+    "Significado": "and yet; though; in spite of; despite ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "maru de",
+    "Forma en Kana": "まるで",
+    "Significado": "as if; as though; just like ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "masaka",
+    "Forma en Kana": "まさか",
+    "Significado": "there's no way; that's impossible; you must be joking"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "metta ni~nai",
+    "Forma en Kana": "めったに～ない",
+    "Significado": "hardly; rarely; seldom"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "mo~ba~mo",
+    "Forma en Kana": "も～ば～も",
+    "Significado": "and; also; as well; either/or; neither/nor"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "moshika shitara",
+    "Forma en Kana": "もしかしたら",
+    "Significado": "perhaps; maybe; perchance; by any chance ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "moshimo~tara",
+    "Forma en Kana": "もしも〜たら",
+    "Significado": "if; in the case; supposing ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "muke",
+    "Forma en Kana": "向け（むけ）",
+    "Significado": "intended for; aimed at ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "muki",
+    "Forma en Kana": "向き（むき）",
+    "Significado": "suitable for ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "mushiro",
+    "Forma en Kana": "むしろ",
+    "Significado": "rather; instead; better ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "nagara mo",
+    "Forma en Kana": "ながらも",
+    "Significado": "but; although; despite ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "nai koto wa nai",
+    "Forma en Kana": "ないことはない",
+    "Significado": "can do; is not impossible to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "naito",
+    "Forma en Kana": "ないと",
+    "Significado": "must do; unless/if you don't ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "nakanaka",
+    "Forma en Kana": "なかなか",
+    "Significado": "very; quite; pretty; rather; just not ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "nanka / nante / nado",
+    "Forma en Kana": "なんか / なんて / など",
+    "Significado": "give examples; show modesty; make light of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "naosu",
+    "Forma en Kana": "直す（なおす）",
+    "Significado": "to do something again; to do over"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "naru beku",
+    "Forma en Kana": "なるべく",
+    "Significado": "as much as possible"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "nazenara",
+    "Forma en Kana": "なぜなら",
+    "Significado": "because; the reason is; if you want to know why"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ndatte",
+    "Forma en Kana": "んだって",
+    "Significado": "I hear that; heard that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni chigai nai",
+    "Forma en Kana": "に違いない（にちがいない）",
+    "Significado": "I’m sure/ certain; no doubt that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni hanshite",
+    "Forma en Kana": "に反して（にはんして）",
+    "Significado": "against; contrary to; in contrast to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni kakete",
+    "Forma en Kana": "にかけて",
+    "Significado": "over (a period); through; concerning; regarding ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni kan suru / ni kan shite",
+    "Forma en Kana": "に関する / に関して（にかんする / にかんして）",
+    "Significado": "about; regarding; related to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni kawatte / ni kawari",
+    "Forma en Kana": "にかわって / にかわり",
+    "Significado": "instead of; replacing; on behalf of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni kurabete",
+    "Forma en Kana": "に比べて（にくらべて）",
+    "Significado": "compared to; in comparison to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni nareru",
+    "Forma en Kana": "に慣れる（になれる）",
+    "Significado": "to be used to something"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni oite / ni okeru",
+    "Forma en Kana": "において / における",
+    "Significado": "in; at (place); regarding; as for; in relation to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni shitagatte",
+    "Forma en Kana": "にしたがって",
+    "Significado": "as; therefore; in accordance with; according to; consequently ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni shite mo",
+    "Forma en Kana": "にしても",
+    "Significado": "even if; even though; regardless of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni shite wa",
+    "Forma en Kana": "にしては",
+    "Significado": "for; considering it’s (something or someone)"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni taishite",
+    "Forma en Kana": "に対して（にたいして）",
+    "Significado": "towards; against; regarding; in contrast with​ ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni totte",
+    "Forma en Kana": "にとって",
+    "Significado": "to; for; concerning; as far as ... is concerned; regarding ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni tsuite",
+    "Forma en Kana": "について",
+    "Significado": "concerning; regarding; about; on ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni tsurete",
+    "Forma en Kana": "につれて",
+    "Significado": "as; in proportion to; with; as… then ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni wa",
+    "Forma en Kana": "には",
+    "Significado": "for the purpose of; in order to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni yoru to/ni yoreba",
+    "Forma en Kana": "によると /によれば",
+    "Significado": "according to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ni yotte / ni yoru",
+    "Forma en Kana": "によって / による",
+    "Significado": "by means of; due to; owing to; because of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "no deshou ka",
+    "Forma en Kana": "のでしょうか",
+    "Significado": "ask a question in a polite way"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "o chuushin ni",
+    "Forma en Kana": "を中心に（をちゅうしんに）",
+    "Significado": "focused on; centered on"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "o hajime",
+    "Forma en Kana": "をはじめ",
+    "Significado": "for example; starting with ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "o komete",
+    "Forma en Kana": "を込めて（をこめて）",
+    "Significado": "filled with; full of"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "o tsuujite / o tooshite",
+    "Forma en Kana": "を通じて / を通して（をつうじて / をとおして）",
+    "Significado": "through; via; throughout; by ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "okage de",
+    "Forma en Kana": "おかげで",
+    "Significado": "thanks to; owing to; because of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ppanashi",
+    "Forma en Kana": "っぱなし",
+    "Significado": "leaving (something) on; leaving (something) still in use​"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ppoi",
+    "Forma en Kana": "っぽい",
+    "Significado": "seems like; somewhat; -ish; easily does; often does ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sae",
+    "Forma en Kana": "さえ",
+    "Significado": "even; so much as; not even"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sae~ba",
+    "Forma en Kana": "さえ～ば",
+    "Significado": "if only; as long as ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sai ni",
+    "Forma en Kana": "際に（さいに）",
+    "Significado": "when; at the time of; in the case of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "saichuu ni",
+    "Forma en Kana": "最中に（さいちゅうに）",
+    "Significado": "while; during; in the middle of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sara ni",
+    "Forma en Kana": "さらに",
+    "Significado": "furthermore; again; more and more ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sate",
+    "Forma en Kana": "さて",
+    "Significado": "conjunction: well; now; then ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sei de",
+    "Forma en Kana": "せいで",
+    "Significado": "because of; due to; as a result of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "seizei",
+    "Forma en Kana": "せいぜい",
+    "Significado": "at the most; at best; to the utmost"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "shibaraku",
+    "Forma en Kana": "しばらく",
+    "Significado": "for a moment; for a while; for the time being"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "shikanai",
+    "Forma en Kana": "しかない",
+    "Significado": "have no choice but ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sono tame ni",
+    "Forma en Kana": "そのために",
+    "Significado": "hence; for that reason; because of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "soretomo",
+    "Forma en Kana": "それとも",
+    "Significado": "or; or else ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sou mo nai /sou ni nai",
+    "Forma en Kana": "そうもない /そうにない",
+    "Significado": "very unlikely to; showing no signs of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sude ni",
+    "Forma en Kana": "すでに",
+    "Significado": "something has already been done/taken place; is already the case"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "sunawachi",
+    "Forma en Kana": "すなわち",
+    "Significado": "in other words; namely ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "suuryou + wa",
+    "Forma en Kana": "数量 + は（すうりょう + は）",
+    "Significado": "at least ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ta mono da",
+    "Forma en Kana": "たものだ",
+    "Significado": "used to do; would often do"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ta totan",
+    "Forma en Kana": "たとたん",
+    "Significado": "as soon as; just as ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tabi ni",
+    "Forma en Kana": "たびに",
+    "Significado": "whenever; every time ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tame ni",
+    "Forma en Kana": "ために",
+    "Significado": "for; in order to; for the benefit of; because of; as a result of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tashika ni",
+    "Forma en Kana": "確かに（たしかに）",
+    "Significado": "surely, certainly ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tate",
+    "Forma en Kana": "たて",
+    "Significado": "just done; freshly done; newly done"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tatoe~temo",
+    "Forma en Kana": "たとえ～ても",
+    "Significado": "even if… is the case"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tatoeba",
+    "Forma en Kana": "例えば（たとえば）",
+    "Significado": "for example; for instance ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tatte",
+    "Forma en Kana": "たって",
+    "Significado": "even if; even though; no matter how ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "te bakari iru",
+    "Forma en Kana": "てばかりいる",
+    "Significado": "only; nothing but ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "te goran",
+    "Forma en Kana": "てごらん",
+    "Significado": "(please) try to; (please) look"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "te hajimete",
+    "Forma en Kana": "てはじめて",
+    "Significado": "not until; only after [x] did I"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "te kara de nai to",
+    "Forma en Kana": "てからでないと",
+    "Significado": "must first do; cannot do without first doing ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "te shou ga nai/te shikata ga nai",
+    "Forma en Kana": "てしょうがない・てしかたがない",
+    "Significado": "can't help but; very; extremely ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "te sumu",
+    "Forma en Kana": "て済む（てすむ）",
+    "Significado": "sufficient by; no problem to; resolve by ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "te wa ikenai kara",
+    "Forma en Kana": "てはいけないから",
+    "Significado": "in order to not~; to prevent a negative situation"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "teiru baai janai",
+    "Forma en Kana": "ている場合じゃない（ているばあいじゃない）",
+    "Significado": "this is no time to be doing ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "teki",
+    "Forma en Kana": "的（てき）",
+    "Significado": "change noun into na-adjective or adverb"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "temo hajimaranai",
+    "Forma en Kana": "ても始まらない（てもはじまらない）",
+    "Significado": "even if you... it’s no use; there is no point to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "temo kamawanai",
+    "Forma en Kana": "ても構わない（てもかまわない）",
+    "Significado": "it doesn't matter if ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "temo shou ga nai / temo shikata ga nai",
+    "Forma en Kana": "てもしょうがない / てもしかたがない",
+    "Significado": "there's no point to~; it's no use to~; it cannot be helped"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to ieba",
+    "Forma en Kana": "と言えば（といえば）",
+    "Significado": "speaking of; when you talk of; when you say; if it were the case that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to ii / tara ii",
+    "Forma en Kana": "といい / たらいい",
+    "Significado": "it would be nice if; should; I hope ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to ittemo",
+    "Forma en Kana": "といっても",
+    "Significado": "although I say; although one might say ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to iu koto da",
+    "Forma en Kana": "ということだ",
+    "Significado": "I heard; it means that; in other words ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to iu nowa",
+    "Forma en Kana": "というのは",
+    "Significado": "this means; the meaning of … is; because; that is to say ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to iu to",
+    "Forma en Kana": "と言うと（というと）",
+    "Significado": "speaking of; when you talk of; when you say ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to iu yori",
+    "Forma en Kana": "というより",
+    "Significado": "rather than ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to mieru / to miete",
+    "Forma en Kana": "とみえる / とみえて",
+    "Significado": "it seems that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to sureba / to shitara / to suru to",
+    "Forma en Kana": "とすれば・としたら・とすると",
+    "Significado": "in the case of~; assuming~; if A then B"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "to tomo ni",
+    "Forma en Kana": "と共に（とともに）",
+    "Significado": "together with; at the same time as; as well as ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tochuu de / tochuu ni",
+    "Forma en Kana": "途中で/途中に（とちゅうで/とちゅうに）",
+    "Significado": "on the way; in the middle of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tokoro de",
+    "Forma en Kana": "ところで",
+    "Significado": "by the way ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tokoro ga",
+    "Forma en Kana": "ところが",
+    "Significado": "even so; however; even though ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "toori ni",
+    "Forma en Kana": "とおりに",
+    "Significado": "in the same way as; in the way; as ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "toosu",
+    "Forma en Kana": "通す（とおす）",
+    "Significado": "to do until the end; to continually do; through ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "toshite",
+    "Forma en Kana": "として",
+    "Significado": "as; in the role of ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "totemo~nai",
+    "Forma en Kana": "とても～ない",
+    "Significado": "cannot possibly be; hardly ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "towa kagiranai",
+    "Forma en Kana": "とは限らない（とはかぎらない）",
+    "Significado": "not necessarily so; is not always true"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tsui",
+    "Forma en Kana": "つい",
+    "Significado": "accidentally; unintentionally; by mistake"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tsui ni",
+    "Forma en Kana": "ついに",
+    "Significado": "finally; at last; in the end ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tsuide ni",
+    "Forma en Kana": "ついでに",
+    "Significado": "while, incidentally, at the same time, on the way ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tsumari",
+    "Forma en Kana": "つまり",
+    "Significado": "in other words; in summary; in short ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tsumori datta",
+    "Forma en Kana": "つもりだった",
+    "Significado": "I thought I~; I believe I~; was planning to~; was intending to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "tsumori de",
+    "Forma en Kana": "つもりで",
+    "Significado": "with the intention of doing ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "uchi ni",
+    "Forma en Kana": "うちに",
+    "Significado": "while; before ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ue de",
+    "Forma en Kana": "上で（うえで）",
+    "Significado": "upon; after; when; for; in order to"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "ue ni",
+    "Forma en Kana": "上に（うえに）",
+    "Significado": "as well; besides; in addition to; not only… but also ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wa betsu toshite",
+    "Forma en Kana": "は別として（はべつとして）",
+    "Significado": "aside from; apart from; except for; whether or not ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wa mochiron",
+    "Forma en Kana": "はもちろん",
+    "Significado": "not to mention; not only ... but also ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wa~de yuumei",
+    "Forma en Kana": "は～で有名（は～でゆうめい）",
+    "Significado": "famous for ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wake da",
+    "Forma en Kana": "わけだ",
+    "Significado": "for that reason; no wonder; as you’d expect; the fact is; so you mean ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wake dewa nai",
+    "Forma en Kana": "わけではない",
+    "Significado": "it doesn’t mean that; it is not the case that; I don’t mean that; it is not true that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wake ga nai",
+    "Forma en Kana": "わけがない",
+    "Significado": "there is no way that; it is impossible to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wake niwa ikanai",
+    "Forma en Kana": "わけにはいかない",
+    "Significado": "must not; cannot afford to; must, have no choice but to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wari ni",
+    "Forma en Kana": "割に（わりに）",
+    "Significado": "considering ~; for ~; despite ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wazato",
+    "Forma en Kana": "わざと",
+    "Significado": "on purpose; intentionally ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "wazawaza",
+    "Forma en Kana": "わざわざ",
+    "Significado": "to go to the trouble of; to go out of one's way to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "yorimo",
+    "Forma en Kana": "よりも",
+    "Significado": "in comparison to; rather than; more than ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "you ga nai",
+    "Forma en Kana": "ようがない",
+    "Significado": "there is no way to; it’s impossible to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "you na ki ga suru",
+    "Forma en Kana": "ような気がする（ようなきがする）",
+    "Significado": "have a feeling that; feels like; seems like; think that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "you ni",
+    "Forma en Kana": "ように",
+    "Significado": "in order to, so that ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "you ni mieru",
+    "Forma en Kana": "ように見える（ようにみえる）",
+    "Significado": "to look; to seem; to appear ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "you to shinai",
+    "Forma en Kana": "ようとしない",
+    "Significado": "not try to; not make an effort to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "you to suru",
+    "Forma en Kana": "ようとする",
+    "Significado": "try to; attempt to; be about to ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "zuni",
+    "Forma en Kana": "ずに",
+    "Significado": "without doing ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "zuni wa irarenai",
+    "Forma en Kana": "ずにはいられない",
+    "Significado": "can’t help but feel; can’t help but do; must do ~"
+  },
+  {
+    "Nivel": "N3",
+    "Estructura": "zutsu",
+    "Forma en Kana": "ずつ",
+    "Significado": "apiece; each; at a time"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ageku",
+    "Forma en Kana": "あげく",
+    "Significado": "to end up; in the end; finally; after all ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "aruiwa",
+    "Forma en Kana": "あるいは",
+    "Significado": "or; either; maybe; perhaps; possibly ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "bakari",
+    "Forma en Kana": "ばかり",
+    "Significado": "about, approximately ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "bakari da",
+    "Forma en Kana": "ばかりだ",
+    "Significado": "continue to (go in negative direction)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "bakari ka",
+    "Forma en Kana": "ばかりか",
+    "Significado": "not only... but also; as well as ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "bakari ni",
+    "Forma en Kana": "ばかりに",
+    "Significado": "simply because; on account of~ (negative result)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "chinamini",
+    "Forma en Kana": "ちなみに",
+    "Significado": "by the way; in this connection; incidentally; (conjunction)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "chitto mo~nai",
+    "Forma en Kana": "ちっとも～ない",
+    "Significado": "(not) at all; (not) in the least ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "dake atte",
+    "Forma en Kana": "だけあって",
+    "Significado": "being the case; precisely because; as expected from ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "dake mashi da",
+    "Forma en Kana": "だけましだ",
+    "Significado": "it’s better than; one should feel grateful for ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "dake ni",
+    "Forma en Kana": "だけに",
+    "Significado": "being the case; precisely because; as one would expect"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "dake no koto wa aru",
+    "Forma en Kana": "だけのことはある",
+    "Significado": "no wonder; as expected of; not ... for nothing; not ... with nothing to show for it"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "dake wa",
+    "Forma en Kana": "だけは",
+    "Significado": "to do all that one can"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "datte",
+    "Forma en Kana": "だって",
+    "Significado": "because; but; after all; even; too"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "de shika nai",
+    "Forma en Kana": "でしかない",
+    "Significado": "merely; nothing but; no more than; there is only ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "dokoro dewa nai",
+    "Forma en Kana": "どころではない",
+    "Significado": "not the time for; not the place for; far from; anything but ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "dokoro ka",
+    "Forma en Kana": "どころか",
+    "Significado": "far from; anything but; let alone; not to mention; much less ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "dou yara",
+    "Forma en Kana": "どうやら",
+    "Significado": "possibly; apparently; seems like; somehow; barely ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "douse",
+    "Forma en Kana": "どうせ",
+    "Significado": "anyhow; in any case; at any rate; after all; no matter what"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "enai",
+    "Forma en Kana": "得ない（えない）",
+    "Significado": "unable to; cannot; it is not possible to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "eru / uru",
+    "Forma en Kana": "得る（える / うる）",
+    "Significado": "can; to be able to; is possible to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "futatabi",
+    "Forma en Kana": "再び（ふたたび）",
+    "Significado": "again; once more"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "fuu ni",
+    "Forma en Kana": "ふうに",
+    "Significado": "this way; that way; in such a way; how"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ga kikkake de / o kikkake ni",
+    "Forma en Kana": "がきっかけで / をきっかけに",
+    "Significado": "with… as a start; as a result of; taking advantage of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ge",
+    "Forma en Kana": "げ",
+    "Significado": "looks like; seems like; appears to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "gyaku ni",
+    "Forma en Kana": "逆に（ぎゃくに）",
+    "Significado": "conversely; on the contrary ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "hanmen",
+    "Forma en Kana": "反面（はんめん）",
+    "Significado": "while, although; on the other hand~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "hatashite",
+    "Forma en Kana": "果たして（はたして）",
+    "Significado": "as was expected; sure enough; really; actually ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ichiou",
+    "Forma en Kana": "一応（いちおう）",
+    "Significado": "more or less; pretty much; roughly; tentatively ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "igai",
+    "Forma en Kana": "以外（いがい）",
+    "Significado": "with the exception of; excepting ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ijou ni",
+    "Forma en Kana": "以上に（いじょうに）",
+    "Significado": "more than; not less than; beyond ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ijou wa",
+    "Forma en Kana": "以上は（いじょうは）",
+    "Significado": "because; since; seeing that ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ikinari",
+    "Forma en Kana": "いきなり",
+    "Significado": "abruptly; suddenly; all of a sudden; without warning"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ikki ni",
+    "Forma en Kana": "一気に（いっきに）",
+    "Significado": "in one go; without stopping; all at once; immediately; instantly; right away ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ippou de",
+    "Forma en Kana": "一方で（いっぽうで）",
+    "Significado": "on one hand, on the other hand; although ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "iwayuru",
+    "Forma en Kana": "いわゆる",
+    "Significado": "what is called; as it is called; the so-called; so to speak​"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "iyoiyo",
+    "Forma en Kana": "いよいよ",
+    "Significado": "at last; finally; beyond doubt"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "jou",
+    "Forma en Kana": "上（じょう）",
+    "Significado": "for the sake of; from the standpoint of; as a matter of; in terms of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ka no you ni",
+    "Forma en Kana": "かのように",
+    "Significado": "as if; just like ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ka to omottara",
+    "Forma en Kana": "かと思ったら（かとおもったら）",
+    "Significado": "just when; no sooner than ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ka~nai ka no uchi ni",
+    "Forma en Kana": "か～ないかのうちに",
+    "Significado": "just as; right after; as soon as ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kaette",
+    "Forma en Kana": "かえって",
+    "Significado": "on the contrary; rather; all the more; surprisingly ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kagiri",
+    "Forma en Kana": "限り（かぎり）",
+    "Significado": "as long as; while… is the case; as far as; while ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kai ga aru",
+    "Forma en Kana": "甲斐がある（かいがある）",
+    "Significado": "it’s worth one’s efforts to do something"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kanenai",
+    "Forma en Kana": "かねない",
+    "Significado": "(someone) might do something; something might happen"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kaneru",
+    "Forma en Kana": "かねる",
+    "Significado": "unable to do something; can’t do something"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kara iu to",
+    "Forma en Kana": "から言うと（からいうと）",
+    "Significado": "in terms of; from the point of view of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kara koso",
+    "Forma en Kana": "からこそ",
+    "Significado": "precisely because ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kara miru to",
+    "Forma en Kana": "から見ると（からみると）",
+    "Significado": "from the point of view of; by the look of; judging from ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kara niwa",
+    "Forma en Kana": "からには",
+    "Significado": "now that; since; so long as; because ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kara shite",
+    "Forma en Kana": "からして",
+    "Significado": "judging from; based on; since; from; even ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kara suru to / kara sureba",
+    "Forma en Kana": "からすると / からすれば",
+    "Significado": "judging from; considering; by the look of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kara to itte",
+    "Forma en Kana": "からと言って（からといって）",
+    "Significado": "just because; even if; even though ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kkonai",
+    "Forma en Kana": "っこない",
+    "Significado": "no chance of; … is definitely not possible"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "koto da",
+    "Forma en Kana": "ことだ",
+    "Significado": "should do~ (used for suggestions or giving advice)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "koto dakara",
+    "Forma en Kana": "ことだから",
+    "Significado": "because; since ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "koto ka",
+    "Forma en Kana": "ことか",
+    "Significado": "how…!; what…!"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "koto naku",
+    "Forma en Kana": "ことなく",
+    "Significado": "without doing something even once"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "koto ni",
+    "Forma en Kana": "ことに",
+    "Significado": "emphasize speaker's feelings; to my (surprise/etc)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "koto niwa naranai",
+    "Forma en Kana": "ことにはならない",
+    "Significado": "just because… doesn’t mean ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "kuse shite",
+    "Forma en Kana": "くせして",
+    "Significado": "although; despite the fact that; even though ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "madashimo",
+    "Forma en Kana": "まだしも",
+    "Significado": "rather; better​ ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mai",
+    "Forma en Kana": "まい",
+    "Significado": "will not; will probably not; intend not to; must not ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mama ni",
+    "Forma en Kana": "ままに",
+    "Significado": "as, to do as ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mattaku~nai",
+    "Forma en Kana": "全く～ない（まったく～ない）",
+    "Significado": "not at all ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mo kamawazu",
+    "Forma en Kana": "もかまわず",
+    "Significado": "without caring; without worrying about ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mo touzen da",
+    "Forma en Kana": "も当然だ（もとうぜんだ）",
+    "Significado": "it’s only natural; no wonder; might as well ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mono / mon",
+    "Forma en Kana": "もの / もん",
+    "Significado": "because; indicates reason/ excuse/ dissatisfaction"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mono da",
+    "Forma en Kana": "ものだ",
+    "Significado": "describe feeling; express memories; state fact"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mono dakara",
+    "Forma en Kana": "ものだから",
+    "Significado": "so; therefore; the reason for something"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mono dewa nai",
+    "Forma en Kana": "ものではない",
+    "Significado": "shouldn’t do something; it’s impossible to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mono ga aru",
+    "Forma en Kana": "ものがある",
+    "Significado": "there is such a thing; to be the case that​; feels like ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mono ka / mon ka",
+    "Forma en Kana": "ものか / もんか",
+    "Significado": "as if (something untrue were actually true); there's no way ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mono nara",
+    "Forma en Kana": "ものなら",
+    "Significado": "if I/we could; if [A] is possible, then [B]; if one can do something, then ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "monono",
+    "Forma en Kana": "ものの",
+    "Significado": "but; although; even though ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "motto mo",
+    "Forma en Kana": "もっとも",
+    "Significado": "but then; although; though ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "mou sukoshi de",
+    "Forma en Kana": "もう少しで（もうすこしで）",
+    "Significado": "almost; nearly, close to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nai dewa irarenai",
+    "Forma en Kana": "ないではいられない",
+    "Significado": "can’t help but feel; can’t help but do ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nai koto niwa~nai",
+    "Forma en Kana": "ないことには～ない",
+    "Significado": "unless you ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "naka o / naka dewa",
+    "Forma en Kana": "中を / 中では（なかを / なかでは）",
+    "Significado": "in; on; in the midst of; when; while ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "naku wa nai / naku mo nai",
+    "Forma en Kana": "なくはない / なくもない",
+    "Significado": "it’s not that; I may (double negative)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nakute sumu",
+    "Forma en Kana": "なくて済む（なくてすむ）",
+    "Significado": "get by without doing ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nani mo~nai",
+    "Forma en Kana": "何も～ない（なにも～ない）",
+    "Significado": "nothing; (not) ~ at all; there’s no need to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nao",
+    "Forma en Kana": "なお",
+    "Significado": "still; yet​; furthermore; in addition ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "neba naranai",
+    "Forma en Kana": "ねばならない",
+    "Significado": "have to do; must; should ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni atatte",
+    "Forma en Kana": "にあたって",
+    "Significado": "at the time; on the occasion of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni hoka naranai",
+    "Forma en Kana": "にほかならない",
+    "Significado": "nothing but; none other than ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni kagirazu",
+    "Forma en Kana": "に限らず（にかぎらず）",
+    "Significado": "not just; not only... but also ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni kagiru",
+    "Forma en Kana": "に限る（にかぎる）",
+    "Significado": "is best; nothing is better than ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni kagitte",
+    "Forma en Kana": "に限って（にかぎって）",
+    "Significado": "only; in particular ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni kakawarazu",
+    "Forma en Kana": "に関わらず（にかかわらず）",
+    "Significado": "in spite of; regardless of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni kakawaru",
+    "Forma en Kana": "に関わる（にかかわる）",
+    "Significado": "to relate to; to have to do with; relating to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni kimatte iru",
+    "Forma en Kana": "に決まっている（にきまっている）",
+    "Significado": "certainly; I’m sure/certain that; it must be the case that ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni koshita koto wa nai",
+    "Forma en Kana": "に越したことはない（にこしたことはない）",
+    "Significado": "it’s best that, there’s nothing better than ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni kotaete",
+    "Forma en Kana": "に応えて（にこたえて）",
+    "Significado": "in response to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni kuwaete",
+    "Forma en Kana": "に加えて（にくわえて）",
+    "Significado": "in addition ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni motozuite",
+    "Forma en Kana": "に基づいて（にもとづいて）",
+    "Significado": "based on; on the basis of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni mukatte",
+    "Forma en Kana": "に向かって（にむかって）",
+    "Significado": "to face; to go towards; to head to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni oujite",
+    "Forma en Kana": "に応じて（におうじて）",
+    "Significado": "depending on; in accordance with ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni saishite",
+    "Forma en Kana": "に際して（にさいして）",
+    "Significado": "on the occasion of; at the time of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni sakidachi",
+    "Forma en Kana": "に先立ち（にさきだち）",
+    "Significado": "before; prior to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni seyo/ ni shiro",
+    "Forma en Kana": "にせよ/ にしろ",
+    "Significado": "even if; regardless; whether... or ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni shiro~ni shiro",
+    "Forma en Kana": "にしろ～にしろ",
+    "Significado": "whether… or ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni shitara / ni sureba",
+    "Forma en Kana": "にしたら / にすれば",
+    "Significado": "from one’s perspective; from the point of view of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni shitemo~ni shitemo",
+    "Forma en Kana": "にしても～にしても",
+    "Significado": "regardless of whether ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni sotte",
+    "Forma en Kana": "に沿って（にそって）",
+    "Significado": "along with; in accordance with ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni soui nai",
+    "Forma en Kana": "に相違ない（にそういない）",
+    "Significado": "without a doubt; certain; sure"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni suginai",
+    "Forma en Kana": "に過ぎない（にすぎない）",
+    "Significado": "no more than; just; merely; only ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni tomonatte",
+    "Forma en Kana": "に伴って（にともなって）",
+    "Significado": "as; due to; with; along with; following; accordingly ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni tsuke",
+    "Forma en Kana": "につけ",
+    "Significado": "every time; whenever; as; whether; in (either case)​"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni tsuki",
+    "Forma en Kana": "につき",
+    "Significado": "due to; because of; per; each"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ni watatte",
+    "Forma en Kana": "にわたって",
+    "Significado": "throughout; over a period of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nimo kakawarazu",
+    "Forma en Kana": "にも関わらず（にもかかわらず）",
+    "Significado": "despite; in spite of; nevertheless; although ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nite",
+    "Forma en Kana": "にて",
+    "Significado": "in, at, with, by (formal particle)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "no mo motto mo da",
+    "Forma en Kana": "のももっともだ",
+    "Significado": "no wonder; …is only natural"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "no moto de",
+    "Forma en Kana": "の下で（のもとで）",
+    "Significado": "under; with ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "no ue de wa",
+    "Forma en Kana": "の上では（のうえでは）",
+    "Significado": "according to; from the viewpoint of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nomi",
+    "Forma en Kana": "のみ",
+    "Significado": "only; nothing but​"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nominarazu",
+    "Forma en Kana": "のみならず",
+    "Significado": "not only; besides; as well as ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nu",
+    "Forma en Kana": "ぬ",
+    "Significado": "negative verb conjugation; traditional version of ない"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nuki ni shite / nuki de",
+    "Forma en Kana": "抜きにして / 抜きで（ぬきにして/ ぬきで）",
+    "Significado": "without; leaving out; cutting out ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "nuku",
+    "Forma en Kana": "抜く（ぬく）",
+    "Significado": "to do something from beginning to end; completely, extremely ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "o keiki ni",
+    "Forma en Kana": "を契機に（をけいきに）",
+    "Significado": "as a good opportunity/chance to; as a result of; make the best of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "o megutte",
+    "Forma en Kana": "をめぐって",
+    "Significado": "concerning; in regard to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "o moto ni",
+    "Forma en Kana": "をもとに",
+    "Significado": "based on; derived from; building on; beginning with ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "o nozoite",
+    "Forma en Kana": "を除いて（をのぞいて）",
+    "Significado": "except; with the exception of; excluding ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "o towazu",
+    "Forma en Kana": "を問わず（をとわず）",
+    "Significado": "regardless of; irrespective of; no matter"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "o~negau",
+    "Forma en Kana": "お～願う（お～ねがう）",
+    "Significado": "please do; could you please…; I ask of you to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "omake ni",
+    "Forma en Kana": "おまけに",
+    "Significado": "to make matters worse; besides; what's more; in addition; on top of that​"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "osoraku",
+    "Forma en Kana": "恐らく（おそらく）",
+    "Significado": "perhaps; likely; probably; I dare say ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "osore ga aru",
+    "Forma en Kana": "恐れがある（おそれがある）",
+    "Significado": "it is feared that; to be in danger of; to be liable to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "oyobi",
+    "Forma en Kana": "及び（および）",
+    "Significado": "and; as well as ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "roku ni~nai",
+    "Forma en Kana": "ろくに～ない",
+    "Significado": "not well; not enough; improperly; insufficiently; unsatisfactorily​ ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "saiwai na koto ni",
+    "Forma en Kana": "幸いなことに（さいわいなことに）",
+    "Significado": "fortunately; luckily; thankfully ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sei ka",
+    "Forma en Kana": "せいか",
+    "Significado": "perhaps because ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sekkaku",
+    "Forma en Kana": "せっかく",
+    "Significado": "especially; (thank you for) troubling to, going to great pains for ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "semete",
+    "Forma en Kana": "せめて",
+    "Significado": "at least; at most ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "shidai",
+    "Forma en Kana": "次第（しだい）",
+    "Significado": "as soon as, dependent upon"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "shidai de",
+    "Forma en Kana": "次第で（しだいで）",
+    "Significado": "depending on; so ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "shidai ni",
+    "Forma en Kana": "次第に（しだいに）",
+    "Significado": "gradually (progress into a state); in sequence; in order"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "shikamo",
+    "Forma en Kana": "しかも",
+    "Significado": "moreover; furthermore; and yet; what’s more ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sono ue",
+    "Forma en Kana": "その上（そのうえ）",
+    "Significado": "besides; in addition; furthermore ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sore na noni",
+    "Forma en Kana": "それなのに",
+    "Significado": "and yet; despite this; but even so ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sore nara",
+    "Forma en Kana": "それなら",
+    "Significado": "if that’s the case; if so ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sore ni shitemo",
+    "Forma en Kana": "それにしても",
+    "Significado": "nevertheless; at any rate; even so; be that as it may ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sou ieba",
+    "Forma en Kana": "そう言えば（そういえば）",
+    "Significado": "come to think of it; now that you mention it ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sou suru to",
+    "Forma en Kana": "そうすると",
+    "Significado": "having done that; if that is done; if it is done in that way"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sue ni",
+    "Forma en Kana": "末に（すえに）",
+    "Significado": "finally; after; following; at the end/ conclusion of ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sukoshi mo~nai",
+    "Forma en Kana": "少しも～ない（すこしも～ない）",
+    "Significado": "not one bit; not even a little ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "sukunaku tomo",
+    "Forma en Kana": "少なくとも（すくなくとも）",
+    "Significado": "at least ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tadachi ni",
+    "Forma en Kana": "直ちに（ただちに）",
+    "Significado": "at once; immediately; directly; in person; automatically ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tamae",
+    "Forma en Kana": "たまえ",
+    "Significado": "do~; order somebody to do something"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te bakari wa irarenai",
+    "Forma en Kana": "てばかりはいられない",
+    "Significado": "can’t keep doing ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te demo",
+    "Forma en Kana": "てでも",
+    "Significado": "even if I have to; by all means ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te irai",
+    "Forma en Kana": "て以来（ていらい）",
+    "Significado": "since; henceforth ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te ite wa",
+    "Forma en Kana": "ていては",
+    "Significado": "if one keeps doing ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te koso",
+    "Forma en Kana": "てこそ",
+    "Significado": "now that; since (something happened)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te made",
+    "Forma en Kana": "てまで",
+    "Significado": "even; will go far so as to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te naranai",
+    "Forma en Kana": "てならない",
+    "Significado": "can't help but; dying to; extremely ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te tamaranai",
+    "Forma en Kana": "てたまらない",
+    "Significado": "can't help but; dying to; extremely ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "te touzen da",
+    "Forma en Kana": "て当然だ（てとうぜんだ）",
+    "Significado": "natural; as a matter of course"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tewa / dewa",
+    "Forma en Kana": "ては / では",
+    "Significado": "whenever; if; when~; repetitive action"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tewa irarenai",
+    "Forma en Kana": "てはいられない",
+    "Significado": "can’t afford to; unable to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tewa naranai",
+    "Forma en Kana": "てはならない",
+    "Significado": "must not; cannot; should not ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tewa~tewa",
+    "Forma en Kana": "ては～ては",
+    "Significado": "repetitive situations/actions"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "to douji ni",
+    "Forma en Kana": "と同時に（とどうじに）",
+    "Significado": "at the same time as; while; simultaneously ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "to itta",
+    "Forma en Kana": "といった",
+    "Significado": "like; such as ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "to iu fuu ni",
+    "Forma en Kana": "というふうに",
+    "Significado": "in such a way that ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "to iu koto wa",
+    "Forma en Kana": "ということは",
+    "Significado": "that is to say; so that means; in other words ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "to iu mono da",
+    "Forma en Kana": "というものだ",
+    "Significado": "something like; something called ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "to iu mono dewa nai",
+    "Forma en Kana": "というものではない",
+    "Significado": "there is no guarantee that…; not necessarily ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "to kangaerareru",
+    "Forma en Kana": "と考えられる（とかんがえられる）",
+    "Significado": "one can think that; it is conceivable that; considered ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "toka (de)",
+    "Forma en Kana": "とか（で）",
+    "Significado": "I heard that ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tokku ni",
+    "Forma en Kana": "とっくに",
+    "Significado": "long ago; already; a long time ago"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tokoro datta",
+    "Forma en Kana": "ところだった",
+    "Significado": "was just about to do something; something almost happened"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tokoro ni",
+    "Forma en Kana": "ところに",
+    "Significado": "at the time; just as I was ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tokoro o miru to",
+    "Forma en Kana": "ところを見ると（ところをみると）",
+    "Significado": "judging from; seeing that ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tomo",
+    "Forma en Kana": "とも",
+    "Significado": "even if; no matter (who, what, when, where, why, how); though ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "toshite~nai",
+    "Forma en Kana": "として～ない",
+    "Significado": "not at all; there is not even one"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "toshitemo",
+    "Forma en Kana": "としても",
+    "Significado": "assuming; even if ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tsutsu",
+    "Forma en Kana": "つつ",
+    "Significado": "while; even though; despite ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "tsutsu aru",
+    "Forma en Kana": "つつある",
+    "Significado": "to be doing; to be in the process of doing ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "ue wa",
+    "Forma en Kana": "上は（うえは）",
+    "Significado": "now that; since; as long as ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "wa moto yori",
+    "Forma en Kana": "はもとより",
+    "Significado": "also; let alone; from the beginning"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "wa tomokaku",
+    "Forma en Kana": "はともかく",
+    "Significado": "anyhow; anyway; regardless; in any case; whether or not ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "wazuka ni",
+    "Forma en Kana": "わずかに",
+    "Significado": "slightly; only; barely; narrowly ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "yagate",
+    "Forma en Kana": "やがて",
+    "Significado": "before long; soon; almost; eventually ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "yara~yara",
+    "Forma en Kana": "やら～やら",
+    "Significado": "such things as A and B; A and B and so on ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "yohodo / yoppodo",
+    "Forma en Kana": "よほど / よっぽど",
+    "Significado": "very; greatly; much; to a large extent"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "yori",
+    "Forma en Kana": "より [2]",
+    "Significado": "from~ (a time, place, or person)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "yori hoka nai",
+    "Forma en Kana": "よりほかない",
+    "Significado": "to have no choice but ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "you dewa",
+    "Forma en Kana": "ようでは",
+    "Significado": "if ~ (bad result)"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "you dewa nai ka",
+    "Forma en Kana": "ようではないか",
+    "Significado": "let’s do (something); why don’t we ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "you ka~mai ka",
+    "Forma en Kana": "ようか～まいか",
+    "Significado": "whether or not; considering options"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "you suru ni",
+    "Forma en Kana": "要するに（ようするに）",
+    "Significado": "in short; in a word; to sum up; to put it simply ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "zaru o enai",
+    "Forma en Kana": "ざるを得ない（ざるをえない）",
+    "Significado": "cannot help (doing); have no choice but to ~"
+  },
+  {
+    "Nivel": "N2",
+    "Estructura": "zu ni sumu",
+    "Forma en Kana": "ずに済む （ずにすむ）",
+    "Significado": "get by without doing ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "aete",
+    "Forma en Kana": "敢えて（あえて）",
+    "Significado": "dare to; daringly; deliberately; purposely ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "akumade mo",
+    "Forma en Kana": "あくまでも",
+    "Significado": "to the end; persistently; absolutely; is still very ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "an no jou",
+    "Forma en Kana": "案の定（あんのじょう）",
+    "Significado": "just as one thought; as usual; sure enough"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "arakajime",
+    "Forma en Kana": "あらかじめ",
+    "Significado": "beforehand; in advance; previously​"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "atte no",
+    "Forma en Kana": "あっての",
+    "Significado": "which can exist solely due to the presence of; which owes everything to"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ba koso",
+    "Forma en Kana": "ばこそ",
+    "Significado": "only because ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ba sore made da / tara sore made da",
+    "Forma en Kana": "ばそれまでだ / たらそれまでだ",
+    "Significado": "if… then it’s over"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "bekarazu / bekarazaru",
+    "Forma en Kana": "べからず / べからざる",
+    "Significado": "must not; should not; do not ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "beku",
+    "Forma en Kana": "べく",
+    "Significado": "in order to; for the purpose of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "beku mo nai",
+    "Forma en Kana": "べくもない",
+    "Significado": "cannot possibly be ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "beku shite",
+    "Forma en Kana": "べくして",
+    "Significado": "as it is bound to (happen); following the natural course"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "biru / bite / bita",
+    "Forma en Kana": "びる / びて / びた",
+    "Significado": "to seem to be; to appear; to behave as ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "buri / ppuri",
+    "Forma en Kana": "ぶり / っぷり",
+    "Significado": "style; manner; way​"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "buru / butte / butta",
+    "Forma en Kana": "ぶる / ぶって / ぶった",
+    "Significado": "assuming the air of; behaving like; to pretend / act like ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "dani / dani shinai",
+    "Forma en Kana": "だに / だにしない",
+    "Significado": "even; not even ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "dano~dano",
+    "Forma en Kana": "だの～だの",
+    "Significado": "and; and the like; and so forth ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "darou ni",
+    "Forma en Kana": "だろうに",
+    "Significado": "(1) surely..., but ~; although... is likely, ~ (2) should have (regret); might / must have been ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "de are / de arou to",
+    "Forma en Kana": "であれ / であろうと",
+    "Significado": "whoever; whatever; however; even ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "de are~de are",
+    "Forma en Kana": "であれ～であれ",
+    "Significado": "whether [A] or [B]"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "demo ari~demo aru",
+    "Forma en Kana": "でもあり～でもある",
+    "Significado": "to also be; both… and ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "demo nan demo nai / kumo nan tomo nai",
+    "Forma en Kana": "でも何でもない / くも何ともない（でもなんでもない / くもなんともない）",
+    "Significado": "not in the least; nothing like that"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "denakute nan darou",
+    "Forma en Kana": "でなくてなんだろう",
+    "Significado": "must be; is definitely ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "dewa arumai ka",
+    "Forma en Kana": "ではあるまいか",
+    "Significado": "isn't it; I wonder if it’s not ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "dewa arumai shi",
+    "Forma en Kana": "ではあるまいし",
+    "Significado": "it’s not like; it isn’t as if ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "dewa sumanai",
+    "Forma en Kana": "では済まない（ではすまない）",
+    "Significado": "it doesn’t end with just ~; it will take more than ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "dou nimo~nai",
+    "Forma en Kana": "どうにも～ない",
+    "Significado": "not … by any means; no matter how hard one tries, cannot ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ga hayai ka",
+    "Forma en Kana": "が早いか（がはやいか）",
+    "Significado": "no sooner than; as soon as ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ga/mo~nara, ~mo~da",
+    "Forma en Kana": "が/も～なら、～も～だ",
+    "Significado": "negative connection/comparison (like father like son)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "gamashii",
+    "Forma en Kana": "がましい",
+    "Significado": "look like; sound like; approximate; similar to; somewhat like ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "gatera",
+    "Forma en Kana": "がてら",
+    "Significado": "while; on the same occasion; at the same time; coincidentally ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "gotoki / gotoku / gotoshi",
+    "Forma en Kana": "ごとき / ごとく / ごとし",
+    "Significado": "like; as if; the same as ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "gurumi",
+    "Forma en Kana": "ぐるみ",
+    "Significado": "together (with); -wide"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "hame ni naru",
+    "Forma en Kana": "羽目になる（はめになる）",
+    "Significado": "to get stuck with; to end up with (something unpleasant)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "hodo no koto dewa nai",
+    "Forma en Kana": "ほどのことではない",
+    "Significado": "it's not worth; no need to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "hou ga mashi da",
+    "Forma en Kana": "ほうがましだ",
+    "Significado": "better than; would rather ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "houdai",
+    "Forma en Kana": "放題（ほうだい）",
+    "Significado": "doing as one pleases; to one's heart's content; leaving uncontrolled"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ikan da / ikan dewa / ikan ni yotte wa",
+    "Forma en Kana": "いかんだ / いかんでは / いかんによっては",
+    "Significado": "in accordance with; depending on; whether or not ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ikan ni kakawarazu / ikan ni yorazu / ikan o towazu",
+    "Forma en Kana": "いかんにかかわらず / いかんによらず / いかんをとわず",
+    "Significado": "regardless of; whether or not; doesn't matter whether ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ikanaru",
+    "Forma en Kana": "いかなる",
+    "Significado": "any kind of; every; whatsoever; whatever"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ikani",
+    "Forma en Kana": "いかに",
+    "Significado": "how; in what way; how much; to what extent"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ikani mo",
+    "Forma en Kana": "いかにも",
+    "Significado": "indeed; really; truly; just (like); very; extremely ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "izure ni shitemo / izure ni shiro / izure ni seyo",
+    "Forma en Kana": "いずれにしても / いずれにしろ / いずれにせよ",
+    "Significado": "anyhow; anyway; either way; in any case ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "jimita",
+    "Forma en Kana": "じみた",
+    "Significado": "to become; to appear like; to look like; tainted with ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ka ina ka",
+    "Forma en Kana": "か否か（かいなか）",
+    "Significado": "whether or not ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ka to omoikiya",
+    "Forma en Kana": "かと思いきや（かとおもいきや）",
+    "Significado": "contrary to expectations; or so we thought, but ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kagiri da",
+    "Forma en Kana": "限りだ（かぎりだ）",
+    "Significado": "to feel strongly"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kai mo naku",
+    "Forma en Kana": "甲斐もなく（かいもなく）",
+    "Significado": "despite; even though ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kanousei ga aru",
+    "Forma en Kana": "可能性がある（かのうせいがある）",
+    "Significado": "may/might; there’s a possibility that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kara aru / kara suru / kara no",
+    "Forma en Kana": "からある / からする / からの",
+    "Significado": "at least; as much as; as many as ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kare~kare",
+    "Forma en Kana": "かれ～かれ",
+    "Significado": "sooner or later; more or less"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "katagata",
+    "Forma en Kana": "かたがた",
+    "Significado": "while; at the same time; incidentally; for the purpose of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "katawara",
+    "Forma en Kana": "かたわら",
+    "Significado": "while; besides; at the same time; in addition"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "katsute",
+    "Forma en Kana": "かつて",
+    "Significado": "once; before; formerly; ever; former; ex-"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kirai ga aru",
+    "Forma en Kana": "嫌いがある（きらいがある）",
+    "Significado": "bad habit; to have a tendency to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kiri ga nai",
+    "Forma en Kana": "切りがない（きりがない）",
+    "Significado": "endless; boundless; going on forever​; there’s no end to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kitte no",
+    "Forma en Kana": "きっての",
+    "Significado": "the most / greatest … of all"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kiwamaru / kiwamarinai",
+    "Forma en Kana": "極まる / 極まりない（きわまる / きわまりない）",
+    "Significado": "extremely; very ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koso are",
+    "Forma en Kana": "こそあれ",
+    "Significado": "although; even though ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koso sure",
+    "Forma en Kana": "こそすれ",
+    "Significado": "and; although; but ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koso~ga/keredo",
+    "Forma en Kana": "こそ「～が・けれど」",
+    "Significado": "but; although (emphasis)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koto gotoku",
+    "Forma en Kana": "ことごとく",
+    "Significado": "altogether; entirely; completely ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koto kono ue nai / kono ue nai / kono ue naku",
+    "Forma en Kana": "ことこの上ない / この上ない / この上なく（ことこのうえない / このうえない / このうえなく）",
+    "Significado": "the most of all; the best; nothing is more ... than ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koto mo atte",
+    "Forma en Kana": "こともあって",
+    "Significado": "partly because; also because of; plus the reason for ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koto nashi ni",
+    "Forma en Kana": "ことなしに",
+    "Significado": "without doing something"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koto no nai you ni",
+    "Forma en Kana": "ことのないように",
+    "Significado": "so as not to; to not ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "koto tote",
+    "Forma en Kana": "こととて",
+    "Significado": "because; since ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kurai nara",
+    "Forma en Kana": "くらいなら",
+    "Significado": "rather than (do ...)​"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "kurai no mono da",
+    "Forma en Kana": "くらいのものだ",
+    "Significado": "only (emphasis)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "made da / made no koto da",
+    "Forma en Kana": "までだ / までのことだ",
+    "Significado": "only; just; nothing else"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "made mo nai / made mo naku",
+    "Forma en Kana": "までもない / までもなく",
+    "Significado": "there's no need to; it’s not necessary to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "majiki",
+    "Forma en Kana": "まじき",
+    "Significado": "should not; must not ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "makuru",
+    "Forma en Kana": "まくる",
+    "Significado": "to do over and over again; to do relentlessly"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mamire",
+    "Forma en Kana": "まみれ",
+    "Significado": "covered with; stained; smeared with ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "marukkiri",
+    "Forma en Kana": "まるっきり",
+    "Significado": "completely; absolutely; totally; (not) at all​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "meku",
+    "Forma en Kana": "めく",
+    "Significado": "seems; show signs of; to have the appearance of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mo douzen da",
+    "Forma en Kana": "も同然だ（もどうぜんだ）",
+    "Significado": "just like; same as ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mo saru koto nagara",
+    "Forma en Kana": "もさることながら",
+    "Significado": "one may well say so, but~; not only... but also ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mo shinai de",
+    "Forma en Kana": "もしないで",
+    "Significado": "without even doing ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mohaya",
+    "Forma en Kana": "もはや",
+    "Significado": "already; now; no longer; not anymore"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mono de",
+    "Forma en Kana": "もので",
+    "Significado": "because; for that reason"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mono o",
+    "Forma en Kana": "ものを",
+    "Significado": "if only; I wish; I'm sorry it's not actually (regret)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mono to omowareru / mono to mirareru",
+    "Forma en Kana": "ものと思われる / ものと見られる（ものとおもわれる / ものとみられる）",
+    "Significado": "to think; to suppose; it is believed/expected that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mono to suru",
+    "Forma en Kana": "ものとする",
+    "Significado": "shall; to assume; understood as ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "mono toshite",
+    "Forma en Kana": "ものとして",
+    "Significado": "to assume; to suppose; on the presumption that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "moshikuwa",
+    "Forma en Kana": "もしくは",
+    "Significado": "or; otherwise"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "n bakari ni",
+    "Forma en Kana": "んばかりに",
+    "Significado": "as if; as though ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "n ga tame ni",
+    "Forma en Kana": "んがために",
+    "Significado": "in order to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nagara ni / nagara no",
+    "Forma en Kana": "ながらに / ながらの",
+    "Significado": "while; during; without change; performed in this condition"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nai made mo",
+    "Forma en Kana": "ないまでも",
+    "Significado": "not to say; although it does not reach the level of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nai mono demo nai",
+    "Forma en Kana": "ないものでもない",
+    "Significado": "is not entirely impossible"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nai mono ka / nai mono darou ka",
+    "Forma en Kana": "ないものか / ないものだろうか",
+    "Significado": "isn't there; can’t we…?; can’t I…?"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nai tomo kagiranai",
+    "Forma en Kana": "ないとも限らない（ないともかぎらない）",
+    "Significado": "not necessarily; I can't say that; maybe; might ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nakushite wa",
+    "Forma en Kana": "なくしては",
+    "Significado": "cannot do without ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nami",
+    "Forma en Kana": "並み（なみ）",
+    "Significado": "average; ordinary; same level as; equal to; on par with ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nan to iu / nanto / nante",
+    "Forma en Kana": "なんという / なんと / なんて",
+    "Significado": "how (beautiful, etc.); what a ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nani shiro",
+    "Forma en Kana": "何しろ（なにしろ）",
+    "Significado": "at any rate; after all; anyhow; anyway; in any case; because; as you know ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nara dewa",
+    "Forma en Kana": "ならでは",
+    "Significado": "distinctive of; uniquely applying to; special to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nara iza shirazu / wa iza shirazu",
+    "Forma en Kana": "ならいざしらず / はいざしらず",
+    "Significado": "I don't know about ... but; it may be possible for ... but ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nari",
+    "Forma en Kana": "なり",
+    "Significado": "as soon as; right after ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nari ni / nari no",
+    "Forma en Kana": "なりに / なりの",
+    "Significado": "suitable; in one's own way/style"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nari tomo",
+    "Forma en Kana": "なりとも",
+    "Significado": "at least; even just a little (adverbial particle)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nari~nari",
+    "Forma en Kana": "なり～なり",
+    "Significado": "[A] or [B] or something; for instance ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nashi ni / nashi de",
+    "Forma en Kana": "なしに / なしで",
+    "Significado": "without; without doing ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni",
+    "Forma en Kana": "に",
+    "Significado": "and; in addition to; the combination of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni atai suru",
+    "Forma en Kana": "に値する（にあたいする）",
+    "Significado": "to be worth; to be worthy of; to deserve; to merit​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni atte",
+    "Forma en Kana": "にあって",
+    "Significado": "at; on; during; in the condition of​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni hikikae",
+    "Forma en Kana": "に引き換え（にひきかえ）",
+    "Significado": "compared to; in contrast to; unlike; while; whereas ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni itaru / ni itatta",
+    "Forma en Kana": "に至る / に至った（にいたる / にいたった）",
+    "Significado": "leads to; come to a conclusion"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni itaru made",
+    "Forma en Kana": "に至るまで（にいたるまで）",
+    "Significado": "as far as; up until; everything from ... to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni itattemo",
+    "Forma en Kana": "に至っても（にいたっても）",
+    "Significado": "even if; even though; although something reached the point ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni ittate wa",
+    "Forma en Kana": "に至っては（にいたっては）",
+    "Significado": "when it comes to; as for ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni iwasereba",
+    "Forma en Kana": "に言わせれば（にいわせれば）",
+    "Significado": "if you ask; if one may say ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni kagitta koto dewa nai",
+    "Forma en Kana": "に限ったことではない（にかぎったことではない）",
+    "Significado": "not limited to only ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni kakatte wa / ni kakattara / ni kakaru to / kakareba",
+    "Forma en Kana": "にかかっては / にかかったら / にかかると / かかれば",
+    "Significado": "when handled by (N), becomes a completely different result"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni kakatteiru",
+    "Forma en Kana": "にかかっている",
+    "Significado": "depending on; to depend on; whether or not"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni kako tsukete",
+    "Forma en Kana": "にかこつけて",
+    "Significado": "to use as a pretext; to use as an excuse"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni kamakete",
+    "Forma en Kana": "にかまけて",
+    "Significado": "to be too busy; to focus / concentrate only on ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni katakunai",
+    "Forma en Kana": "に難くない（にかたくない）",
+    "Significado": "easy to do; it’s not hard to (imagine, understand, guess)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni matsuwaru",
+    "Forma en Kana": "にまつわる",
+    "Significado": "to be related to; to concern; associated with ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni nottotte",
+    "Forma en Kana": "に則って（にのっとって）",
+    "Significado": "based on; according to; in accordance with ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni sakigakete",
+    "Forma en Kana": "に先駆けて（にさきがけて）",
+    "Significado": "prior to; to be the first (pioneer); being ahead of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni shinobinai",
+    "Forma en Kana": "に忍びない（にしのびない）",
+    "Significado": "cannot bring oneself (to do); unable to bear ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni shita tokoro de / to shita tokoro de",
+    "Forma en Kana": "にしたところで / としたところで",
+    "Significado": "even if; even supposing that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni shite",
+    "Forma en Kana": "にして",
+    "Significado": "at / on / under certain conditions (time, position, age, number of times)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni sokushite",
+    "Forma en Kana": "に即して（にそくして）",
+    "Significado": "according to; in keeping with; to be based on ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni taeru / ni taenai",
+    "Forma en Kana": "に耐える / に耐えない（にたえる / にたえない）",
+    "Significado": "worth doing; can do; cannot bear doing ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni taranai / ni tarinai",
+    "Forma en Kana": "に足らない / に足りない（にたらない / にたりない）",
+    "Significado": "cannot; not worthy; not worth doing ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni taru / ni tariru",
+    "Forma en Kana": "に足る / に足りる（にたる / にたりる）",
+    "Significado": "can do; worthy; worth doing"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni terashite",
+    "Forma en Kana": "に照らして（にてらして）",
+    "Significado": "according to; in view of; in light of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni todomarazu",
+    "Forma en Kana": "にとどまらず",
+    "Significado": "not limited to; not only… but also ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni wa muri ga aru",
+    "Forma en Kana": "には無理がある（にはむりがある）",
+    "Significado": "difficult to do; is unreasonable / unrealistic / impossible"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni yorazu",
+    "Forma en Kana": "によらず",
+    "Significado": "regardless of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ni~o kasanete",
+    "Forma en Kana": "に～を重ねて（に～をかさねて）",
+    "Significado": "success after continuous (effort, work, adjustments, etc.)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nimo hodo ga aru",
+    "Forma en Kana": "にもほどがある",
+    "Significado": "there is a limit to what is acceptable; to go too far"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "nimo mashite",
+    "Forma en Kana": "にも増して（にもまして）",
+    "Significado": "more than…; above ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "niwa ataranai",
+    "Forma en Kana": "には当たらない（にはあたらない）",
+    "Significado": "it’s not worth; there’s no need to; does not correspond to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "niwa oyobanai",
+    "Forma en Kana": "には及ばない（にはおよばない）",
+    "Significado": "there is no need to; unnecessary; no match for ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "no itari",
+    "Forma en Kana": "の至り（のいたり）",
+    "Significado": "utmost; extremely ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "no kiwami",
+    "Forma en Kana": "の極み（のきわみ）",
+    "Significado": "utmost; extremely ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "no nan notte",
+    "Forma en Kana": "のなんのって",
+    "Significado": "extremely ~ (cannot be expressed in words)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "no yara / mono yara / koto yara",
+    "Forma en Kana": "のやら / ものやら / ことやら",
+    "Significado": "I wonder...; unsure; I don’t know ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "no yara~no yara",
+    "Forma en Kana": "のやら～のやら",
+    "Significado": "or ~ (I don't know)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o fumaete",
+    "Forma en Kana": "を踏まえて（をふまえて）",
+    "Significado": "to be based on; to take into account ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o hete",
+    "Forma en Kana": "を経て（をへて）",
+    "Significado": "through; by way of; after; via ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o hikaete",
+    "Forma en Kana": "を控えて（をひかえて）",
+    "Significado": "to be soon; the time has come to; nearby; ahead of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o ii koto ni",
+    "Forma en Kana": "をいいことに",
+    "Significado": "to take advantage of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o kaerimizu / mo kaerimizu",
+    "Forma en Kana": "を顧みず / も顧みず（をかえりみず / もかえりみず）",
+    "Significado": "despite; without considering; not worrying about; regardless of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o kagiri ni",
+    "Forma en Kana": "を限りに（をかぎりに）",
+    "Significado": "starting from; the last time (ending a continued action)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o kanete",
+    "Forma en Kana": "を兼ねて（をかねて）",
+    "Significado": "also for the purpose of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o kawakiri ni",
+    "Forma en Kana": "を皮切りに（をかわきりに）",
+    "Significado": "one after another; starting with ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o ki ni",
+    "Forma en Kana": "を機に（をきに）",
+    "Significado": "as an opportunity/chance to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o kinji enai",
+    "Forma en Kana": "を禁じ得ない（をきんじえない）",
+    "Significado": "can’t help but; can’t refrain from ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o mono tomo sezuni",
+    "Forma en Kana": "をものともせずに",
+    "Significado": "in defiance of; not losing to / afraid / worrying about ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o motte / o mochimashite",
+    "Forma en Kana": "をもって / をもちまして",
+    "Significado": "by means of; with; on / at / as of (time)​"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o oite~nai",
+    "Forma en Kana": "をおいて～ない",
+    "Significado": "only; can only be; there is no alternative, only ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o oshite / o oshikitte",
+    "Forma en Kana": "を押して / を押し切って（をおして / をおしきって）",
+    "Significado": "to overcome (opposition); to push past ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o sakai ni",
+    "Forma en Kana": "を境に（をさかいに）",
+    "Significado": "since ~ (indicates a large change before & after)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o yogi naku sareru",
+    "Forma en Kana": "を余儀なくされる（をよぎなくされる）",
+    "Significado": "to be forced to do something because one has no other choice"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o yoso ni",
+    "Forma en Kana": "をよそに",
+    "Significado": "despite; without regards to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "o zentei toshite",
+    "Forma en Kana": "を前提として（をぜんていとして）",
+    "Significado": "with the intention to; on the condition / assumption ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "omoi o suru",
+    "Forma en Kana": "思いをする（おもいをする）",
+    "Significado": "to think; to feel ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ori ni",
+    "Forma en Kana": "折に（おりに）",
+    "Significado": "when; at the time; on the occasion ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "oyoso",
+    "Forma en Kana": "およそ",
+    "Significado": "about; roughly; generally; approximately; completely​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "sa",
+    "Forma en Kana": "さ",
+    "Significado": "ending particle; indicates assertion"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "samo",
+    "Forma en Kana": "さも",
+    "Significado": "really (seem, appear, etc.); truly; as if ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "samonaito",
+    "Forma en Kana": "さもないと",
+    "Significado": "otherwise; or else; if not ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "sazo",
+    "Forma en Kana": "さぞ",
+    "Significado": "surely; certainly; no doubt; indeed​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "shimatsu da",
+    "Forma en Kana": "始末だ（しまつだ）",
+    "Significado": "end up; in the end; as a result (negative)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "soba kara",
+    "Forma en Kana": "そばから",
+    "Significado": "as soon as; right after​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "sobireru",
+    "Forma en Kana": "そびれる",
+    "Significado": "to miss a chance; to fail to do ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "sokonau / sokoneru / sonjiru",
+    "Forma en Kana": "損なう / 損ねる / 損じる（そこなう / そこねる / そんじる）",
+    "Significado": "to do something wrong; by mistake; to miss a chance; to fail to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "sube ga nai",
+    "Forma en Kana": "術がない（すべがない）",
+    "Significado": "there is no way / means; cannot do ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "sura / de sura",
+    "Forma en Kana": "すら / ですら",
+    "Significado": "even ~ (with emphasis)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ta hazumi ni / ta hyoushi ni",
+    "Forma en Kana": "た弾みに / た拍子に（たはずみに / たひょうしに）",
+    "Significado": "the moment [A], unintentionally / inadvertently caused something to happen"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ta koto ni suru / ta koto ni naru",
+    "Forma en Kana": "たことにする / たことになる",
+    "Significado": "pretend to; see things as untrue; contrary to the truth ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ta tokoro de",
+    "Forma en Kana": "たところで",
+    "Significado": "even if; no matter (who, what, when, where, why, how)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ta tsumori wa nai",
+    "Forma en Kana": "たつもりはない",
+    "Significado": "have no intention to / didn't mean to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tada~nomi da",
+    "Forma en Kana": "ただ～のみだ",
+    "Significado": "all we can do is; can do nothing but; only ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tameshi ga nai",
+    "Forma en Kana": "ためしがない",
+    "Significado": "is never the case; has never happened; I have never seen or heard of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tara saigo / taga saigo",
+    "Forma en Kana": "たら最後 / たが最後（たらさいご / たがさいご）",
+    "Significado": "if you do... negative result"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tara~tade",
+    "Forma en Kana": "たら～たで",
+    "Significado": "if / in the case... of course / should ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tara~tokoro da",
+    "Forma en Kana": "たら～ところだ",
+    "Significado": "if... (counterfactual condition), then would be ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tari tomo",
+    "Forma en Kana": "たりとも",
+    "Significado": "not even; not any ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "taru mono / taru",
+    "Forma en Kana": "たるもの / たる",
+    "Significado": "(those) who are; (that) which is; in the capacity of ... should ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "te kanawanai",
+    "Forma en Kana": "て敵わない（てかなわない）",
+    "Significado": "can't bear to; unable to; troublesome to; can’t stand to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "te kara to iu mono",
+    "Forma en Kana": "てからというもの",
+    "Significado": "ever since ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "te miseru",
+    "Forma en Kana": "てみせる",
+    "Significado": "I’ll do my best; I'll definitely do; I'll show you ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "te shikaru beki da",
+    "Forma en Kana": "てしかるべきだ",
+    "Significado": "should; appropriate; it is natural to do ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "te sumu koto dewa nai",
+    "Forma en Kana": "て済むことではない（てすむことではない）",
+    "Significado": "~ is not enough to solve the problem; cannot be resolved by ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "te yamanai",
+    "Forma en Kana": "てやまない",
+    "Significado": "always; never stop; can’t help but ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "temae",
+    "Forma en Kana": "手前（てまえ）",
+    "Significado": "considering; before; in front of; one’s standpoint"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "temo dou ni mo naranai",
+    "Forma en Kana": "てもどうにもならない",
+    "Significado": "it's no use; can't do anything"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "temo sashitsukaenai",
+    "Forma en Kana": "ても差し支えない（てもさしつかえない）",
+    "Significado": "can ~; it’s okay if ~ (indicates permission or compromise)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "temo shiranai",
+    "Forma en Kana": "ても知らない（てもしらない）",
+    "Significado": "if (you) continue... you'll end up / I don't care about it"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to aimatte",
+    "Forma en Kana": "と相まって（とあいまって）",
+    "Significado": "together with..., more; because of the influence of..., more ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to areba",
+    "Forma en Kana": "とあれば",
+    "Significado": "if it is the case that; if ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to atte",
+    "Forma en Kana": "とあって",
+    "Significado": "due to the fact that; because of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to bakari ni",
+    "Forma en Kana": "とばかりに",
+    "Significado": "as if to say; as though~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to ie domo",
+    "Forma en Kana": "といえども",
+    "Significado": "even if; even though; despite ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to ienaku mo nai",
+    "Forma en Kana": "と言えなくもない（といえなくもない）",
+    "Significado": "one can even say that; it can also be said that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to ii~to ii",
+    "Forma en Kana": "といい～といい",
+    "Significado": "both ... and; not only ... also; whether it be ... or ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to ittara nai",
+    "Forma en Kana": "といったらない",
+    "Significado": "extremely; very; nothing more ... than this; as ... as it could possibly be"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to iu",
+    "Forma en Kana": "という",
+    "Significado": "all; every single ~ (no exceptions)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to iu ka~to iu ka",
+    "Forma en Kana": "というか～というか",
+    "Significado": "or rather; or perhaps I should say; I mean ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to iu mono",
+    "Forma en Kana": "というもの",
+    "Significado": "during; for; since; over a period of time"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to iu tokoro da / to itta tokoro da",
+    "Forma en Kana": "というところだ / といったところだ",
+    "Significado": "at the most; no more than​; at best; roughly; about ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to iu wake da",
+    "Forma en Kana": "というわけだ",
+    "Significado": "that's why; no wonder; this means; it is the case that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to iu wake dewa nai",
+    "Forma en Kana": "というわけではない",
+    "Significado": "it’s not that; it doesn’t mean that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to iwazu~to iwazu",
+    "Forma en Kana": "といわず～といわず",
+    "Significado": "both; not only A or B, but (overall) ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to kiteiru",
+    "Forma en Kana": "ときている",
+    "Significado": "because of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to miru to",
+    "Forma en Kana": "とみると",
+    "Significado": "as soon as one realizes ..., then ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to miru ya",
+    "Forma en Kana": "と見るや（とみるや）",
+    "Significado": "at the sight of; upon seeing; after confirming ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to naru to / to nareba",
+    "Forma en Kana": "となると / となれば",
+    "Significado": "when it comes to; in such a case; if that happens"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "to sareru",
+    "Forma en Kana": "とされる",
+    "Significado": "is considered to; it is said that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tokitara",
+    "Forma en Kana": "ときたら",
+    "Significado": "when it comes to; concerning ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tokoro o",
+    "Forma en Kana": "ところを",
+    "Significado": "although (it is a certain time/condition); even though normally"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tomo arou mono ga",
+    "Forma en Kana": "ともあろうものが",
+    "Significado": "of all people (expression showing surprise at a high standing person's misbehavior)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tomo naku / tomo nashi ni",
+    "Forma en Kana": "ともなく / ともなしに",
+    "Significado": "somehow; without knowing; without thinking; unconsciously​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tomo sureba",
+    "Forma en Kana": "ともすれば",
+    "Significado": "apt to (do); tend to; liable to; prone to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tomo~tomo",
+    "Forma en Kana": "とも～とも",
+    "Significado": "unable to draw a conclusion; unable to judge"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "toriwake",
+    "Forma en Kana": "とりわけ",
+    "Significado": "especially; above all ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "toshita koto ga",
+    "Forma en Kana": "としたことが",
+    "Significado": "of all people, who would have thought?"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tossa ni",
+    "Forma en Kana": "とっさに",
+    "Significado": "at once; right away; promptly"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tote",
+    "Forma en Kana": "とて",
+    "Significado": "even; even if/though ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "towa",
+    "Forma en Kana": "とは",
+    "Significado": "I didn't know; I was surprised that; the fact that ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "towa ie",
+    "Forma en Kana": "とはいえ",
+    "Significado": "though; although; be that as it may; nonetheless"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "towa kurabemono ni naranai",
+    "Forma en Kana": "とは比べものにならない（とはくらべものにならない）",
+    "Significado": "can't compare with ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "towa utte kawatte / to wa utte kawari",
+    "Forma en Kana": "とは打って変わって / とは打って変わり（とはうってかわって / とはうってかわり）",
+    "Significado": "unlike; totally different; very different from ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tsu~tsu",
+    "Forma en Kana": "つ～つ",
+    "Significado": "and ~ (indicates two contrasting actions)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tsukusu",
+    "Forma en Kana": "尽くす（つくす）",
+    "Significado": "to use up (completely without anything remaining); to exhaust; to run out of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "tteba / ttara",
+    "Forma en Kana": "ってば / ったら",
+    "Significado": "speaking of; I told you already; come on (annoyance / dissatisfaction)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "uchi ni hairanai",
+    "Forma en Kana": "うちに入らない（うちにはいらない）",
+    "Significado": "not really; can't be regarded as ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "wa",
+    "Forma en Kana": "わ",
+    "Significado": "feminine sentence ending particle"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "wa dou de are",
+    "Forma en Kana": "はどうであれ",
+    "Significado": "however; whatever​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "wa oroka",
+    "Forma en Kana": "はおろか",
+    "Significado": "let alone; not to mention; needless to say ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "wa sateoki",
+    "Forma en Kana": "はさておき",
+    "Significado": "setting aside ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "wa socchinoke de / o socchinoke de",
+    "Forma en Kana": "はそっちのけで / をそっちのけで",
+    "Significado": "ignoring (one thing) for (another)​​; instead of ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "wa~wade",
+    "Forma en Kana": "わ〜わで",
+    "Significado": "and (listing negative things happening at the same time)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ya ina ya",
+    "Forma en Kana": "や否や（やいなや）",
+    "Significado": "as soon as; the moment ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "ya shinai",
+    "Forma en Kana": "やしない",
+    "Significado": "should do, but don't; absolutely not; there's no way ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "yare~yare",
+    "Forma en Kana": "やれ～やれ",
+    "Significado": "pattern to give two representative examples (usually negative)"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "you ga / you to",
+    "Forma en Kana": "ようが / ようと",
+    "Significado": "even if; no matter how/what ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "you ga~you ga / you to~you to",
+    "Forma en Kana": "ようが～ようが / ようと～ようと",
+    "Significado": "no matter; whether; even if [A] or [B]"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "you ni yotte wa / you dewa",
+    "Forma en Kana": "ようによっては / ようでは",
+    "Significado": "depending on the way; depending on how; according to how ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "you nimo~nai",
+    "Forma en Kana": "ようにも～ない",
+    "Significado": "even if I wanted to… I couldn’t ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "you to~mai to / you ga~mai ga",
+    "Forma en Kana": "ようと～まいと / ようが～まいが",
+    "Significado": "whether or not; regardless"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "yue ni",
+    "Forma en Kana": "ゆえに",
+    "Significado": "therefore; consequently​; because of; due to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "zo / ze",
+    "Forma en Kana": "ぞ・ぜ",
+    "Significado": "ending particle; adds force or indicates command"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "zu jimai",
+    "Forma en Kana": "ずじまい",
+    "Significado": "ended up not doing ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "zu niwa okanai / nai dewa okanai",
+    "Forma en Kana": "ずにはおかない / ないではおかない",
+    "Significado": "will definitely/certainly do something; cannot not ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "zu niwa sumanai / nai dewa sumanai",
+    "Forma en Kana": "ずには済まない / ないでは済まない（ずにはすまない / ないではすまない）",
+    "Significado": "must; will definitely; can’t help but to ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "zu tomo",
+    "Forma en Kana": "ずとも",
+    "Significado": "even without doing; even without being​ ~"
+  },
+  {
+    "Nivel": "N1",
+    "Estructura": "zukume",
+    "Forma en Kana": "ずくめ",
+    "Significado": "completely; entirely; nothing but ~"
+  }
+]

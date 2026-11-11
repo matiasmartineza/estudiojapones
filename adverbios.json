@@ -1,0 +1,450 @@
+[
+  {
+    "adverbio": "時々",
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "español": "a veces",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "そう",
+    "hiragana": "そう",
+    "romaji": "sou",
+    "español": "así, de esa manera",
+    "categoria": "指示／Demostrativos"
+  },
+  {
+    "adverbio": "もう",
+    "hiragana": "もう",
+    "romaji": "mou",
+    "español": "ya",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "少し",
+    "hiragana": "すこし",
+    "romaji": "sukoshi",
+    "español": "un poco",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "多分",
+    "hiragana": "たぶん",
+    "romaji": "tabun",
+    "español": "probablemente",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "よく",
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "español": "a menudo, bien",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "どう",
+    "hiragana": "どう",
+    "romaji": "dou",
+    "español": "cómo",
+    "categoria": "疑問／Interrogativos"
+  },
+  {
+    "adverbio": "かなり",
+    "hiragana": "かなり",
+    "romaji": "kanari",
+    "español": "bastante",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "もっと",
+    "hiragana": "もっと",
+    "romaji": "motto",
+    "español": "más",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "近く",
+    "hiragana": "ちかく",
+    "romaji": "chikaku",
+    "español": "cerca",
+    "categoria": "指示／Ubicación"
+  },
+  {
+    "adverbio": "全部",
+    "hiragana": "ぜんぶ",
+    "romaji": "zenbu",
+    "español": "todo, completamente",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "未だ",
+    "hiragana": "まだ",
+    "romaji": "mada",
+    "español": "todavía, aún",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "とても",
+    "hiragana": "とても",
+    "romaji": "totemo",
+    "español": "muy",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "いつも",
+    "hiragana": "いつも",
+    "romaji": "itsumo",
+    "español": "siempre",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "一番",
+    "hiragana": "いちばん",
+    "romaji": "ichiban",
+    "español": "el más, número uno",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "本当に",
+    "hiragana": "ほんとうに",
+    "romaji": "hontou ni",
+    "español": "realmente",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "直ぐ",
+    "hiragana": "すぐ",
+    "romaji": "sugu",
+    "español": "inmediatamente",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "どうして",
+    "hiragana": "どうして",
+    "romaji": "doushite",
+    "español": "por qué, cómo",
+    "categoria": "疑問／Interrogativos"
+  },
+  {
+    "adverbio": "一杯",
+    "hiragana": "いっぱい",
+    "romaji": "ippai",
+    "español": "lleno, mucho",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "一緒に",
+    "hiragana": "いっしょに",
+    "romaji": "issho ni",
+    "español": "juntos",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "先ず",
+    "hiragana": "まず",
+    "romaji": "mazu",
+    "español": "primero",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "今まで",
+    "hiragana": "いままで",
+    "romaji": "ima made",
+    "español": "hasta ahora",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "ほとんど",
+    "hiragana": "ほとんど",
+    "romaji": "hotondo",
+    "español": "casi todo",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "大分",
+    "hiragana": "だいぶ",
+    "romaji": "daibu",
+    "español": "bastante",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "少しも",
+    "hiragana": "すこしも",
+    "romaji": "sukoshi mo",
+    "español": "ni un poco (con negativo)",
+    "categoria": "頻度／Frecuencia (negativa)"
+  },
+  {
+    "adverbio": "少々",
+    "hiragana": "しょうしょう",
+    "romaji": "shoushou",
+    "español": "un poquito",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "多く",
+    "hiragana": "おおく",
+    "romaji": "ooku",
+    "español": "mucho, en gran cantidad",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "ただ",
+    "hiragana": "ただ",
+    "romaji": "tada",
+    "español": "solo, solamente",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "いずれ",
+    "hiragana": "いずれ",
+    "romaji": "izure",
+    "español": "algún día, eventualmente",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "あまり",
+    "hiragana": "あまり",
+    "romaji": "amari",
+    "español": "no muy (con negativo)",
+    "categoria": "頻度／Frecuencia (negativa)"
+  },
+  {
+    "adverbio": "毎日",
+    "hiragana": "まいにち",
+    "romaji": "mainichi",
+    "español": "todos los días",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "毎年",
+    "hiragana": "まいとし",
+    "romaji": "maitoshi",
+    "español": "cada año",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "尚",
+    "hiragana": "なお",
+    "romaji": "nao",
+    "español": "además, aún más",
+    "categoria": "様態・予想／Modalidad y Expectación"
+  },
+  {
+    "adverbio": "毎週",
+    "hiragana": "まいしゅう",
+    "romaji": "maishuu",
+    "español": "cada semana",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "毎月",
+    "hiragana": "まいつき",
+    "romaji": "maitsuki",
+    "español": "cada mes",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "ほぼ",
+    "hiragana": "ほぼ",
+    "romaji": "hobo",
+    "español": "casi",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "やはり",
+    "hiragana": "やはり",
+    "romaji": "yahari",
+    "español": "como era de esperar",
+    "categoria": "様態・予想／Modalidad y Expectación"
+  },
+  {
+    "adverbio": "はっきり",
+    "hiragana": "はっきり",
+    "romaji": "hakkiri",
+    "español": "claramente",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "つまり",
+    "hiragana": "つまり",
+    "romaji": "tsumari",
+    "español": "es decir",
+    "categoria": "接続・要約／Conexión y Resumen"
+  },
+  {
+    "adverbio": "初めて",
+    "hiragana": "はじめて",
+    "romaji": "hajimete",
+    "español": "por primera vez",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "今後",
+    "hiragana": "こんご",
+    "romaji": "kongo",
+    "español": "de ahora en adelante",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "なぜ",
+    "hiragana": "なぜ",
+    "romaji": "naze",
+    "español": "por qué",
+    "categoria": "疑問／Interrogativos"
+  },
+  {
+    "adverbio": "そのまま",
+    "hiragana": "そのまま",
+    "romaji": "sono mama",
+    "español": "tal como está",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "毎朝",
+    "hiragana": "まいあさ",
+    "romaji": "maiasa",
+    "español": "cada mañana",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "今朝",
+    "hiragana": "けさ",
+    "romaji": "kesa",
+    "español": "esta mañana",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "もし",
+    "hiragana": "もし",
+    "romaji": "moshi",
+    "español": "si (hipotético)",
+    "categoria": "様態・予想／Modalidad y Expectación"
+  },
+  {
+    "adverbio": "毎晩",
+    "hiragana": "まいばん",
+    "romaji": "maiban",
+    "español": "cada noche",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "今夜",
+    "hiragana": "こんや",
+    "romaji": "konya",
+    "español": "esta noche",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "昨夜",
+    "hiragana": "ゆうべ",
+    "romaji": "yuube",
+    "español": "anoche",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "やっと",
+    "hiragana": "やっと",
+    "romaji": "yatto",
+    "español": "finalmente, por fin",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "この間",
+    "hiragana": "このあいだ",
+    "romaji": "kono aida",
+    "español": "el otro día",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "かつて",
+    "hiragana": "かつて",
+    "romaji": "katsute",
+    "español": "en el pasado, una vez",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "こう",
+    "hiragana": "こう",
+    "romaji": "kou",
+    "español": "así, de esta manera",
+    "categoria": "指示／Demostrativos"
+  },
+  {
+    "adverbio": "すぐ",
+    "hiragana": "すぐ",
+    "romaji": "sugu",
+    "español": "inmediatamente",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "いっぱい",
+    "hiragana": "いっぱい",
+    "romaji": "ippai",
+    "español": "lleno, mucho",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "だいぶ",
+    "hiragana": "だいぶ",
+    "romaji": "daibu",
+    "español": "bastante",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "まず",
+    "hiragana": "まず",
+    "romaji": "mazu",
+    "español": "primero",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "なお",
+    "hiragana": "なお",
+    "romaji": "nao",
+    "español": "además, aún más",
+    "categoria": "様態・予想／Modalidad y Expectación"
+  },
+  {
+    "adverbio": "ほんとうに",
+    "hiragana": "ほんとうに",
+    "romaji": "hontou ni",
+    "español": "realmente",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "ずっと",
+    "hiragana": "ずっと",
+    "romaji": "zutto",
+    "español": "todo el tiempo; durante mucho tiempo; por lejos",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "しばらく",
+    "hiragana": "しばらく",
+    "romaji": "shibaraku",
+    "español": "por un rato; por un tiempo; hace tiempo",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "遠く",
+    "hiragana": "とおく",
+    "romaji": "tooku",
+    "español": "a lo lejos; lejos",
+    "categoria": "Ubicación"
+  },
+  {
+    "adverbio": "最近",
+    "hiragana": "さいきん",
+    "romaji": "saikin",
+    "español": "recientemente; últimamente",
+    "categoria": "Tiempo"
+  },
+  {
+    "adverbio": "まったく",
+    "hiragana": "まったく",
+    "romaji": "mattaku",
+    "español": "completamente; (con negación) en absoluto",
+    "categoria": "Grado"
+  }
+]

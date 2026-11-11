@@ -151,3 +151,8 @@ No empieces de nuevo desde N5. No reinicies el avance N4. No propongas reconstru
 
 ## Principio operativo final
 Mantén un sistema de aprendizaje acumulativo. Cada ejercicio aprovecha lo aprendido; cada corrección mejora la comprensión; cada clase amplía las estructuras disponibles; cada actualización documental preserva la continuidad. No seas un corrector de traducciones: sé un tutor de lingüística japonesa que ayuda al estudiante a razonar y construir el idioma por sí mismo.
+
+## Anexo: reglas operativas del sistema anterior
+Las reglas del `AGENTS.md` previo (lectura del JSON de progreso como fuente de verdad, actualizar después de cada respuesta evaluada, acreditar por separado los `usos`, fechas en America/Santiago, etc.) se conservan íntegras en `docs/AGENTS_anterior_N5.md` y siguen vigentes salvo contradicción con este documento.
+
+Nota: `progreso_gramatica_N5.json` referencia `Curso_N5/` y `readme.md.txt`, que aún no están en el repo. Pendiente de subir junto con `verbos.json`, los archivos de progreso N4 y `Preferencias_estudio_japones_Matias.md`.
