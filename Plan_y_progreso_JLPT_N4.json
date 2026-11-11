@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 149,
+  "revision_contenido": 150,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-02T05:02:36.818Z",
+  "actualizado_el": "2026-11-11T17:02:40.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -32941,6 +32941,14 @@
         "EX-SYNC-20261102-c6b64776bcc9f8"
       ],
       "descripcion": "Sincronización solicitada por usuario de 24 respuestas pendientes, con primera respuesta y autocorrección separadas. Estados preservados: 10 dominados y 20 en práctica entre 30 habilitados; 2 comenzados. Correcciones léxicas no rebajan dominio gramatical. Cursor de clases preservado."
+    },
+    {
+      "id": "EV-CORRECCION-RESUMEN-20261111",
+      "fecha_hora": "2026-11-11T17:02:40.000Z",
+      "conversacion": "clases",
+      "tipo": "guardado",
+      "referencias_ids": [],
+      "descripcion": "Corrección documental: resumen_inicial recalculado desde los registros vigentes. Sin cambios en estados, evidencias, errores ni cursores."
     }
   ],
   "instrucciones_para_iniciar": {
@@ -32954,15 +32962,20 @@
     "puntos_complemento": 18,
     "usos_totales": 324,
     "estados_puntos": {
-      "pendiente": 136,
-      "conocida": 32
+      "en_practica": 13,
+      "dominada": 4,
+      "pendiente": 123,
+      "conocida": 28
     },
     "estados_usos": {
-      "pendiente": 267,
-      "conocida": 57
+      "dominada": 10,
+      "comenzada": 2,
+      "en_practica": 20,
+      "pendiente": 243,
+      "conocida": 49
     },
-    "clases_n4_realizadas": 0,
-    "respuestas_n4_evaluadas_en_este_registro": 0,
-    "nota": "Los ceros describen actividad N4 registrada en este archivo nuevo, no ausencia de conocimientos previos. N5 se considera concluido por la declaración actual."
+    "clases_n4_realizadas": 5,
+    "respuestas_n4_evaluadas_en_este_registro": 183,
+    "nota": "Resumen recalculado el 2026-11-11 desde puntos_gramaticales, sesiones y evidencias (antes mostraba valores iniciales en cero). Conocida no significa dominada; N5 se considera concluido por declaración del estudiante."
   }
 }
