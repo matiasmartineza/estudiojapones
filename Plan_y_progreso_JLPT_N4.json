@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 151,
+  "revision_contenido": 152,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-11T17:06:50.000Z",
+  "actualizado_el": "2026-11-12T07:05:39.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -2439,7 +2439,7 @@
               "ERR-1ccc1823-b60b-492b-a7a2-8fb354b86b1e"
             ],
             "motivo": "Distinción léxica ani/ane; estructura verbal かどうか correctamente producida.",
-            "fecha_ultimo": "2026-11-11",
+            "fecha_ultimo": "2026-11-12",
             "paso_intervalo": 0
           },
           "evidencias_ids": [
@@ -2457,7 +2457,8 @@
             "E-cec0b5e5-df2f-4cb7-90b8-6426d69b45cc",
             "E-SYNC20261102-76bcc9f8-16",
             "E-SYNC20261102-76bcc9f8-24",
-            "E-0410ce0b-6a31-4850-88c4-2431663f8353"
+            "E-0410ce0b-6a31-4850-88c4-2431663f8353",
+            "E-cf97b977-cd92-4199-a693-3977528b10b6"
           ],
           "historial_cambios": [
             {
@@ -22652,17 +22653,23 @@
       "uso_actual_id": "N4-G007-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-3f13a2ef-f438-4eeb-aad7-069c59d579f9",
-        "uso_id": "N4-G007-U01",
-        "direccion": "ja_es",
-        "consigna": "山田さんが明日会社に来るかどうか、私はまだ知りません。",
-        "ayudas": []
+        "id": "Q-35305b8d-00fa-4b96-8c75-62438c67e2d7",
+        "uso_id": "N4-G007-U02",
+        "direccion": "es_ja",
+        "consigna": "Mi amiga quiere saber si aparecieron las llaves y dónde estaban.",
+        "ayudas": [
+          {
+            "tipo": "glosa_lexica",
+            "contenido": "鍵（かぎ）: llave; 見つかる（みつかる）: aparecer, ser encontrado. Sin modelo de oración antes del intento.",
+            "momento": "antes"
+          }
+        ]
       },
       "ultima_actividad": {
-        "evidencia_id": "E-0410ce0b-6a31-4850-88c4-2431663f8353",
-        "descripcion": "Sustituyó かどうか por のが分かりません; tiempo 終わったか en vez de 終わるか."
+        "evidencia_id": "E-cf97b977-cd92-4199-a693-3977528b10b6",
+        "descripcion": "ja_es G007-U01 かどうか: correcta y autónoma."
       },
-      "siguiente_accion": "Evaluar la respuesta al ejercicio pendiente (ja_es, かどうか).",
+      "siguiente_accion": "Evaluar la respuesta al ejercicio pendiente (es_ja integrado G007-U02 contraste か／かどうか + G017-U01 たがる; vigilar tiempo de la subordinada).",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -23071,7 +23078,9 @@
         "N4-G006-U01",
         "N4-G007-U01"
       ],
-      "eventos_ids": [],
+      "eventos_ids": [
+        "EV-aa2e48d5-7b8a-4b5b-9092-644d670468a7"
+      ],
       "resultado": null,
       "rol": "ejercicios"
     }
@@ -30161,6 +30170,30 @@
       "error_ids": [
         "ERR-1ccc1823-b60b-492b-a7a2-8fb354b86b1e"
       ]
+    },
+    {
+      "fecha_hora": "2026-11-12T07:05:39.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "山田さんが明日会社に来るかどうか、私はまだ知りません。",
+      "primera_respuesta": "Aún no se si Mr Yamada vendrá o no a la compañía mañana",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-cf97b977-cd92-4199-a693-3977528b10b6",
+      "punto_id": "N4-G007",
+      "uso_id": "N4-G007-U01",
+      "resultado": "correcta",
+      "diagnostico": "Comprensión correcta de 〜かどうか como «si ... o no» (vendrá o no), de まだ→aún y del futuro de 来る en la subordinada. Sin error. Nota menor: 山田さん no marca género; «Mr/Sr.» es una elección razonable.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -33073,6 +33106,17 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio es_ja integrado G006+G007: pregunta incrustada correcta con error de tiempo; no produjo かどうか."
+    },
+    {
+      "id": "EV-aa2e48d5-7b8a-4b5b-9092-644d670468a7",
+      "fecha_hora": "2026-11-12T07:05:39.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-cf97b977-cd92-4199-a693-3977528b10b6",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio ja_es G007-U01 (かどうか, consigna pendiente del 2026-11-11): correcto y autónomo. Sin cambio de estado; errores abiertos de producción es_ja siguen abiertos."
     }
   ],
   "instrucciones_para_iniciar": {
