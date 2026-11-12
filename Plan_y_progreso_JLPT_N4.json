@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 160,
+  "revision_contenido": 161,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-12T15:49:14.000Z",
+  "actualizado_el": "2026-11-12T16:10:39.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -22680,20 +22680,16 @@
         "id": "Q-fc478e1f-28ed-4aa6-a596-62f6adad8b9f",
         "uso_id": "N4-G014-U01",
         "direccion": "ja_es",
-        "consigna": "妹が新しい学校に行きたがらない理由を、母は聞きづらいと言っていました。",
-        "ayudas": [
-          {
-            "tipo": "glosa_lexica",
-            "contenido": "理由（りゆう）: razón, motivo. Sin modelo de oración antes del intento.",
-            "momento": "antes"
-          }
-        ]
+        "consigna": "母は、妹がなぜ新しい学校に行きたがらないか、聞きづらいと言っていました。",
+        "ayudas": [],
+        "consigna_anterior_reemplazada": "妹が新しい学校に行きたがらない理由を、母は聞きづらいと言っていました。",
+        "nota": "2026-11-12: reemplazada la consigna original (usaba 理由, fuera de los registros) por una con vocabulario de verbos/adjetivos/adverbios/N5. Ningún intento registrado sobre la anterior."
       },
       "ultima_actividad": {
         "evidencia_id": "E-39523cfe-2543-40be-941f-36b1a38f0a76",
         "descripcion": "es_ja G007-U01+G015-U02: variante válida (か simple, alcance de la cita distinto)."
       },
-      "siguiente_accion": "Evaluar ja_es: たがらない + 理由 relativa + づらい + と言っていました.",
+      "siguiente_accion": "Evaluar ja_es: なぜ…たがらないか (G006/G017) + づらい (G014) + と言っていました. Usar solo vocabulario de los registros.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -22719,7 +22715,8 @@
         "indice_actual": 4,
         "criterio": "Un ejercicio por turno, versiones どう y どうやって aceptadas según contexto; no adelantar la solución, preservar sentidos y matices; no reiniciar estados.",
         "estado": "completado"
-      }
+      },
+      "regla_vocabulario_usuario": "Matías (2026-11-12): usar el vocabulario ya probado de los JSON (verbos, adjetivos, adverbios, sustantivos N5 ya usados); no introducir palabras externas en ejercicios."
     }
   },
   "dudas_para_clases": [],
