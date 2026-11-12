@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 161,
+  "revision_contenido": 162,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-12T16:10:39.000Z",
+  "actualizado_el": "2026-11-12T17:17:20.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -2260,7 +2260,8 @@
             "E-SYNC20261102-76bcc9f8-15",
             "E-SYNC20261102-76bcc9f8-21",
             "E-7a522985-850f-4c4f-ad2a-76c77bf45f94",
-            "E-32e590e5-7de1-4041-8890-9123e7de89a0"
+            "E-32e590e5-7de1-4041-8890-9123e7de89a0",
+            "E-c8379816-76d6-4697-9e05-650a7fa153a9"
           ],
           "historial_cambios": [
             {
@@ -3748,14 +3749,18 @@
           "dominio": null,
           "consolidacion": null,
           "repaso": {
-            "requiere_repaso": false,
-            "fecha_proximo": null,
-            "errores_abiertos_ids": []
+            "requiere_repaso": true,
+            "fecha_proximo": "2026-11-13",
+            "errores_abiertos_ids": [
+              "ERR-778864b9-c0d1-4298-a8f0-a59e60ebb258"
+            ],
+            "fecha_ultimo": "2026-11-12"
           },
           "evidencias_ids": [
             "E-3209bcde-29fa-49b9-beac-27a625c92bba",
             "E-a7cc92ed-0c72-43a7-bbbd-12ae9e875e0d",
-            "E-149bce82-0285-407c-90f8-f779f8ad268b"
+            "E-149bce82-0285-407c-90f8-f779f8ad268b",
+            "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e"
           ],
           "historial_cambios": [
             {
@@ -4210,7 +4215,8 @@
             "E-b7e5bd67-045f-45e0-b8eb-a99cab183491",
             "E-aeba6b35-5bc0-4312-9b57-36ec17ab72d3",
             "E-bfdb44b0-d25e-477e-8cce-3c0611af68b1",
-            "E-82035a23-6c9b-4a7b-8ba7-24df912413dd"
+            "E-82035a23-6c9b-4a7b-8ba7-24df912413dd",
+            "E-c4754edb-fd27-439d-8ec4-3467aebe7490"
           ],
           "historial_cambios": [
             {
@@ -22673,23 +22679,21 @@
     },
     "ejercicios": {
       "sesion_actual_id": "EX-20261111-85d54204ea90",
-      "punto_actual_id": "N4-G007",
-      "uso_actual_id": "N4-G007-U01",
+      "punto_actual_id": "N4-G014",
+      "uso_actual_id": "N4-G014-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-fc478e1f-28ed-4aa6-a596-62f6adad8b9f",
-        "uso_id": "N4-G014-U01",
-        "direccion": "ja_es",
-        "consigna": "母は、妹がなぜ新しい学校に行きたがらないか、聞きづらいと言っていました。",
-        "ayudas": [],
-        "consigna_anterior_reemplazada": "妹が新しい学校に行きたがらない理由を、母は聞きづらいと言っていました。",
-        "nota": "2026-11-12: reemplazada la consigna original (usaba 理由, fuera de los registros) por una con vocabulario de verbos/adjetivos/adverbios/N5. Ningún intento registrado sobre la anterior."
+        "id": "Q-dcde98d1-0947-4c0b-93fa-5bad3931a59a",
+        "uso_id": "N4-G007-U01",
+        "direccion": "es_ja",
+        "consigna": "Mi mamá no sabe si mi hermano menor entiende la tarea, pero él no quiere hacerla porque es demasiado difícil.",
+        "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-39523cfe-2543-40be-941f-36b1a38f0a76",
-        "descripcion": "es_ja G007-U01+G015-U02: variante válida (か simple, alcance de la cita distinto)."
+        "evidencia_id": "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e",
+        "descripcion": "づらい traducido como \"doloroso\": error semántico abierto en G014-U01. G006 y G017 comprendidos."
       },
-      "siguiente_accion": "Evaluar ja_es: なぜ…たがらないか (G006/G017) + づらい (G014) + と言っていました. Usar solo vocabulario de los registros.",
+      "siguiente_accion": "Evaluar es_ja: かどうか + すぎる + ので + たがる (negativo). Solo vocabulario de los registros.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -30682,6 +30686,80 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-12T17:17:20.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "母は、妹がなぜ新しい学校に行きたがらないか、聞きづらいと言っていました。",
+      "primera_respuesta": "Mi mamá dijo que preguntarle a mi hermana por qué no quiere ir a la escuela nueva es doloroso.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e",
+      "punto_id": "N4-G014",
+      "uso_id": "N4-G014-U01",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Estructura 聞き+づらい analizada bien (preguntar es lo difícil, tema implícito). Error semántico: \"doloroso\" (痛い, dolor literal) en lugar de \"difícil/incómodo de preguntar\". づらい marca dificultad por incomodidad o resistencia, no dolor.",
+      "correccion": "Mi mamá decía que a mi hermana le cuesta/es incómodo preguntarle por qué no quiere ir a la escuela nueva.",
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": [
+        "ERR-778864b9-c0d1-4298-a8f0-a59e60ebb258"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-12T17:17:20.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "母は、妹がなぜ新しい学校に行きたがらないか、聞きづらいと言っていました。",
+      "primera_respuesta": "Mi mamá dijo que preguntarle a mi hermana por qué no quiere ir a la escuela nueva es doloroso.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-c4754edb-fd27-439d-8ec4-3467aebe7490",
+      "punto_id": "N4-G017",
+      "uso_id": "N4-G017-U01",
+      "resultado": "correcta",
+      "diagnostico": "行きたがらない interpretado como deseo/resistencia de tercera persona (\"no quiere ir\").",
+      "correccion": null,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-12T17:17:20.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "母は、妹がなぜ新しい学校に行きたがらないか、聞きづらいと言っていました。",
+      "primera_respuesta": "Mi mamá dijo que preguntarle a mi hermana por qué no quiere ir a la escuela nueva es doloroso.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-c8379816-76d6-4697-9e05-650a7fa153a9",
+      "punto_id": "N4-G006",
+      "uso_id": "N4-G006-U01",
+      "resultado": "correcta",
+      "diagnostico": "なぜ…か como pregunta incrustada (\"por qué no quiere ir\") interpretada correctamente.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -31096,6 +31174,16 @@
       "evidencia_apertura_id": "E-b8c7182e-6bd8-431b-89b2-5735e7780ef7",
       "categoria": "lexico",
       "descripcion": "Usó どこに（dónde）en lugar de いつ（cuándo）. La estructura か incrustada con 出す en no pasado fue correcta.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-778864b9-c0d1-4298-a8f0-a59e60ebb258",
+      "uso_id": "N4-G014-U01",
+      "evidencia_apertura_id": "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e",
+      "categoria": "semantico",
+      "descripcion": "づらい traducido como \"doloroso\". Es dificultad por incomodidad o resistencia (cuesta/incomoda), no dolor; 痛い es dolor literal.",
       "estado": "abierto",
       "evidencias_recuperacion_ids": [],
       "fecha_resolucion": null
@@ -33761,6 +33849,20 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Respuesta correcta ja_es G007-U01 (Yamada) en conversación paralela. Cursores no modificados."
+    },
+    {
+      "id": "EV-5b935ae8-5003-4dbe-a80b-48009febc50d",
+      "fecha_hora": "2026-11-12T17:17:20.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e",
+        "E-c4754edb-fd27-439d-8ec4-3467aebe7490",
+        "E-c8379816-76d6-4697-9e05-650a7fa153a9",
+        "ERR-778864b9-c0d1-4298-a8f0-a59e60ebb258",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio ja_es G014/G017/G006: estructura bien, づらい mal traducido como doloroso."
     }
   ],
   "instrucciones_para_iniciar": {
