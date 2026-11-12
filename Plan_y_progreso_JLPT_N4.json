@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 152,
+  "revision_contenido": 153,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-12T07:05:39.000Z",
+  "actualizado_el": "2026-11-12T07:12:00.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -2514,16 +2514,19 @@
             "requiere_repaso": true,
             "fecha_proximo": "2026-10-27",
             "errores_abiertos_ids": [
-              "ERR-77ed4821-7995-4443-a6f7-82442c0fd64d"
+              "ERR-77ed4821-7995-4443-a6f7-82442c0fd64d",
+              "ERR-d516fd99-7f7c-4260-9007-f1ad4877781c"
             ],
-            "fecha_ultimo": "2026-10-27",
-            "paso_intervalo": 0
+            "fecha_ultimo": "2026-11-12",
+            "paso_intervalo": 0,
+            "motivo": "Tiempo de la subordinada (anterioridad) y conector entre interrogativas."
           },
           "evidencias_ids": [
             "E-3a39c142-28f8-4de7-bd8f-686f60aad76d",
             "E-23c9a9a3-f54a-41ab-ae21-dd4b7c586dd8",
             "E-4d536d15-0542-43ae-bb73-e6e61d4a2991",
-            "E-1e4050ba-60a3-4e34-bb04-3ca72c45ec82"
+            "E-1e4050ba-60a3-4e34-bb04-3ca72c45ec82",
+            "E-4ad34113-5c8a-4ff9-b89d-88c1a5d0cc53"
           ],
           "historial_cambios": [
             {
@@ -4180,13 +4183,18 @@
           "dominio": null,
           "consolidacion": null,
           "repaso": {
-            "requiere_repaso": false,
+            "requiere_repaso": true,
             "fecha_proximo": null,
-            "errores_abiertos_ids": []
+            "errores_abiertos_ids": [
+              "ERR-e510be9f-10ad-4a2e-9d8a-130293192aee"
+            ],
+            "motivo": "Deseo de tercera persona: たい en lugar de たがる.",
+            "fecha_ultimo": "2026-11-12"
           },
           "evidencias_ids": [
             "E-7fdd32c8-e638-492c-9ab1-414a5d5ac601",
-            "E-5c7ad9d3-cdef-401a-9e13-5be96175f89d"
+            "E-5c7ad9d3-cdef-401a-9e13-5be96175f89d",
+            "E-b7e5bd67-045f-45e0-b8eb-a99cab183491"
           ],
           "historial_cambios": [
             {
@@ -22653,23 +22661,23 @@
       "uso_actual_id": "N4-G007-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-35305b8d-00fa-4b96-8c75-62438c67e2d7",
+        "id": "Q-128ee19d-fd3b-4ba0-b83b-c231d71afdcf",
         "uso_id": "N4-G007-U02",
-        "direccion": "es_ja",
-        "consigna": "Mi amiga quiere saber si aparecieron las llaves y dónde estaban.",
+        "direccion": "ja_es",
+        "consigna": "友達は、私が借りた本をもう返したかどうか、知りたがっています。",
         "ayudas": [
           {
             "tipo": "glosa_lexica",
-            "contenido": "鍵（かぎ）: llave; 見つかる（みつかる）: aparecer, ser encontrado. Sin modelo de oración antes del intento.",
+            "contenido": "返す（かえす）: devolver. Sin modelo de oración antes del intento.",
             "momento": "antes"
           }
         ]
       },
       "ultima_actividad": {
-        "evidencia_id": "E-cf97b977-cd92-4199-a693-3977528b10b6",
-        "descripcion": "ja_es G007-U01 かどうか: correcta y autónoma."
+        "evidencia_id": "E-4ad34113-5c8a-4ff9-b89d-88c1a5d0cc53",
+        "descripcion": "es_ja G007-U02+G017-U01: か／かどうか correctos; tiempo no pasado en vez de pasado; 知りたい en vez de 知りたがっている."
       },
-      "siguiente_accion": "Evaluar la respuesta al ejercicio pendiente (es_ja integrado G007-U02 contraste か／かどうか + G017-U01 たがる; vigilar tiempo de la subordinada).",
+      "siguiente_accion": "Evaluar ja_es G007-U02 (かどうか pasado + たがる). Luego es_ja sin pista explícita de estructura.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -23076,10 +23084,13 @@
       "nota_inicio": null,
       "usos_ids": [
         "N4-G006-U01",
-        "N4-G007-U01"
+        "N4-G007-U01",
+        "N4-G007-U02",
+        "N4-G017-U01"
       ],
       "eventos_ids": [
-        "EV-aa2e48d5-7b8a-4b5b-9092-644d670468a7"
+        "EV-aa2e48d5-7b8a-4b5b-9092-644d670468a7",
+        "EV-350525d9-d769-491a-b5f5-2cd603646564"
       ],
       "resultado": null,
       "rol": "ejercicios"
@@ -30194,6 +30205,82 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-12T07:12:00.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi amiga quiere saber si aparecieron las llaves y dónde estaban.",
+      "primera_respuesta": "鍵が見つかるかどうかどこにあるか、友達は知りたいです",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "glosa_lexica",
+          "contenido": "鍵（かぎ）: llave; 見つかる（みつかる）: aparecer, ser encontrado. Sin modelo de oración antes del intento.",
+          "momento": "antes"
+        },
+        {
+          "tipo": "pista_gramatical",
+          "contenido": "La consigna anunció el contraste か／かどうか y 〜たがる, y pidió vigilar el tiempo de la subordinada.",
+          "momento": "antes"
+        }
+      ],
+      "contexto_nuevo": true,
+      "autonoma": false,
+      "punto_id": "N4-G007",
+      "id": "E-4ad34113-5c8a-4ff9-b89d-88c1a5d0cc53",
+      "uso_id": "N4-G007-U02",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Estructura de interrogativas incrustadas correcta (か y かどうか, ambas producidas). Errores: tiempo no pasado en lugar de pasado (見つかる／ある → 見つかった／あった) y falta de conector entre ambas interrogativas. Respuesta con pista gramatical: no cuenta como autónoma.",
+      "correccion": "友達は、鍵が見つかったかどうか、そしてどこにあったかを知りたがっています。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-d516fd99-7f7c-4260-9007-f1ad4877781c"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-12T07:12:00.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi amiga quiere saber si aparecieron las llaves y dónde estaban.",
+      "primera_respuesta": "鍵が見つかるかどうかどこにあるか、友達は知りたいです",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "glosa_lexica",
+          "contenido": "鍵（かぎ）: llave; 見つかる（みつかる）: aparecer, ser encontrado. Sin modelo de oración antes del intento.",
+          "momento": "antes"
+        },
+        {
+          "tipo": "pista_gramatical",
+          "contenido": "La consigna anunció el contraste か／かどうか y 〜たがる, y pidió vigilar el tiempo de la subordinada.",
+          "momento": "antes"
+        }
+      ],
+      "contexto_nuevo": true,
+      "autonoma": false,
+      "punto_id": "N4-G017",
+      "id": "E-b7e5bd67-045f-45e0-b8eb-a99cab183491",
+      "uso_id": "N4-G017-U01",
+      "resultado": "incorrecta",
+      "diagnostico": "Usó 知りたいです con sujeto de tercera persona; no produjo 〜たがる pese a la pista. Resto de la oración evaluado en G007-U02.",
+      "correccion": "友達は、鍵が見つかったかどうか、そしてどこにあったかを知りたがっています。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-e510be9f-10ad-4a2e-9d8a-130293192aee"
+      ]
     }
   ],
   "errores": [
@@ -30554,6 +30641,26 @@
       "evidencia_apertura_id": "E-0410ce0b-6a31-4850-88c4-2431663f8353",
       "categoria": "gramatical",
       "descripcion": "Sustituyó かどうか por のが分かりません (nominalización de hecho). Distinguir \"no entiendo/no sé el hecho de V\" de \"no sé si V\".",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-d516fd99-7f7c-4260-9007-f1ad4877781c",
+      "uso_id": "N4-G007-U02",
+      "evidencia_apertura_id": "E-4ad34113-5c8a-4ff9-b89d-88c1a5d0cc53",
+      "categoria": "formacion",
+      "descripcion": "Produjo か y かどうか correctamente y en bloques paralelos. Usó 見つかる／ある (no pasado) para eventos anteriores al verbo principal (aparecieron/estaban): corresponde 見つかったか／あったか. La subordinada codifica anterioridad respecto del predicado principal. Además yuxtapuso las dos interrogativas sin conector (かどうかどこにあるか).",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-e510be9f-10ad-4a2e-9d8a-130293192aee",
+      "uso_id": "N4-G017-U01",
+      "evidencia_apertura_id": "E-b7e5bd67-045f-45e0-b8eb-a99cab183491",
+      "categoria": "formacion",
+      "descripcion": "Usó 知りたいです para el deseo de una tercera persona (友達) en oración declarativa; corresponde 知りたがっています (G017). Había pista de que la consigna mezclaba 〜たがる.",
       "estado": "abierto",
       "evidencias_recuperacion_ids": [],
       "fecha_resolucion": null
@@ -33117,6 +33224,20 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio ja_es G007-U01 (かどうか, consigna pendiente del 2026-11-11): correcto y autónomo. Sin cambio de estado; errores abiertos de producción es_ja siguen abiertos."
+    },
+    {
+      "id": "EV-350525d9-d769-491a-b5f5-2cd603646564",
+      "fecha_hora": "2026-11-12T07:12:00.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-4ad34113-5c8a-4ff9-b89d-88c1a5d0cc53",
+        "E-b7e5bd67-045f-45e0-b8eb-a99cab183491",
+        "ERR-d516fd99-7f7c-4260-9007-f1ad4877781c",
+        "ERR-e510be9f-10ad-4a2e-9d8a-130293192aee",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio es_ja integrado G007-U02 + G017-U01: か／かどうか producidos; error de tiempo (anterioridad) y 知りたい en vez de 知りたがっている; con pista, no autónomo."
     }
   ],
   "instrucciones_para_iniciar": {
