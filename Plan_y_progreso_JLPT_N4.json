@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 162,
+  "revision_contenido": 163,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-12T17:17:20.000Z",
+  "actualizado_el": "2026-11-12T17:25:15.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -2432,13 +2432,14 @@
           "consolidacion": null,
           "repaso": {
             "requiere_repaso": true,
-            "fecha_proximo": "2026-11-12",
+            "fecha_proximo": "2026-11-13",
             "errores_abiertos_ids": [
               "ERR-887fabf1-6600-4cd2-a379-f94fe495f146",
               "ERR-848eb064-2851-466b-9837-67ad2393c624",
               "ERR-79933328-57df-4bd2-b5bb-0755ffd0f6e4",
               "ERR-E-SYNC20261102-76bcc9f8-16",
-              "ERR-1ccc1823-b60b-492b-a7a2-8fb354b86b1e"
+              "ERR-1ccc1823-b60b-492b-a7a2-8fb354b86b1e",
+              "ERR-41a078a2-f845-46f2-9a66-b1c8edb78fe6"
             ],
             "motivo": "Distinción léxica ani/ane; estructura verbal かどうか correctamente producida.",
             "fecha_ultimo": "2026-11-12",
@@ -2462,7 +2463,8 @@
             "E-0410ce0b-6a31-4850-88c4-2431663f8353",
             "E-cf97b977-cd92-4199-a693-3977528b10b6",
             "E-39523cfe-2543-40be-941f-36b1a38f0a76",
-            "E-0f0a1085-e49b-44e6-9332-e46988f4b09a"
+            "E-0f0a1085-e49b-44e6-9332-e46988f4b09a",
+            "E-852ea43b-5cac-4cff-a8bd-ad041d4783e9"
           ],
           "historial_cambios": [
             {
@@ -3816,9 +3818,12 @@
           "repaso": {
             "requiere_repaso": false,
             "fecha_proximo": null,
-            "errores_abiertos_ids": []
+            "errores_abiertos_ids": [],
+            "fecha_ultimo": "2026-11-12"
           },
-          "evidencias_ids": [],
+          "evidencias_ids": [
+            "E-0fdda936-bbf1-4ccf-bfca-c47383251595"
+          ],
           "historial_cambios": [
             {
               "id": "C-6c5fa7f5-62df-4754-bd72-1181b7862084",
@@ -3901,13 +3906,17 @@
           "dominio": null,
           "consolidacion": null,
           "repaso": {
-            "requiere_repaso": false,
-            "fecha_proximo": null,
-            "errores_abiertos_ids": []
+            "requiere_repaso": true,
+            "fecha_proximo": "2026-11-13",
+            "errores_abiertos_ids": [
+              "ERR-b178d581-85b7-43f8-b734-f3253be491d9"
+            ],
+            "fecha_ultimo": "2026-11-12"
           },
           "evidencias_ids": [
             "E-16a12f7a-2a02-4eda-8b6a-fd3df2cb771c",
-            "E-877362fb-228a-415d-bf5e-925affae9dfe"
+            "E-877362fb-228a-415d-bf5e-925affae9dfe",
+            "E-f8d281af-9cb4-43f1-8593-48481f5ad2f2"
           ],
           "historial_cambios": [
             {
@@ -4202,9 +4211,10 @@
           "consolidacion": null,
           "repaso": {
             "requiere_repaso": true,
-            "fecha_proximo": null,
+            "fecha_proximo": "2026-11-13",
             "errores_abiertos_ids": [
-              "ERR-e510be9f-10ad-4a2e-9d8a-130293192aee"
+              "ERR-e510be9f-10ad-4a2e-9d8a-130293192aee",
+              "ERR-92afd0b0-4536-45ef-a76f-976e9c1c9c45"
             ],
             "motivo": "Deseo de tercera persona: たい en lugar de たがる.",
             "fecha_ultimo": "2026-11-12"
@@ -4216,7 +4226,8 @@
             "E-aeba6b35-5bc0-4312-9b57-36ec17ab72d3",
             "E-bfdb44b0-d25e-477e-8cce-3c0611af68b1",
             "E-82035a23-6c9b-4a7b-8ba7-24df912413dd",
-            "E-c4754edb-fd27-439d-8ec4-3467aebe7490"
+            "E-c4754edb-fd27-439d-8ec4-3467aebe7490",
+            "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6"
           ],
           "historial_cambios": [
             {
@@ -22679,21 +22690,21 @@
     },
     "ejercicios": {
       "sesion_actual_id": "EX-20261111-85d54204ea90",
-      "punto_actual_id": "N4-G014",
-      "uso_actual_id": "N4-G014-U01",
+      "punto_actual_id": "N4-G017",
+      "uso_actual_id": "N4-G017-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-dcde98d1-0947-4c0b-93fa-5bad3931a59a",
-        "uso_id": "N4-G007-U01",
-        "direccion": "es_ja",
-        "consigna": "Mi mamá no sabe si mi hermano menor entiende la tarea, pero él no quiere hacerla porque es demasiado difícil.",
+        "id": "Q-6dfa902a-47ad-400e-9e11-bf2405020f54",
+        "uso_id": "N4-G017-U01",
+        "direccion": "ja_es",
+        "consigna": "弟は難しすぎて宿題をやりたがらなかったので、母が手伝いました。",
         "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e",
-        "descripcion": "づらい traducido como \"doloroso\": error semántico abierto en G014-U01. G006 y G017 comprendidos."
+        "evidencia_id": "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
+        "descripcion": "es_ja: したくなくて con tercera persona (debía ser たがる), falta どうか, causalidad perdida."
       },
-      "siguiente_accion": "Evaluar es_ja: かどうか + すぎる + ので + たがる (negativo). Solo vocabulario de los registros.",
+      "siguiente_accion": "Evaluar ja_es G017/G015; luego es_ja de recuperación con たがる + かどうか sin 「」.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -30760,6 +30771,110 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-12T17:25:15.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi mamá no sabe si mi hermano menor entiende la tarea, pero él no quiere hacerla porque es demasiado difícil.",
+      "primera_respuesta": "母は「弟は宿題がわかるか」わからない。でも弟はしたくなくて難しすぎます",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-852ea43b-5cac-4cff-a8bd-ad041d4783e9",
+      "punto_id": "N4-G007",
+      "uso_id": "N4-G007-U01",
+      "resultado": "incorrecta",
+      "diagnostico": "Reconoce la pregunta incrustada (弟は宿題がわかるか) sin el error previo のが分かりません, pero omite どうか, encierra la subordinada entre 「」 como cita directa sin と, y repite わかる/わからない. Marca は dentro de la subordinada (preferible が).",
+      "correccion": "母は、弟が宿題が分かっているかどうか知りません。でも弟は、宿題が難しすぎるので、やりたがりません。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-41a078a2-f845-46f2-9a66-b1c8edb78fe6"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-12T17:25:15.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi mamá no sabe si mi hermano menor entiende la tarea, pero él no quiere hacerla porque es demasiado difícil.",
+      "primera_respuesta": "母は「弟は宿題がわかるか」わからない。でも弟はしたくなくて難しすぎます",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
+      "punto_id": "N4-G017",
+      "uso_id": "N4-G017-U01",
+      "resultado": "incorrecta",
+      "diagnostico": "Usó したくなくて con sujeto de tercera persona (弟). El deseo observado de un tercero se expresa con たがる: やりたがりません.",
+      "correccion": "母は、弟が宿題が分かっているかどうか知りません。でも弟は、宿題が難しすぎるので、やりたがりません。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-92afd0b0-4536-45ef-a76f-976e9c1c9c45"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-12T17:25:15.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi mamá no sabe si mi hermano menor entiende la tarea, pero él no quiere hacerla porque es demasiado difícil.",
+      "primera_respuesta": "母は「弟は宿題がわかるか」わからない。でも弟はしたくなくて難しすぎます",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-f8d281af-9cb4-43f1-8593-48481f5ad2f2",
+      "punto_id": "N4-G015",
+      "uso_id": "N4-G015-U01",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Forma 難しすぎる correcta. La relación causal con \"porque\" se perdió: したくなくて難しすぎます no expresa que la dificultad es la causa; falta ので/から y orden causa→resultado. Registro mezclado (わからない / 難しすぎます).",
+      "correccion": "母は、弟が宿題が分かっているかどうか知りません。でも弟は、宿題が難しすぎるので、やりたがりません。",
+      "destrezas_observadas": [
+        "formacion"
+      ],
+      "error_ids": [
+        "ERR-b178d581-85b7-43f8-b734-f3253be491d9"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-12T17:25:15.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "contraste",
+      "direccion": "contraste",
+      "consigna": "Comparar 聞きにくい y 聞きづらい: ¿en cuál la dificultad está en el acto y en cuál en cómo se siente quien lo hace?",
+      "primera_respuesta": "en Kikinikui la dificultad está en el acto mismo, mientras que en Kikizurai la dificultad está en cómo se siente quien lo hace.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-0fdda936-bbf1-4ccf-bfca-c47383251595",
+      "punto_id": "N4-G014",
+      "uso_id": "N4-G014-U02",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Hipótesis esencialmente correcta. Afinar: にくい atribuye la dificultad a propiedades del acto o del objeto; づらい a la tensión o incomodidad de la persona. No es todo o nada: hay solapamiento.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "contraste_y_contexto"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -31184,6 +31299,36 @@
       "evidencia_apertura_id": "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e",
       "categoria": "semantico",
       "descripcion": "づらい traducido como \"doloroso\". Es dificultad por incomodidad o resistencia (cuesta/incomoda), no dolor; 痛い es dolor literal.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-41a078a2-f845-46f2-9a66-b1c8edb78fe6",
+      "uso_id": "N4-G007-U01",
+      "evidencia_apertura_id": "E-852ea43b-5cac-4cff-a8bd-ad041d4783e9",
+      "categoria": "gramatical",
+      "descripcion": "Omite どうか y trata la subordinada como cita directa 「…」 sin と. Pregunta sí/no incrustada: …かどうか + 知りません/分かりません.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-92afd0b0-4536-45ef-a76f-976e9c1c9c45",
+      "uso_id": "N4-G017-U01",
+      "evidencia_apertura_id": "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
+      "categoria": "gramatical",
+      "descripcion": "Deseo de tercera persona con したい／したくなくて en lugar de やりたがる.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-b178d581-85b7-43f8-b734-f3253be491d9",
+      "uso_id": "N4-G015-U01",
+      "evidencia_apertura_id": "E-f8d281af-9cb4-43f1-8593-48481f5ad2f2",
+      "categoria": "gramatical",
+      "descripcion": "Causalidad perdida: \"no quiere hacerla porque es demasiado difícil\" requiere 難しすぎるので／から antes del resultado.",
       "estado": "abierto",
       "evidencias_recuperacion_ids": [],
       "fecha_resolucion": null
@@ -33863,6 +34008,23 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio ja_es G014/G017/G006: estructura bien, づらい mal traducido como doloroso."
+    },
+    {
+      "id": "EV-d3f5ea30-8985-4795-ae37-135b23e2ad17",
+      "fecha_hora": "2026-11-12T17:25:15.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-852ea43b-5cac-4cff-a8bd-ad041d4783e9",
+        "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
+        "E-f8d281af-9cb4-43f1-8593-48481f5ad2f2",
+        "E-0fdda936-bbf1-4ccf-bfca-c47383251595",
+        "ERR-41a078a2-f845-46f2-9a66-b1c8edb78fe6",
+        "ERR-92afd0b0-4536-45ef-a76f-976e9c1c9c45",
+        "ERR-b178d581-85b7-43f8-b734-f3253be491d9",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio es_ja G007/G017/G015 con errores nuevos y contraste にくい/づらい (G014-U02) evaluado."
     }
   ],
   "instrucciones_para_iniciar": {
