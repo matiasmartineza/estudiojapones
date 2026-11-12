@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 159,
+  "revision_contenido": 160,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-12T12:15:39.000Z",
+  "actualizado_el": "2026-11-12T15:49:14.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -2460,7 +2460,8 @@
             "E-SYNC20261102-76bcc9f8-24",
             "E-0410ce0b-6a31-4850-88c4-2431663f8353",
             "E-cf97b977-cd92-4199-a693-3977528b10b6",
-            "E-39523cfe-2543-40be-941f-36b1a38f0a76"
+            "E-39523cfe-2543-40be-941f-36b1a38f0a76",
+            "E-0f0a1085-e49b-44e6-9332-e46988f4b09a"
           ],
           "historial_cambios": [
             {
@@ -30659,6 +30660,31 @@
         "produccion"
       ],
       "error_ids": []
+    },
+    {
+      "id": "E-0f0a1085-e49b-44e6-9332-e46988f4b09a",
+      "fecha_hora": "2026-11-12T15:49:14.000Z",
+      "fecha_local": "2026-11-12",
+      "nota_fecha": "Segunda respuesta independiente al mismo enunciado, dada en otra conversación en paralelo; no reemplaza la evidencia E-cf97b977-cd92-4199-a693-3977528b10b6",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "punto_id": "N4-G007",
+      "uso_id": "N4-G007-U01",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "山田さんが明日会社に来るかどうか、私はまだ知りません。",
+      "primera_respuesta": "Aún no se si Yamada va a venir mañana o no a la empresa",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "resultado": "correcta",
+      "diagnostico": "Comprensión correcta de かどうか como \"si ... o no\" y de まだ+negación como \"aún no\". Matiz: 来る indica movimiento hacia el lugar del hablante (la empresa).",
+      "correccion": null,
+      "contexto_nuevo": false,
+      "autonoma": true,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -33727,6 +33753,17 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio es_ja G007-U01+G015-U02: variante válida con cambio de alcance (cita y causa) y か simple; sin errores."
+    },
+    {
+      "id": "EV-62fb5a14-27e9-4df9-aba8-118f51e7e3b8",
+      "fecha_hora": "2026-11-12T15:49:14.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-0f0a1085-e49b-44e6-9332-e46988f4b09a",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Respuesta correcta ja_es G007-U01 (Yamada) en conversación paralela. Cursores no modificados."
     }
   ],
   "instrucciones_para_iniciar": {
