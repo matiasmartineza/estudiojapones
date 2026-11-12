@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 158,
+  "revision_contenido": 159,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-12T11:56:59.000Z",
+  "actualizado_el": "2026-11-12T12:15:39.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -2459,7 +2459,8 @@
             "E-SYNC20261102-76bcc9f8-16",
             "E-SYNC20261102-76bcc9f8-24",
             "E-0410ce0b-6a31-4850-88c4-2431663f8353",
-            "E-cf97b977-cd92-4199-a693-3977528b10b6"
+            "E-cf97b977-cd92-4199-a693-3977528b10b6",
+            "E-39523cfe-2543-40be-941f-36b1a38f0a76"
           ],
           "historial_cambios": [
             {
@@ -3956,7 +3957,8 @@
           "evidencias_ids": [
             "E-3141d442-e86a-4d1b-9d3e-9216bf438f68",
             "E-adc3732b-6638-4f2c-9ae2-3bbf9533b4ac",
-            "E-SYNC20261102-76bcc9f8-23"
+            "E-SYNC20261102-76bcc9f8-23",
+            "E-e4f8e0b4-56f6-4236-ba9c-54d09b04f875"
           ],
           "historial_cambios": [
             {
@@ -22674,23 +22676,23 @@
       "uso_actual_id": "N4-G007-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-63cc03ad-53fe-4d6e-a944-c9807c46e628",
-        "uso_id": "N4-G007-U01",
-        "direccion": "es_ja",
-        "consigna": "Mi jefe dijo que la sala de reuniones es demasiado pequeña y quiere saber si hay otra.",
+        "id": "Q-fc478e1f-28ed-4aa6-a596-62f6adad8b9f",
+        "uso_id": "N4-G014-U01",
+        "direccion": "ja_es",
+        "consigna": "妹が新しい学校に行きたがらない理由を、母は聞きづらいと言っていました。",
         "ayudas": [
           {
             "tipo": "glosa_lexica",
-            "contenido": "会議室（かいぎしつ）: sala de reuniones; 他の（ほかの）: otro. Sin modelo de oración antes del intento; sin pista de estructura.",
+            "contenido": "理由（りゆう）: razón, motivo. Sin modelo de oración antes del intento.",
             "momento": "antes"
           }
         ]
       },
       "ultima_actividad": {
-        "evidencia_id": "E-877362fb-228a-415d-bf5e-925affae9dfe",
-        "descripcion": "ja_es G015-U01+G012-U01: correcta."
+        "evidencia_id": "E-39523cfe-2543-40be-941f-36b1a38f0a76",
+        "descripcion": "es_ja G007-U01+G015-U02: variante válida (か simple, alcance de la cita distinto)."
       },
-      "siguiente_accion": "Evaluar es_ja integrado: と言う + すぎる + たがる + かどうか.",
+      "siguiente_accion": "Evaluar ja_es: たがらない + 理由 relativa + づらい + と言っていました.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -23102,7 +23104,8 @@
         "N4-G017-U01",
         "N4-G013-U02",
         "N4-G015-U01",
-        "N4-G012-U01"
+        "N4-G012-U01",
+        "N4-G015-U02"
       ],
       "eventos_ids": [
         "EV-aa2e48d5-7b8a-4b5b-9092-644d670468a7",
@@ -23111,7 +23114,8 @@
         "EV-f69efed6-49ee-4e74-a1e5-0b321f5bd4c1",
         "EV-9a40eb91-e55f-4ade-a4cc-57dd8526bc21",
         "EV-5422a4dc-d389-42b7-aad1-cf4e9da78535",
-        "EV-4643d759-023d-4b96-a761-875494eb7c90"
+        "EV-4643d759-023d-4b96-a761-875494eb7c90",
+        "EV-30405415-09e8-4a5f-8637-62f7f3271eee"
       ],
       "resultado": null,
       "rol": "ejercicios"
@@ -30593,6 +30597,68 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-12T12:15:39.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi jefe dijo que la sala de reuniones es demasiado pequeña y quiere saber si hay otra.",
+      "primera_respuesta": "上司は会議室が小さすぎて他のがあるか知りたいと言いました",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "glosa_lexica",
+          "contenido": "会議室（かいぎしつ）: sala de reuniones; 他の（ほかの）: otro. Sin modelo de oración antes del intento; sin pista de estructura.",
+          "momento": "antes"
+        }
+      ],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-39523cfe-2543-40be-941f-36b1a38f0a76",
+      "punto_id": "N4-G007",
+      "uso_id": "N4-G007-U01",
+      "resultado": "variante_valida",
+      "diagnostico": "Pregunta incrustada correcta con か simple (他のがあるか), válida con 知りたい; no produjo かどうか. Cambio de alcance: 知りたいと言いました hace del deseo parte de lo dicho (el jefe «dijo que quiere saber»), y 小さすぎて convierte la primera cláusula en causa; el original coordina «dijo que ... y quiere saber». 他のが（pronominal）es válido, 他の会議室 más explícito.",
+      "correccion": "上司は、会議室が小さすぎると言って、他の会議室があるかどうか知りたがっています。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-12T12:15:39.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi jefe dijo que la sala de reuniones es demasiado pequeña y quiere saber si hay otra.",
+      "primera_respuesta": "上司は会議室が小さすぎて他のがあるか知りたいと言いました",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "glosa_lexica",
+          "contenido": "会議室（かいぎしつ）: sala de reuniones; 他の（ほかの）: otro. Sin modelo de oración antes del intento; sin pista de estructura.",
+          "momento": "antes"
+        }
+      ],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-e4f8e0b4-56f6-4236-ba9c-54d09b04f875",
+      "punto_id": "N4-G015",
+      "uso_id": "N4-G015-U02",
+      "resultado": "variante_valida",
+      "diagnostico": "小さすぎて + consecuencia correcto morfológicamente; el enlace causal no estaba en la consigna (y simple).",
+      "correccion": "上司は、会議室が小さすぎると言って、他の会議室があるかどうか知りたがっています。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -33649,6 +33715,18 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio ja_es G015-U01+G012-U01: correcto."
+    },
+    {
+      "id": "EV-30405415-09e8-4a5f-8637-62f7f3271eee",
+      "fecha_hora": "2026-11-12T12:15:39.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-39523cfe-2543-40be-941f-36b1a38f0a76",
+        "E-e4f8e0b4-56f6-4236-ba9c-54d09b04f875",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio es_ja G007-U01+G015-U02: variante válida con cambio de alcance (cita y causa) y か simple; sin errores."
     }
   ],
   "instrucciones_para_iniciar": {
