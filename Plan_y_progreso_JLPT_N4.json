@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 156,
+  "revision_contenido": 157,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-12T11:44:38.000Z",
+  "actualizado_el": "2026-11-12T11:49:02.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -3605,7 +3605,8 @@
           "evidencias_ids": [
             "E-d2c11d5a-9a04-4d5c-971a-895eacbbdd2b",
             "E-SYNC20261102-76bcc9f8-19",
-            "E-SYNC20261102-76bcc9f8-22"
+            "E-SYNC20261102-76bcc9f8-22",
+            "E-d8537642-8945-4384-9499-d9992686791b"
           ],
           "historial_cambios": [
             {
@@ -22671,23 +22672,23 @@
       "uso_actual_id": "N4-G007-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-00d594a8-d821-429f-a82d-85daf03ae4ed",
-        "uso_id": "N4-G013-U02",
-        "direccion": "es_ja",
-        "consigna": "Como el manual es difícil de leer, mi papá no sabe cómo usar el teléfono nuevo.",
+        "id": "Q-6b2f4a70-da9d-4663-a643-d74c7951d645",
+        "uso_id": "N4-G015-U01",
+        "direccion": "ja_es",
+        "consigna": "母は、部屋が暑すぎると思ったので、窓を開けて、エアコンの温度を低くしました。",
         "ayudas": [
           {
             "tipo": "glosa_lexica",
-            "contenido": "説明書（せつめいしょ）: manual de instrucciones. Sin modelo de oración antes del intento; sin pista de estructura.",
+            "contenido": "温度（おんど）: temperatura. Sin modelo de oración antes del intento.",
             "momento": "antes"
           }
         ]
       },
       "ultima_actividad": {
-        "evidencia_id": "E-98c3ade9-fbab-40ea-a158-76375341de60",
-        "descripcion": "ja_es sin ayudas G007-U02/G006-U01/G017-U01: correcta (variante anoche)."
+        "evidencia_id": "E-d8537642-8945-4384-9499-d9992686791b",
+        "descripcion": "es_ja G013-U02: variante válida (使い方)."
       },
-      "siguiente_accion": "Evaluar es_ja integrado: やすい／にくい (G013-U02) + どう使うか (G006-U01) + causa.",
+      "siguiente_accion": "Evaluar ja_es integrado: すぎる (G015-U01) + と思う (G003) + くする (G012-U01) + causa.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -23096,14 +23097,16 @@
         "N4-G006-U01",
         "N4-G007-U01",
         "N4-G007-U02",
-        "N4-G017-U01"
+        "N4-G017-U01",
+        "N4-G013-U02"
       ],
       "eventos_ids": [
         "EV-aa2e48d5-7b8a-4b5b-9092-644d670468a7",
         "EV-350525d9-d769-491a-b5f5-2cd603646564",
         "EV-8a220bf6-b101-4488-9e2a-d5a9bf722cdc",
         "EV-f69efed6-49ee-4e74-a1e5-0b321f5bd4c1",
-        "EV-9a40eb91-e55f-4ade-a4cc-57dd8526bc21"
+        "EV-9a40eb91-e55f-4ade-a4cc-57dd8526bc21",
+        "EV-5422a4dc-d389-42b7-aad1-cf4e9da78535"
       ],
       "resultado": null,
       "rol": "ejercicios"
@@ -30494,6 +30497,37 @@
       "punto_id": "N4-G017",
       "uso_id": "N4-G017-U01",
       "diagnostico": "知りたがっています → «quiere saber», deseo de tercera persona."
+    },
+    {
+      "fecha_hora": "2026-11-12T11:49:02.000Z",
+      "fecha_local": "2026-11-12",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Como el manual es difícil de leer, mi papá no sabe cómo usar el teléfono nuevo.",
+      "primera_respuesta": "父は説明書が読みにくいですから新しいスマホの使い方が分かりません",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "glosa_lexica",
+          "contenido": "説明書（せつめいしょ）: manual de instrucciones. Sin modelo de oración antes del intento; sin pista de estructura.",
+          "momento": "antes"
+        }
+      ],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-d8537642-8945-4384-9499-d9992686791b",
+      "punto_id": "N4-G013",
+      "uso_id": "N4-G013-U02",
+      "resultado": "variante_valida",
+      "diagnostico": "読みにくい con 説明書が correcto; causa con から y 使い方が分かりません naturales. 使い方 en lugar de どう使うか es alternativa válida (no evidencia G006-U01). 〜ですから dentro de la oración es válido pero más natural 読みにくいので／から con forma llana.",
+      "correccion": "説明書が読みにくいので、父は新しいスマホの使い方が分かりません。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -33527,6 +33561,17 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio ja_es sin ayudas G007-U02+G006-U01+G017-U01: correcto (variante «anoche»)."
+    },
+    {
+      "id": "EV-5422a4dc-d389-42b7-aad1-cf4e9da78535",
+      "fecha_hora": "2026-11-12T11:49:02.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-d8537642-8945-4384-9499-d9992686791b",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio es_ja G013-U02: variante válida (使い方 en vez de どう使うか)."
     }
   ],
   "instrucciones_para_iniciar": {
