@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 167,
+  "revision_contenido": 168,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-13T15:23:49.000Z",
+  "actualizado_el": "2026-11-13T15:30:12.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -3218,7 +3218,8 @@
             "E-6ef4d961-2526-45b6-8ddf-5abedf1e6fc8",
             "E-94c78940-229c-4185-8999-6a2d1a93a75e",
             "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e",
-            "E-25480dba-ce41-4e70-b403-570f1386538c"
+            "E-25480dba-ce41-4e70-b403-570f1386538c",
+            "E-f863cc73-53b4-47ef-8b8e-893164499df1"
           ],
           "historial_cambios": [
             {
@@ -4240,7 +4241,8 @@
             "E-c4754edb-fd27-439d-8ec4-3467aebe7490",
             "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
             "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14",
-            "E-8936c277-38fb-42ee-8921-511c6a1cab8f"
+            "E-8936c277-38fb-42ee-8921-511c6a1cab8f",
+            "E-b1722aa3-ddc0-4d3e-a2c6-6cc42ecc17bd"
           ],
           "historial_cambios": [
             {
@@ -22707,17 +22709,17 @@
       "uso_actual_id": "N4-G011-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-58ef409b-a6da-4906-a775-2175574b1f8b",
+        "id": "Q-3cb12891-947d-4520-a4c4-24a2c7914dad",
         "uso_id": "N4-G011-U01",
-        "direccion": "ja_es",
-        "consigna": "母は、この部屋の広さを知りたがっていますが、私は高さのほうが大事だと思います。",
+        "direccion": "es_ja",
+        "consigna": "Mi amigo dice que el tamaño de este libro es importante, pero yo pienso que el peso es más importante.",
         "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-25480dba-ce41-4e70-b403-570f1386538c",
-        "descripcion": "es_ja: 高さ por 大きさ (3ª vez); 言います vs 言っています. Resto correcto."
+        "evidencia_id": "E-f863cc73-53b4-47ef-8b8e-893164499df1",
+        "descripcion": "ja_es: contraste 広さ/高さ entendido; sobretraducción de la evidencialidad de たがる."
       },
-      "siguiente_accion": "Evaluar ja_es: contraste de dimensiones 広さ/高さ (G011), 知りたがっています, のほうが, と思います.",
+      "siguiente_accion": "Evaluar es_ja: 大きさ y 重さ en producción (recuperar error 高さ/大きさ), のほうが, と言っています, と思います.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -31138,6 +31140,55 @@
         "produccion"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:30:12.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "母は、この部屋の広さを知りたがっていますが、私は高さのほうが大事だと思います。",
+      "primera_respuesta": "Mi mamá quiere, en base a lo que veo, conocer el área de esta habitación, sin embargo, yo pienso que conocer la altura es más importante.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-f863cc73-53b4-47ef-8b8e-893164499df1",
+      "punto_id": "N4-G011",
+      "uso_id": "N4-G011-U01",
+      "resultado": "correcta",
+      "diagnostico": "Distingue 広さ (área/amplitud) de 高さ (altura): comprensión correcta del contraste de dimensiones. Es comprensión; el error de producción 高さ/大きさ sigue abierto hasta tener producción correcta.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "comprension",
+        "contraste_y_contexto"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:30:12.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "母は、この部屋の広さを知りたがっていますが、私は高さのほうが大事だと思います。",
+      "primera_respuesta": "Mi mamá quiere, en base a lo que veo, conocer el área de esta habitación, sin embargo, yo pienso que conocer la altura es más importante.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-b1722aa3-ddc0-4d3e-a2c6-6cc42ecc17bd",
+      "punto_id": "N4-G017",
+      "uso_id": "N4-G017-U01",
+      "resultado": "variante_valida",
+      "diagnostico": "知りたがっています entendido como deseo de tercero. Añadió \"en base a lo que veo\", que no está en el original: sobretraduce la evidencialidad implícita de たがる y puede leerse como modificando \"conocer\". Además \"conocer la altura\" importa un verbo; el original compara 高さ con 広さ.",
+      "correccion": "Mi mamá quiere saber lo amplia que es esta habitación, pero yo pienso que la altura es más importante.",
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -34355,6 +34406,18 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio es_ja G011/G015/G003: 高さ por 大きさ recurre; errores G011 vuelven a abierto."
+    },
+    {
+      "id": "EV-6435131a-ff01-4355-962c-1b70e351d0f6",
+      "fecha_hora": "2026-11-13T15:30:12.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-f863cc73-53b4-47ef-8b8e-893164499df1",
+        "E-b1722aa3-ddc0-4d3e-a2c6-6cc42ecc17bd",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio ja_es G011/G017: contraste de dimensiones correcto, sobretraducción menor."
     }
   ],
   "instrucciones_para_iniciar": {
