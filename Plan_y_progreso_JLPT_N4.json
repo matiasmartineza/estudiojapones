@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 163,
+  "revision_contenido": 164,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-12T17:25:15.000Z",
+  "actualizado_el": "2026-11-13T14:51:14.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -3967,13 +3967,15 @@
           "repaso": {
             "requiere_repaso": false,
             "fecha_proximo": null,
-            "errores_abiertos_ids": []
+            "errores_abiertos_ids": [],
+            "fecha_ultimo": "2026-11-13"
           },
           "evidencias_ids": [
             "E-3141d442-e86a-4d1b-9d3e-9216bf438f68",
             "E-adc3732b-6638-4f2c-9ae2-3bbf9533b4ac",
             "E-SYNC20261102-76bcc9f8-23",
-            "E-e4f8e0b4-56f6-4236-ba9c-54d09b04f875"
+            "E-e4f8e0b4-56f6-4236-ba9c-54d09b04f875",
+            "E-6b14581f-3618-4c91-8b55-38afc056f107"
           ],
           "historial_cambios": [
             {
@@ -4217,7 +4219,7 @@
               "ERR-92afd0b0-4536-45ef-a76f-976e9c1c9c45"
             ],
             "motivo": "Deseo de tercera persona: たい en lugar de たがる.",
-            "fecha_ultimo": "2026-11-12"
+            "fecha_ultimo": "2026-11-13"
           },
           "evidencias_ids": [
             "E-7fdd32c8-e638-492c-9ab1-414a5d5ac601",
@@ -4227,7 +4229,8 @@
             "E-bfdb44b0-d25e-477e-8cce-3c0611af68b1",
             "E-82035a23-6c9b-4a7b-8ba7-24df912413dd",
             "E-c4754edb-fd27-439d-8ec4-3467aebe7490",
-            "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6"
+            "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
+            "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14"
           ],
           "historial_cambios": [
             {
@@ -22694,17 +22697,17 @@
       "uso_actual_id": "N4-G017-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-6dfa902a-47ad-400e-9e11-bf2405020f54",
+        "id": "Q-50a28f32-cdd8-43e8-b705-143b03dd7bdc",
         "uso_id": "N4-G017-U01",
-        "direccion": "ja_es",
-        "consigna": "弟は難しすぎて宿題をやりたがらなかったので、母が手伝いました。",
+        "direccion": "es_ja",
+        "consigna": "Mi hermana menor quiere saber si mi amigo vendrá mañana, pero a mí me cuesta preguntárselo.",
         "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
-        "descripcion": "es_ja: したくなくて con tercera persona (debía ser たがる), falta どうか, causalidad perdida."
+        "evidencia_id": "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14",
+        "descripcion": "ja_es G017/G015 correcto con ajuste de tiempo en cláusula て."
       },
-      "siguiente_accion": "Evaluar ja_es G017/G015; luego es_ja de recuperación con たがる + かどうか sin 「」.",
+      "siguiente_accion": "Evaluar es_ja de recuperación: 知りたがる + かどうか sin 「」 + 聞きづらい.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -30875,6 +30878,54 @@
         "contraste_y_contexto"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T14:51:14.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "弟は難しすぎて宿題をやりたがらなかったので、母が手伝いました。",
+      "primera_respuesta": "Como mi hermano menor encuentra la tarea demasiado difícil y parece que no quiso hacerla, mi mamá lo ayudó.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14",
+      "punto_id": "N4-G017",
+      "uso_id": "N4-G017-U01",
+      "resultado": "variante_valida",
+      "diagnostico": "やりたがらなかった interpretado como deseo observado de tercero; \"parece que\" añade el matiz evidencial implícito en たがる (sobretraducción menor). \"No quiso\" (puntual) vs \"no quería/no tenía ganas\" (estado).",
+      "correccion": "Como mi hermano menor encontraba la tarea demasiado difícil y no tenía ganas de hacerla, mi mamá lo ayudó.",
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T14:51:14.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "弟は難しすぎて宿題をやりたがらなかったので、母が手伝いました。",
+      "primera_respuesta": "Como mi hermano menor encuentra la tarea demasiado difícil y parece que no quiso hacerla, mi mamá lo ayudó.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-6b14581f-3618-4c91-8b55-38afc056f107",
+      "punto_id": "N4-G015",
+      "uso_id": "N4-G015-U02",
+      "resultado": "variante_valida",
+      "diagnostico": "難しすぎて entendido como causa de la cadena, y ので como \"Como…\". Ajuste: el tiempo de la cláusula en て sigue al verbo final: \"encontraba\", no \"encuentra\".",
+      "correccion": "Como mi hermano menor encontraba la tarea demasiado difícil y no tenía ganas de hacerla, mi mamá lo ayudó.",
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -34025,6 +34076,18 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio es_ja G007/G017/G015 con errores nuevos y contraste にくい/づらい (G014-U02) evaluado."
+    },
+    {
+      "id": "EV-2d6ba0f1-3185-4560-ab8f-f7a1dad5a14d",
+      "fecha_hora": "2026-11-13T14:51:14.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14",
+        "E-6b14581f-3618-4c91-8b55-38afc056f107",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio ja_es G017/G015 variante válida."
     }
   ],
   "instrucciones_para_iniciar": {
