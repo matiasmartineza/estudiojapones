@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 166,
+  "revision_contenido": 167,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-13T15:17:37.000Z",
+  "actualizado_el": "2026-11-13T15:23:49.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -1612,7 +1612,8 @@
             "E-cdd33250-7872-4a1f-9513-1cdd5a6d821a",
             "E-ea54e62c-fa37-43b8-a98c-5758914e2926",
             "E-SYNC20261102-76bcc9f8-18",
-            "E-3cb95eea-166c-4fb9-bbb3-5bc275eb2d98"
+            "E-3cb95eea-166c-4fb9-bbb3-5bc275eb2d98",
+            "E-9c59dc60-3e0f-4b5b-b74f-ad335ece481d"
           ],
           "historial_cambios": [
             {
@@ -3193,12 +3194,12 @@
           "consolidacion": null,
           "repaso": {
             "requiere_repaso": true,
-            "fecha_proximo": "2026-10-30",
+            "fecha_proximo": "2026-11-14",
             "errores_abiertos_ids": [
               "ERR-2c909047-56c5-4104-a863-63f5ee1683b3",
               "ERR-2d08ac49-377c-4fed-ad50-5fe177b8e7cd"
             ],
-            "fecha_ultimo": "2026-10-29",
+            "fecha_ultimo": "2026-11-13",
             "motivo": "Reconoce de forma autónoma altura frente a tamaño general; comprobar elección productiva diferida. La nominalización con さ sigue dominada."
           },
           "evidencias_ids": [
@@ -3216,7 +3217,8 @@
             "E-649e7dff-6cb8-4b35-8716-41ca84e5bb27",
             "E-6ef4d961-2526-45b6-8ddf-5abedf1e6fc8",
             "E-94c78940-229c-4185-8999-6a2d1a93a75e",
-            "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e"
+            "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e",
+            "E-25480dba-ce41-4e70-b403-570f1386538c"
           ],
           "historial_cambios": [
             {
@@ -3917,12 +3919,13 @@
             "errores_abiertos_ids": [
               "ERR-b178d581-85b7-43f8-b734-f3253be491d9"
             ],
-            "fecha_ultimo": "2026-11-12"
+            "fecha_ultimo": "2026-11-13"
           },
           "evidencias_ids": [
             "E-16a12f7a-2a02-4eda-8b6a-fd3df2cb771c",
             "E-877362fb-228a-415d-bf5e-925affae9dfe",
-            "E-f8d281af-9cb4-43f1-8593-48481f5ad2f2"
+            "E-f8d281af-9cb4-43f1-8593-48481f5ad2f2",
+            "E-c9dd270b-4a55-41ec-bb45-2bad0373e4f9"
           ],
           "historial_cambios": [
             {
@@ -22704,17 +22707,17 @@
       "uso_actual_id": "N4-G011-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-7dc0a564-a9b8-42c0-aa9b-42494d05b0f4",
+        "id": "Q-58ef409b-a6da-4906-a775-2175574b1f8b",
         "uso_id": "N4-G011-U01",
-        "direccion": "es_ja",
-        "consigna": "Mi hermano menor dice que no sabe el tamaño de esta habitación, pero yo pienso que es demasiado pequeña.",
+        "direccion": "ja_es",
+        "consigna": "母は、この部屋の広さを知りたがっていますが、私は高さのほうが大事だと思います。",
         "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-f496cc1b-9677-4c39-ba59-ef5dac7cabdd",
-        "descripcion": "ja_es G013/G003 correcto (にくい, そうは思わない)."
+        "evidencia_id": "E-25480dba-ce41-4e70-b403-570f1386538c",
+        "descripcion": "es_ja: 高さ por 大きさ (3ª vez); 言います vs 言っています. Resto correcto."
       },
-      "siguiente_accion": "Evaluar es_ja: 大きさ (G011, recuperar altura/tamaño) + と言っています + と思う + すぎる.",
+      "siguiente_accion": "Evaluar ja_es: contraste de dimensiones 広さ/高さ (G011), 知りたがっています, のほうが, と思います.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -31058,6 +31061,83 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:23:49.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi hermano menor dice que no sabe el tamaño de esta habitación, pero yo pienso que es demasiado pequeña.",
+      "primera_respuesta": "弟はこの部屋の高さを知らないと言います。でも私は小さすぎると思います。",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-25480dba-ce41-4e70-b403-570f1386538c",
+      "punto_id": "N4-G011",
+      "uso_id": "N4-G011-U01",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "さ bien formado, pero 高さ (altura) en lugar de 大きさ (tamaño): tercera vez que aparece esta confusión. Además 言います (habitual) en lugar de 言っています para reportar un dicho actual.",
+      "correccion": "弟はこの部屋の大きさが分からないと言っています。でも私は小さすぎると思います。",
+      "destrezas_observadas": [
+        "formacion"
+      ],
+      "error_ids": [
+        "ERR-2c909047-56c5-4104-a863-63f5ee1683b3",
+        "ERR-2d08ac49-377c-4fed-ad50-5fe177b8e7cd"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-13T15:23:49.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi hermano menor dice que no sabe el tamaño de esta habitación, pero yo pienso que es demasiado pequeña.",
+      "primera_respuesta": "弟はこの部屋の高さを知らないと言います。でも私は小さすぎると思います。",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-c9dd270b-4a55-41ec-bb45-2bad0373e4f9",
+      "punto_id": "N4-G015",
+      "uso_id": "N4-G015-U01",
+      "resultado": "correcta",
+      "diagnostico": "小さすぎる correcto para \"demasiado pequeña\".",
+      "correccion": null,
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:23:49.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi hermano menor dice que no sabe el tamaño de esta habitación, pero yo pienso que es demasiado pequeña.",
+      "primera_respuesta": "弟はこの部屋の高さを知らないと言います。でも私は小さすぎると思います。",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-9c59dc60-3e0f-4b5b-b74f-ad335ece481d",
+      "punto_id": "N4-G003",
+      "uso_id": "N4-G003-U01",
+      "resultado": "correcta",
+      "diagnostico": "と思います para opinión propia, con adjetivo+すぎる antes de と.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -31246,11 +31326,12 @@
       "evidencia_apertura_id": "E-a46cf570-e1b6-48e8-bc0d-49b857fb0e72",
       "categoria": "lexico",
       "descripcion": "高さ bien formado, pero significa altura y se pidió 大きさ; comparación con と同じ. oanaji tratado como errata.",
-      "estado": "en_recuperacion",
+      "estado": "abierto",
       "evidencias_recuperacion_ids": [
         "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e"
       ],
-      "fecha_resolucion": null
+      "fecha_resolucion": null,
+      "nota_recurrencia": "2026-11-13: reaparece 高さ por 大きさ (evidencia E-25480dba-ce41-4e70-b403-570f1386538c); vuelve a abierto."
     },
     {
       "id": "ERR-2d08ac49-377c-4fed-ad50-5fe177b8e7cd",
@@ -31258,11 +31339,12 @@
       "evidencia_apertura_id": "E-2f6744cd-935c-4254-b828-07d1e94a9329",
       "categoria": "lexico",
       "descripcion": "と同じ corregido; その箱の como elipsis de propiedad contextual válido. Mantiene altura en lugar de tamaño.",
-      "estado": "en_recuperacion",
+      "estado": "abierto",
       "evidencias_recuperacion_ids": [
         "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e"
       ],
-      "fecha_resolucion": null
+      "fecha_resolucion": null,
+      "nota_recurrencia": "2026-11-13: reaparece 高さ por 大きさ (evidencia E-25480dba-ce41-4e70-b403-570f1386538c); vuelve a abierto."
     },
     {
       "id": "ERR-50aa0322-ef58-42b6-a5cd-3793b2609976",
@@ -34260,6 +34342,19 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio ja_es G013-U02/G003-U01 correcto."
+    },
+    {
+      "id": "EV-22196338-8f3b-4c18-bb5b-f88b376c6b1b",
+      "fecha_hora": "2026-11-13T15:23:49.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-25480dba-ce41-4e70-b403-570f1386538c",
+        "E-c9dd270b-4a55-41ec-bb45-2bad0373e4f9",
+        "E-9c59dc60-3e0f-4b5b-b74f-ad335ece481d",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio es_ja G011/G015/G003: 高さ por 大きさ recurre; errores G011 vuelven a abierto."
     }
   ],
   "instrucciones_para_iniciar": {
