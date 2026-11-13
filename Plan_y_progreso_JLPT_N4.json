@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 164,
+  "revision_contenido": 165,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-13T14:51:14.000Z",
+  "actualizado_el": "2026-11-13T15:09:38.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -2442,7 +2442,7 @@
               "ERR-41a078a2-f845-46f2-9a66-b1c8edb78fe6"
             ],
             "motivo": "Distinción léxica ani/ane; estructura verbal かどうか correctamente producida.",
-            "fecha_ultimo": "2026-11-12",
+            "fecha_ultimo": "2026-11-13",
             "paso_intervalo": 0
           },
           "evidencias_ids": [
@@ -2464,7 +2464,8 @@
             "E-cf97b977-cd92-4199-a693-3977528b10b6",
             "E-39523cfe-2543-40be-941f-36b1a38f0a76",
             "E-0f0a1085-e49b-44e6-9332-e46988f4b09a",
-            "E-852ea43b-5cac-4cff-a8bd-ad041d4783e9"
+            "E-852ea43b-5cac-4cff-a8bd-ad041d4783e9",
+            "E-4a5bbcc2-cc78-4f20-bc53-324c4f14d217"
           ],
           "historial_cambios": [
             {
@@ -3754,15 +3755,17 @@
             "requiere_repaso": true,
             "fecha_proximo": "2026-11-13",
             "errores_abiertos_ids": [
-              "ERR-778864b9-c0d1-4298-a8f0-a59e60ebb258"
+              "ERR-778864b9-c0d1-4298-a8f0-a59e60ebb258",
+              "ERR-253e0387-0f85-4a60-a7ea-0f19e7b4b44b"
             ],
-            "fecha_ultimo": "2026-11-12"
+            "fecha_ultimo": "2026-11-13"
           },
           "evidencias_ids": [
             "E-3209bcde-29fa-49b9-beac-27a625c92bba",
             "E-a7cc92ed-0c72-43a7-bbbd-12ae9e875e0d",
             "E-149bce82-0285-407c-90f8-f779f8ad268b",
-            "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e"
+            "E-8adaaeb9-42c0-4000-9709-64e5eaaa244e",
+            "E-a11a886b-4e4c-4882-86a2-0f94ba6e6600"
           ],
           "historial_cambios": [
             {
@@ -4230,7 +4233,8 @@
             "E-82035a23-6c9b-4a7b-8ba7-24df912413dd",
             "E-c4754edb-fd27-439d-8ec4-3467aebe7490",
             "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
-            "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14"
+            "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14",
+            "E-8936c277-38fb-42ee-8921-511c6a1cab8f"
           ],
           "historial_cambios": [
             {
@@ -22693,21 +22697,21 @@
     },
     "ejercicios": {
       "sesion_actual_id": "EX-20261111-85d54204ea90",
-      "punto_actual_id": "N4-G017",
-      "uso_actual_id": "N4-G017-U01",
+      "punto_actual_id": "N4-G013",
+      "uso_actual_id": "N4-G013-U02",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-50a28f32-cdd8-43e8-b705-143b03dd7bdc",
-        "uso_id": "N4-G017-U01",
-        "direccion": "es_ja",
-        "consigna": "Mi hermana menor quiere saber si mi amigo vendrá mañana, pero a mí me cuesta preguntárselo.",
+        "id": "Q-b8638512-dc4f-44ee-9907-63c53ebb5d4e",
+        "uso_id": "N4-G013-U02",
+        "direccion": "ja_es",
+        "consigna": "この窓は重くて開けにくいと母は言っていますが、私はそうは思いません。",
         "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14",
-        "descripcion": "ja_es G017/G015 correcto con ajuste de tiempo en cláusula て."
+        "evidencia_id": "E-4a5bbcc2-cc78-4f20-bc53-324c4f14d217",
+        "descripcion": "es_ja: かどうか sin comillas y 知りたがる correctos (recuperación de errores del ej. 4). Ajuste: 知りたがっています; 聞きつらい→聞きづらい."
       },
-      "siguiente_accion": "Evaluar es_ja de recuperación: 知りたがる + かどうか sin 「」 + 聞きづらい.",
+      "siguiente_accion": "Evaluar ja_es: にくい + と言っています + そうは思わない. Repasar mezcla de usos dominados.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -30926,6 +30930,83 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:09:38.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi hermana menor quiere saber si mi amigo vendrá mañana, pero a mí me cuesta preguntárselo.",
+      "primera_respuesta": "妹は私の友達が明日来るかどうか知りたがります。でも私は彼に聞きつらいです",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-4a5bbcc2-cc78-4f20-bc53-324c4f14d217",
+      "punto_id": "N4-G007",
+      "uso_id": "N4-G007-U01",
+      "resultado": "correcta",
+      "diagnostico": "来るかどうか incrustado sin comillas, con が en la subordinada y 知りたがる como predicado. Recupera los dos fallos del ejercicio 4 (falta de どうか y 「」 sin と).",
+      "correccion": null,
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:09:38.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi hermana menor quiere saber si mi amigo vendrá mañana, pero a mí me cuesta preguntárselo.",
+      "primera_respuesta": "妹は私の友達が明日来るかどうか知りたがります。でも私は彼に聞きつらいです",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-8936c277-38fb-42ee-8921-511c6a1cab8f",
+      "punto_id": "N4-G017",
+      "uso_id": "N4-G017-U01",
+      "resultado": "variante_valida",
+      "diagnostico": "知りたがる con sujeto de tercera persona: recupera el error del ejercicio 4. Matiz de naturalidad: para un deseo presente se prefiere 知りたがっています; 知りたがります suena habitual o de disposición.",
+      "correccion": "妹は私の友達が明日来るかどうか知りたがっています。でも私は彼に聞きづらいです。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:09:38.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi hermana menor quiere saber si mi amigo vendrá mañana, pero a mí me cuesta preguntárselo.",
+      "primera_respuesta": "妹は私の友達が明日来るかどうか知りたがります。でも私は彼に聞きつらいです",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-a11a886b-4e4c-4882-86a2-0f94ba6e6600",
+      "punto_id": "N4-G014",
+      "uso_id": "N4-G014-U01",
+      "resultado": "variante_valida",
+      "diagnostico": "私は彼に聞きづらいです: estructura y partículas correctas. Se escribió 聞きつらい en lugar de 聞きづらい (づ sonorizada); posible error de teclado o dictado, no se asume desconocimiento.",
+      "correccion": "妹は私の友達が明日来るかどうか知りたがっています。でも私は彼に聞きづらいです。",
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-253e0387-0f85-4a60-a7ea-0f19e7b4b44b"
+      ]
     }
   ],
   "errores": [
@@ -31360,8 +31441,10 @@
       "evidencia_apertura_id": "E-852ea43b-5cac-4cff-a8bd-ad041d4783e9",
       "categoria": "gramatical",
       "descripcion": "Omite どうか y trata la subordinada como cita directa 「…」 sin と. Pregunta sí/no incrustada: …かどうか + 知りません/分かりません.",
-      "estado": "abierto",
-      "evidencias_recuperacion_ids": [],
+      "estado": "en_recuperacion",
+      "evidencias_recuperacion_ids": [
+        "E-4a5bbcc2-cc78-4f20-bc53-324c4f14d217"
+      ],
       "fecha_resolucion": null
     },
     {
@@ -31370,8 +31453,10 @@
       "evidencia_apertura_id": "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
       "categoria": "gramatical",
       "descripcion": "Deseo de tercera persona con したい／したくなくて en lugar de やりたがる.",
-      "estado": "abierto",
-      "evidencias_recuperacion_ids": [],
+      "estado": "en_recuperacion",
+      "evidencias_recuperacion_ids": [
+        "E-8936c277-38fb-42ee-8921-511c6a1cab8f"
+      ],
       "fecha_resolucion": null
     },
     {
@@ -31380,6 +31465,16 @@
       "evidencia_apertura_id": "E-f8d281af-9cb4-43f1-8593-48481f5ad2f2",
       "categoria": "gramatical",
       "descripcion": "Causalidad perdida: \"no quiere hacerla porque es demasiado difícil\" requiere 難しすぎるので／から antes del resultado.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-253e0387-0f85-4a60-a7ea-0f19e7b4b44b",
+      "uso_id": "N4-G014-U01",
+      "evidencia_apertura_id": "E-a11a886b-4e4c-4882-86a2-0f94ba6e6600",
+      "categoria": "ortografico",
+      "descripcion": "聞きつらい por 聞きづらい (sonorización づ). Posible teclado/dictado; verificar en próxima producción.",
       "estado": "abierto",
       "evidencias_recuperacion_ids": [],
       "fecha_resolucion": null
@@ -34088,6 +34183,20 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio ja_es G017/G015 variante válida."
+    },
+    {
+      "id": "EV-38c13b2c-cf9e-480f-bf4b-8b3a4d026451",
+      "fecha_hora": "2026-11-13T15:09:38.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-4a5bbcc2-cc78-4f20-bc53-324c4f14d217",
+        "E-8936c277-38fb-42ee-8921-511c6a1cab8f",
+        "E-a11a886b-4e4c-4882-86a2-0f94ba6e6600",
+        "ERR-253e0387-0f85-4a60-a7ea-0f19e7b4b44b",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio es_ja de recuperación G007/G017/G014: correcto con ajustes menores; dos errores previos pasan a en_recuperacion."
     }
   ],
   "instrucciones_para_iniciar": {
