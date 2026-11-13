@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 169,
+  "revision_contenido": 170,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-13T15:36:03.000Z",
+  "actualizado_el": "2026-11-13T15:41:29.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -3626,7 +3626,8 @@
             "E-SYNC20261102-76bcc9f8-19",
             "E-SYNC20261102-76bcc9f8-22",
             "E-d8537642-8945-4384-9499-d9992686791b",
-            "E-f496cc1b-9677-4c39-ba59-ef5dac7cabdd"
+            "E-f496cc1b-9677-4c39-ba59-ef5dac7cabdd",
+            "E-95178fae-e2f5-4732-b198-181d4549345d"
           ],
           "historial_cambios": [
             {
@@ -3982,9 +3983,11 @@
           "dominio": null,
           "consolidacion": null,
           "repaso": {
-            "requiere_repaso": false,
-            "fecha_proximo": null,
-            "errores_abiertos_ids": [],
+            "requiere_repaso": true,
+            "fecha_proximo": "2026-11-14",
+            "errores_abiertos_ids": [
+              "ERR-8778302a-7883-4ee6-bfd3-09733df09652"
+            ],
             "fecha_ultimo": "2026-11-13"
           },
           "evidencias_ids": [
@@ -3992,7 +3995,8 @@
             "E-adc3732b-6638-4f2c-9ae2-3bbf9533b4ac",
             "E-SYNC20261102-76bcc9f8-23",
             "E-e4f8e0b4-56f6-4236-ba9c-54d09b04f875",
-            "E-6b14581f-3618-4c91-8b55-38afc056f107"
+            "E-6b14581f-3618-4c91-8b55-38afc056f107",
+            "E-3f69ad9a-e506-4f3e-86a2-6a8fdd82b98a"
           ],
           "historial_cambios": [
             {
@@ -4249,7 +4253,8 @@
             "E-3794b9ce-9643-43be-a0ff-a847c1dd9af6",
             "E-80bf2def-e69c-49bb-aa55-6bd0e515ef14",
             "E-8936c277-38fb-42ee-8921-511c6a1cab8f",
-            "E-b1722aa3-ddc0-4d3e-a2c6-6cc42ecc17bd"
+            "E-b1722aa3-ddc0-4d3e-a2c6-6cc42ecc17bd",
+            "E-6716534b-a327-4d88-be55-079a913f24b7"
           ],
           "historial_cambios": [
             {
@@ -22716,17 +22721,17 @@
       "uso_actual_id": "N4-G011-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-b5c19c8e-b2e5-4a80-a925-7ef85dc3828f",
-        "uso_id": "N4-G013-U02",
-        "direccion": "ja_es",
-        "consigna": "弟は重すぎて持ちにくい本を読みたがらないと母は言っています。",
+        "id": "Q-a18c8a69-7803-4752-a723-29c338916b3f",
+        "uso_id": "N4-G003-U01",
+        "direccion": "es_ja",
+        "consigna": "Mi mamá dice que esta ventana es segura, pero yo pienso que es demasiado pesada y difícil de abrir.",
         "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-eb2b94cc-4040-4792-b1b2-2c6ea70a598d",
-        "descripcion": "es_ja: 大きさ/重さ correctos (recuperación). Omitió と思う y だ antes de と."
+        "evidencia_id": "E-3f69ad9a-e506-4f3e-86a2-6a8fdd82b98a",
+        "descripcion": "ja_es: perdió \"demasiado\" y la causalidad en 重すぎて持ちにくい."
       },
-      "siguiente_accion": "Evaluar ja_es: relativa + すぎて + にくい + たがらない + と言っています. Recuperar と思う y だと en próxima producción.",
+      "siguiente_accion": "Evaluar es_ja de recuperación: 安全だと言っています + と思う + すぎて + にくい. Vigilar だと y と思う.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -31273,6 +31278,80 @@
       "error_ids": [
         "ERR-e40d1a45-0950-48c2-8ce7-2c7058fa8abe"
       ]
+    },
+    {
+      "fecha_hora": "2026-11-13T15:41:29.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "弟は重すぎて持ちにくい本を読みたがらないと母は言っています。",
+      "primera_respuesta": "Mi mamá dice que mi hermano menor no quiere leer el libro pesado y difícil de sostener.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-3f69ad9a-e506-4f3e-86a2-6a8fdd82b98a",
+      "punto_id": "N4-G015",
+      "uso_id": "N4-G015-U02",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Perdió el exceso y la causalidad de 重すぎて持ちにくい: \"pesado y difícil de sostener\" omite \"demasiado\" y presenta las dos cualidades como coordinadas, cuando すぎて es la causa de la dificultad.",
+      "correccion": "Mi mamá dice que mi hermano menor no quiere leer libros tan pesados que cuesta sostenerlos.",
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": [
+        "ERR-8778302a-7883-4ee6-bfd3-09733df09652"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-13T15:41:29.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "弟は重すぎて持ちにくい本を読みたがらないと母は言っています。",
+      "primera_respuesta": "Mi mamá dice que mi hermano menor no quiere leer el libro pesado y difícil de sostener.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-95178fae-e2f5-4732-b198-181d4549345d",
+      "punto_id": "N4-G013",
+      "uso_id": "N4-G013-U02",
+      "resultado": "correcta",
+      "diagnostico": "持ちにくい → \"difícil de sostener\" como modificador relativo de 本.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:41:29.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "弟は重すぎて持ちにくい本を読みたがらないと母は言っています。",
+      "primera_respuesta": "Mi mamá dice que mi hermano menor no quiere leer el libro pesado y difícil de sostener.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-6716534b-a327-4d88-be55-079a913f24b7",
+      "punto_id": "N4-G017",
+      "uso_id": "N4-G017-U01",
+      "resultado": "correcta",
+      "diagnostico": "弟は…読みたがらない dentro de la cita interpretado como \"no quiere leer\"; ámbito de と母は言っています correcto. Matiz: 本 sin determinante admite lectura genérica (\"libros así\").",
+      "correccion": null,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -31765,6 +31844,16 @@
       "evidencia_apertura_id": "E-f5a307c0-dcef-4457-878b-e3677964af79",
       "categoria": "gramatical",
       "descripcion": "Falta だ antes de と en cita con predicado nominal o な: 大事と言っている → 大事だと言っている.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-8778302a-7883-4ee6-bfd3-09733df09652",
+      "uso_id": "N4-G015-U02",
+      "evidencia_apertura_id": "E-3f69ad9a-e506-4f3e-86a2-6a8fdd82b98a",
+      "categoria": "semantico",
+      "descripcion": "Omisión de すぎ (\"demasiado\") y de la relación causal en 重すぎて持ちにくい (se tradujo como dos cualidades coordinadas).",
       "estado": "abierto",
       "evidencias_recuperacion_ids": [],
       "fecha_resolucion": null
@@ -34539,6 +34628,20 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio es_ja G011/G003/G005: 大きさ recuperado; omitió と思う y だ antes de と."
+    },
+    {
+      "id": "EV-fd6dd36b-244c-457a-8538-96c37c89f342",
+      "fecha_hora": "2026-11-13T15:41:29.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-3f69ad9a-e506-4f3e-86a2-6a8fdd82b98a",
+        "E-95178fae-e2f5-4732-b198-181d4549345d",
+        "E-6716534b-a327-4d88-be55-079a913f24b7",
+        "ERR-8778302a-7883-4ee6-bfd3-09733df09652",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio ja_es G015/G013/G017: omitió \"demasiado\" y causalidad en すぎて."
     }
   ],
   "instrucciones_para_iniciar": {
