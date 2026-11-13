@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 165,
+  "revision_contenido": 166,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-13T15:09:38.000Z",
+  "actualizado_el": "2026-11-13T15:17:37.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -1588,7 +1588,7 @@
             "requiere_repaso": false,
             "fecha_proximo": "2026-10-26",
             "errores_abiertos_ids": [],
-            "fecha_ultimo": "2026-10-25",
+            "fecha_ultimo": "2026-11-13",
             "paso_intervalo": 0,
             "motivo": null
           },
@@ -1611,7 +1611,8 @@
             "E-76888700-24d1-470b-97f3-02be7e6dd129",
             "E-cdd33250-7872-4a1f-9513-1cdd5a6d821a",
             "E-ea54e62c-fa37-43b8-a98c-5758914e2926",
-            "E-SYNC20261102-76bcc9f8-18"
+            "E-SYNC20261102-76bcc9f8-18",
+            "E-3cb95eea-166c-4fb9-bbb3-5bc275eb2d98"
           ],
           "historial_cambios": [
             {
@@ -3607,13 +3608,15 @@
           "repaso": {
             "requiere_repaso": false,
             "fecha_proximo": null,
-            "errores_abiertos_ids": []
+            "errores_abiertos_ids": [],
+            "fecha_ultimo": "2026-11-13"
           },
           "evidencias_ids": [
             "E-d2c11d5a-9a04-4d5c-971a-895eacbbdd2b",
             "E-SYNC20261102-76bcc9f8-19",
             "E-SYNC20261102-76bcc9f8-22",
-            "E-d8537642-8945-4384-9499-d9992686791b"
+            "E-d8537642-8945-4384-9499-d9992686791b",
+            "E-f496cc1b-9677-4c39-ba59-ef5dac7cabdd"
           ],
           "historial_cambios": [
             {
@@ -22697,21 +22700,21 @@
     },
     "ejercicios": {
       "sesion_actual_id": "EX-20261111-85d54204ea90",
-      "punto_actual_id": "N4-G013",
-      "uso_actual_id": "N4-G013-U02",
+      "punto_actual_id": "N4-G011",
+      "uso_actual_id": "N4-G011-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-b8638512-dc4f-44ee-9907-63c53ebb5d4e",
-        "uso_id": "N4-G013-U02",
-        "direccion": "ja_es",
-        "consigna": "この窓は重くて開けにくいと母は言っていますが、私はそうは思いません。",
+        "id": "Q-7dc0a564-a9b8-42c0-aa9b-42494d05b0f4",
+        "uso_id": "N4-G011-U01",
+        "direccion": "es_ja",
+        "consigna": "Mi hermano menor dice que no sabe el tamaño de esta habitación, pero yo pienso que es demasiado pequeña.",
         "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-4a5bbcc2-cc78-4f20-bc53-324c4f14d217",
-        "descripcion": "es_ja: かどうか sin comillas y 知りたがる correctos (recuperación de errores del ej. 4). Ajuste: 知りたがっています; 聞きつらい→聞きづらい."
+        "evidencia_id": "E-f496cc1b-9677-4c39-ba59-ef5dac7cabdd",
+        "descripcion": "ja_es G013/G003 correcto (にくい, そうは思わない)."
       },
-      "siguiente_accion": "Evaluar ja_es: にくい + と言っています + そうは思わない. Repasar mezcla de usos dominados.",
+      "siguiente_accion": "Evaluar es_ja: 大きさ (G011, recuperar altura/tamaño) + と言っています + と思う + すぎる.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -31007,6 +31010,54 @@
       "error_ids": [
         "ERR-253e0387-0f85-4a60-a7ea-0f19e7b4b44b"
       ]
+    },
+    {
+      "fecha_hora": "2026-11-13T15:17:37.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "この窓は重くて開けにくいと母は言っていますが、私はそうは思いません。",
+      "primera_respuesta": "Mi mamá dice que está ventana e smut pesada y difícil de abrir, pero yo no pienso lo mismo.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-f496cc1b-9677-4c39-ba59-ef5dac7cabdd",
+      "punto_id": "N4-G013",
+      "uso_id": "N4-G013-U02",
+      "resultado": "correcta",
+      "diagnostico": "開けにくい → \"difícil de abrir\" con 重くて; にくい aplicado a una propiedad del objeto. Matiz opcional: 重くて puede leerse como causa (\"por ser pesada, cuesta abrirla\"). Erratas de escritura/dictado en la respuesta (\"está\"→esta, \"e smut\"→es muy); no se atribuyen a desconocimiento.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:17:37.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "ja_es",
+      "consigna": "この窓は重くて開けにくいと母は言っていますが、私はそうは思いません。",
+      "primera_respuesta": "Mi mamá dice que está ventana e smut pesada y difícil de abrir, pero yo no pienso lo mismo.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-3cb95eea-166c-4fb9-bbb3-5bc275eb2d98",
+      "punto_id": "N4-G003",
+      "uso_id": "N4-G003-U01",
+      "resultado": "correcta",
+      "diagnostico": "そうは思いません → \"no pienso lo mismo\": desacuerdo con lo citado. Matiz: そうは = \"no creo que sea así\", con は contrastivo que suaviza el rechazo. Erratas de escritura/dictado en la respuesta (\"está\"→esta, \"e smut\"→es muy); no se atribuyen a desconocimiento.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -34197,6 +34248,18 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio es_ja de recuperación G007/G017/G014: correcto con ajustes menores; dos errores previos pasan a en_recuperacion."
+    },
+    {
+      "id": "EV-141518b3-1a1d-481c-bcea-c4de602b50c9",
+      "fecha_hora": "2026-11-13T15:17:37.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-f496cc1b-9677-4c39-ba59-ef5dac7cabdd",
+        "E-3cb95eea-166c-4fb9-bbb3-5bc275eb2d98",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio ja_es G013-U02/G003-U01 correcto."
     }
   ],
   "instrucciones_para_iniciar": {
