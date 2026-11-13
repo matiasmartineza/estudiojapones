@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 168,
+  "revision_contenido": 169,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-13T15:30:12.000Z",
+  "actualizado_el": "2026-11-13T15:36:03.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -1585,9 +1585,11 @@
           },
           "consolidacion": null,
           "repaso": {
-            "requiere_repaso": false,
-            "fecha_proximo": "2026-10-26",
-            "errores_abiertos_ids": [],
+            "requiere_repaso": true,
+            "fecha_proximo": "2026-11-14",
+            "errores_abiertos_ids": [
+              "ERR-b5a355c8-3493-4c55-a4cc-67f4bbd04189"
+            ],
             "fecha_ultimo": "2026-11-13",
             "paso_intervalo": 0,
             "motivo": null
@@ -1613,7 +1615,8 @@
             "E-ea54e62c-fa37-43b8-a98c-5758914e2926",
             "E-SYNC20261102-76bcc9f8-18",
             "E-3cb95eea-166c-4fb9-bbb3-5bc275eb2d98",
-            "E-9c59dc60-3e0f-4b5b-b74f-ad335ece481d"
+            "E-9c59dc60-3e0f-4b5b-b74f-ad335ece481d",
+            "E-4cfda073-60aa-4c91-8583-ceb6ac81b6f4"
           ],
           "historial_cambios": [
             {
@@ -1983,10 +1986,12 @@
           },
           "consolidacion": null,
           "repaso": {
-            "requiere_repaso": false,
-            "fecha_proximo": "2026-10-29",
-            "errores_abiertos_ids": [],
-            "fecha_ultimo": "2026-10-28",
+            "requiere_repaso": true,
+            "fecha_proximo": "2026-11-14",
+            "errores_abiertos_ids": [
+              "ERR-e40d1a45-0950-48c2-8ce7-2c7058fa8abe"
+            ],
+            "fecha_ultimo": "2026-11-13",
             "paso_intervalo": 0,
             "motivo": null
           },
@@ -2004,7 +2009,8 @@
             "E-9034b055-0af9-4874-90ec-b516ae3ce09b",
             "E-19a1a70f-5d09-4cf2-91ec-ed8072aa0000",
             "E-4b1c0e27-2f0f-4509-b378-5ddca137b617",
-            "E-SYNC20261102-76bcc9f8-17"
+            "E-SYNC20261102-76bcc9f8-17",
+            "E-f5a307c0-dcef-4457-878b-e3677964af79"
           ],
           "historial_cambios": [
             {
@@ -3219,7 +3225,8 @@
             "E-94c78940-229c-4185-8999-6a2d1a93a75e",
             "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e",
             "E-25480dba-ce41-4e70-b403-570f1386538c",
-            "E-f863cc73-53b4-47ef-8b8e-893164499df1"
+            "E-f863cc73-53b4-47ef-8b8e-893164499df1",
+            "E-eb2b94cc-4040-4792-b1b2-2c6ea70a598d"
           ],
           "historial_cambios": [
             {
@@ -22709,17 +22716,17 @@
       "uso_actual_id": "N4-G011-U01",
       "fase": "en_curso",
       "ejercicio_pendiente": {
-        "id": "Q-3cb12891-947d-4520-a4c4-24a2c7914dad",
-        "uso_id": "N4-G011-U01",
-        "direccion": "es_ja",
-        "consigna": "Mi amigo dice que el tamaño de este libro es importante, pero yo pienso que el peso es más importante.",
+        "id": "Q-b5c19c8e-b2e5-4a80-a925-7ef85dc3828f",
+        "uso_id": "N4-G013-U02",
+        "direccion": "ja_es",
+        "consigna": "弟は重すぎて持ちにくい本を読みたがらないと母は言っています。",
         "ayudas": []
       },
       "ultima_actividad": {
-        "evidencia_id": "E-f863cc73-53b4-47ef-8b8e-893164499df1",
-        "descripcion": "ja_es: contraste 広さ/高さ entendido; sobretraducción de la evidencialidad de たがる."
+        "evidencia_id": "E-eb2b94cc-4040-4792-b1b2-2c6ea70a598d",
+        "descripcion": "es_ja: 大きさ/重さ correctos (recuperación). Omitió と思う y だ antes de と."
       },
-      "siguiente_accion": "Evaluar es_ja: 大きさ y 重さ en producción (recuperar error 高さ/大きさ), のほうが, と言っています, と思います.",
+      "siguiente_accion": "Evaluar ja_es: relativa + すぎて + にくい + たがらない + と言っています. Recuperar と思う y だと en próxima producción.",
       "actividad_suspendida": {
         "ejercicio_pendiente": {
           "id": "Q-26dfdb8e-c384-4fc1-b50b-83d675b7da28",
@@ -31189,6 +31196,83 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:36:03.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi amigo dice que el tamaño de este libro es importante, pero yo pienso que el peso es más importante.",
+      "primera_respuesta": "tomodachi wa kono hon no ookisa ga daiji to itteiru kedo watashi wa omosa no hou ga daiji dayo",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-eb2b94cc-4040-4792-b1b2-2c6ea70a598d",
+      "punto_id": "N4-G011",
+      "uso_id": "N4-G011-U01",
+      "resultado": "correcta",
+      "diagnostico": "大きさ (tamaño) y 重さ (peso) correctos en producción, con のほうが. Recupera la confusión 高さ/大きさ del ejercicio 8.",
+      "correccion": null,
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-13T15:36:03.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi amigo dice que el tamaño de este libro es importante, pero yo pienso que el peso es más importante.",
+      "primera_respuesta": "tomodachi wa kono hon no ookisa ga daiji to itteiru kedo watashi wa omosa no hou ga daiji dayo",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-4cfda073-60aa-4c91-8583-ceb6ac81b6f4",
+      "punto_id": "N4-G003",
+      "uso_id": "N4-G003-U01",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Omitió \"yo pienso\": 私は重さのほうが大事だよ afirma el contenido como hecho en lugar de presentarlo como opinión. Falta だと思う.",
+      "correccion": "友達はこの本の大きさが大事だと言っているけど、私は重さのほうが大事だと思う。",
+      "destrezas_observadas": [
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-b5a355c8-3493-4c55-a4cc-67f4bbd04189"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-13T15:36:03.000Z",
+      "fecha_local": "2026-11-13",
+      "sesion_id": "EX-20261111-85d54204ea90",
+      "conversacion": "ejercicios",
+      "tipo": "ejercicio",
+      "direccion": "es_ja",
+      "consigna": "Mi amigo dice que el tamaño de este libro es importante, pero yo pienso que el peso es más importante.",
+      "primera_respuesta": "tomodachi wa kono hon no ookisa ga daiji to itteiru kedo watashi wa omosa no hou ga daiji dayo",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "id": "E-f5a307c0-dcef-4457-878b-e3677964af79",
+      "punto_id": "N4-G005",
+      "uso_id": "N4-G005-U01",
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "大事と言っている sin だ: tras sustantivo o adjetivo en な, la cita con と lleva だ (大事だと言っている). Sin だ, と puede leerse como denominación. 言っている y けど correctos; romaji aceptado.",
+      "correccion": "友達はこの本の大きさが大事だと言っているけど、私は重さのほうが大事だと思う。",
+      "destrezas_observadas": [
+        "formacion"
+      ],
+      "error_ids": [
+        "ERR-e40d1a45-0950-48c2-8ce7-2c7058fa8abe"
+      ]
     }
   ],
   "errores": [
@@ -31377,9 +31461,10 @@
       "evidencia_apertura_id": "E-a46cf570-e1b6-48e8-bc0d-49b857fb0e72",
       "categoria": "lexico",
       "descripcion": "高さ bien formado, pero significa altura y se pidió 大きさ; comparación con と同じ. oanaji tratado como errata.",
-      "estado": "abierto",
+      "estado": "en_recuperacion",
       "evidencias_recuperacion_ids": [
-        "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e"
+        "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e",
+        "E-eb2b94cc-4040-4792-b1b2-2c6ea70a598d"
       ],
       "fecha_resolucion": null,
       "nota_recurrencia": "2026-11-13: reaparece 高さ por 大きさ (evidencia E-25480dba-ce41-4e70-b403-570f1386538c); vuelve a abierto."
@@ -31390,9 +31475,10 @@
       "evidencia_apertura_id": "E-2f6744cd-935c-4254-b828-07d1e94a9329",
       "categoria": "lexico",
       "descripcion": "と同じ corregido; その箱の como elipsis de propiedad contextual válido. Mantiene altura en lugar de tamaño.",
-      "estado": "abierto",
+      "estado": "en_recuperacion",
       "evidencias_recuperacion_ids": [
-        "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e"
+        "E-02c4f294-650c-4d33-ab74-4014ffcc1b9e",
+        "E-eb2b94cc-4040-4792-b1b2-2c6ea70a598d"
       ],
       "fecha_resolucion": null,
       "nota_recurrencia": "2026-11-13: reaparece 高さ por 大きさ (evidencia E-25480dba-ce41-4e70-b403-570f1386538c); vuelve a abierto."
@@ -31659,6 +31745,26 @@
       "evidencia_apertura_id": "E-a11a886b-4e4c-4882-86a2-0f94ba6e6600",
       "categoria": "ortografico",
       "descripcion": "聞きつらい por 聞きづらい (sonorización づ). Posible teclado/dictado; verificar en próxima producción.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-b5a355c8-3493-4c55-a4cc-67f4bbd04189",
+      "uso_id": "N4-G003-U01",
+      "evidencia_apertura_id": "E-4cfda073-60aa-4c91-8583-ceb6ac81b6f4",
+      "categoria": "gramatical",
+      "descripcion": "Omisión de と思う: la opinión propia se expresó como afirmación (大事だよ) en lugar de 大事だと思う.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-e40d1a45-0950-48c2-8ce7-2c7058fa8abe",
+      "uso_id": "N4-G005-U01",
+      "evidencia_apertura_id": "E-f5a307c0-dcef-4457-878b-e3677964af79",
+      "categoria": "gramatical",
+      "descripcion": "Falta だ antes de と en cita con predicado nominal o な: 大事と言っている → 大事だと言っている.",
       "estado": "abierto",
       "evidencias_recuperacion_ids": [],
       "fecha_resolucion": null
@@ -34418,6 +34524,21 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio ja_es G011/G017: contraste de dimensiones correcto, sobretraducción menor."
+    },
+    {
+      "id": "EV-fc486d4c-b6b6-48ae-9853-b6ce3b8702bf",
+      "fecha_hora": "2026-11-13T15:36:03.000Z",
+      "conversacion": "ejercicios",
+      "tipo": "intento",
+      "referencias_ids": [
+        "E-eb2b94cc-4040-4792-b1b2-2c6ea70a598d",
+        "E-4cfda073-60aa-4c91-8583-ceb6ac81b6f4",
+        "E-f5a307c0-dcef-4457-878b-e3677964af79",
+        "ERR-b5a355c8-3493-4c55-a4cc-67f4bbd04189",
+        "ERR-e40d1a45-0950-48c2-8ce7-2c7058fa8abe",
+        "EX-20261111-85d54204ea90"
+      ],
+      "descripcion": "Ejercicio es_ja G011/G003/G005: 大きさ recuperado; omitió と思う y だ antes de と."
     }
   ],
   "instrucciones_para_iniciar": {
