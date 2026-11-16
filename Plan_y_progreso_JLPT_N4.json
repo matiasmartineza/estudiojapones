@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 172,
+  "revision_contenido": 173,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-13T16:07:16.000Z",
+  "actualizado_el": "2026-11-16T12:00:00.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -213,7 +213,8 @@
       "Preferencia explícita del 2026-10-25: evitar series de traducciones equivalentes con simples cambios de palabras. Variar la intención comunicativa, contexto y combinación de usos habilitados; alternar traducción, respuesta a una situación breve y elección o corrección razonada cuando aporten evidencia nueva, manteniendo una consigna por turno.",
       "No anunciar una estructura en cada consigna regular: dejar elegir entre los usos ya aprendidos cuando el contexto permita evaluarlo. Reservar modelos y pistas para la ayuda solicitada o recuperación, registrándolos.",
       "La práctica debe tener un cierre visible. Si todos los usos habilitados ya están dominados, cerrar la tanda y señalar el siguiente paso en clases; evitar prolongarla con mantenimiento inmediato sin necesidad. El mantenimiento posterior responde a recuperación diferida, una dificultad real o petición del estudiante.",
-      "Un detalle léxico o un matiz menor no justifican prolongar indefinidamente el mismo objetivo gramatical. Acreditar por alcance y tratar la dificultad concreta con una recuperación breve y contextual."
+      "Un detalle léxico o un matiz menor no justifican prolongar indefinidamente el mismo objetivo gramatical. Acreditar por alcance y tratar la dificultad concreta con una recuperación breve y contextual.",
+      "Preferencia del 2026-11-16: no poner furigana entre paréntesis dentro de la oración; la oración va limpia y la lectura completa en hiragana en una línea aparte debajo."
     ],
     "voz": {
       "japones": "muy lento cuando se practica comprensión o pronunciación",
@@ -4388,33 +4389,70 @@
       "referencias_catalogo": [
         "CAT-N4-015"
       ],
-      "estado_general": "pendiente",
+      "estado_general": "comenzada",
       "nota_estado_general": "Resumen de usos; consultar cada uso antes de elegir ejercicios. Conocida no significa dominada.",
       "usos": [
         {
           "id": "N4-G018-U01",
           "objetivo": "Reconocer sustantivos de tendencia personal, como 寒がり",
-          "estado": "pendiente",
-          "origen_estado": "sin_evidencia_especifica",
+          "estado": "comenzada",
+          "origen_estado": "clase",
           "antecedentes_ids": [],
           "clase": {
-            "fase": "sin_iniciar"
+            "fase": "comprobacion",
+            "sesiones_ids": [
+              "CLS-20261116-G018"
+            ],
+            "pasos_completados": [
+              "Explicación: 寒がる→raíz→sustantivo léxico 寒がり; ejemplos 寒がり/暑がり/痛がり; contraste episodio vs rasgo con 〜がる; restricción de léxico no libre.",
+              "Comprobación de contraste y de alcance en primera persona.",
+              "Producción es_ja y comprensión ja_es con ayuda."
+            ],
+            "fecha_inicio": "2026-11-16",
+            "fecha_completada": null,
+            "alcance": "U01 enseñado: sustantivos de tendencia con 寒がり, 暑がり, 痛がり (+ 怖がり mencionado). No habilitado aún para ejercicios."
           },
           "destrezas": {
-            "comprension": "sin_evaluar",
-            "formacion": "sin_evaluar",
-            "produccion": "sin_evaluar",
-            "contraste_y_contexto": "sin_evaluar"
+            "comprension": "con_ayuda",
+            "formacion": "evidencia_parcial",
+            "produccion": "evidencia_parcial",
+            "contraste_y_contexto": "evidencia_parcial"
           },
           "dominio": null,
           "consolidacion": null,
           "repaso": {
-            "requiere_repaso": false,
+            "requiere_repaso": true,
+            "motivo": "Error léxico abierto y comprensión con ayuda.",
+            "fecha_ultimo": "2026-11-16",
             "fecha_proximo": null,
-            "errores_abiertos_ids": []
+            "paso_intervalo": null,
+            "errores_abiertos_ids": [
+              "ERR-c0738d9e-9632-4b4c-b8dd-1e66743120e8"
+            ]
           },
-          "evidencias_ids": [],
-          "historial_cambios": []
+          "evidencias_ids": [
+            "E-f1ae56a7-0f92-441d-9bfa-2d7086634f66",
+            "E-516cb77a-c827-4ffc-97c1-113d000b2c3e",
+            "E-069c2735-bd8e-4c07-98a0-2f08ffec536c",
+            "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce"
+          ],
+          "historial_cambios": [
+            {
+              "id": "C-992cc000-786d-4437-88a4-2d3159d16ad6",
+              "fecha_hora": "2026-11-16T12:00:00.000Z",
+              "uso_id": "N4-G018-U01",
+              "anterior": "pendiente",
+              "nuevo": "comenzada",
+              "motivo": "Inicio de clase de がり con comprobaciones.",
+              "evidencias_ids": [
+                "E-f1ae56a7-0f92-441d-9bfa-2d7086634f66",
+                "E-516cb77a-c827-4ffc-97c1-113d000b2c3e",
+                "E-069c2735-bd8e-4c07-98a0-2f08ffec536c",
+                "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce"
+              ],
+              "origen": "clase"
+            }
+          ]
         }
       ]
     },
@@ -22710,18 +22748,18 @@
   },
   "cursores": {
     "clases": {
-      "sesion_actual_id": "CLS-2e46647f-0b9d-4e2b-a0a2-66842830df1b",
+      "sesion_actual_id": "CLS-20261116-G018",
       "modulo_actual_id": "M02",
-      "punto_actual_id": "N4-G017",
-      "uso_actual_id": "N4-G017-U01",
-      "fase": "completada",
+      "punto_actual_id": "N4-G018",
+      "uso_actual_id": "N4-G018-U01",
+      "fase": "comprobacion",
       "actividad_pendiente": null,
       "ultima_actividad": {
-        "evidencia_id": "E-007e2711-52af-4034-8b15-1225ec5ad180",
-        "descripcion": "Cita って correcta y contraste con deseo manifestado."
+        "evidencia_id": "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce",
+        "descripcion": "ja_es 兄は暑がりなので… correcta con ayuda; error léxico 暑/痛 abierto."
       },
-      "siguiente_accion": "Continuar al próximo punto del plan. G017-U01 y U02 habilitados para ejercicios; no repetir validación.",
-      "fecha_ultima_pausa": "2026-10-27T11:42:03.551985+00:00"
+      "siguiente_accion": "Una comprobación más (produccion sin ayuda, p. ej. contraste がっている/がり en contexto nuevo); si es correcta, habilitar G018-U01 y pasar a G019 (方). Cabos sueltos de clase: N4-G001-U02 (comprobación) y N4-G014-U02 (comprobación).",
+      "fecha_ultima_pausa": "2026-11-16T12:00:00.000Z"
     },
     "ejercicios": {
       "sesion_actual_id": "EX-20261111-85d54204ea90",
@@ -23167,6 +23205,20 @@
       ],
       "resultado": null,
       "rol": "ejercicios"
+    },
+    {
+      "id": "CLS-20261116-G018",
+      "conversacion": "clases",
+      "inicio": "2026-11-16T12:00:00.000Z",
+      "fin": null,
+      "usos_ids": [
+        "N4-G018-U01"
+      ],
+      "eventos_ids": [
+        "EV-fb7f1ca3-e0a0-415e-8719-0e10d4cbeb20",
+        "EV-d2500fd2-e468-4463-99f3-51c90fe57de2"
+      ],
+      "resultado": "en_curso"
     }
   ],
   "evidencias": [
@@ -31510,6 +31562,114 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-16T12:00:00.000Z",
+      "fecha_local": "2026-11-16",
+      "sesion_id": "CLS-20261116-G018",
+      "conversacion": "clases",
+      "punto_id": "N4-G018",
+      "uso_id": "N4-G018-U01",
+      "id": "E-f1ae56a7-0f92-441d-9bfa-2d7086634f66",
+      "tipo": "comprobacion_clase",
+      "direccion": "contraste",
+      "consigna": "Comparar 妹は今、寒がっている / 妹は寒がりだ: alcance y por qué 私は寒がりだ es posible pero 私は今、寒がっている sería raro.",
+      "primera_respuesta": "la primera habla de lo que ocurre ahora y la otra habla sobre una descripción de la imouto. el sujeto se puede cambiar en la segunda porque ahí se habla de como es la persona, en la primera se está hablando sobre lo que está sintiendo la persona o no?",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Episodio vs rasgo correcto. Duda sobre 〜がる: se aclaró que describe signos observables y no afirma la sensación interna; por eso la primera persona exige 寒い.",
+      "correccion": null,
+      "contexto_nuevo": false,
+      "autonoma": false,
+      "destrezas_observadas": [
+        "contraste_y_contexto",
+        "comprension"
+      ],
+      "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-16T12:00:00.000Z",
+      "fecha_local": "2026-11-16",
+      "sesion_id": "CLS-20261116-G018",
+      "conversacion": "clases",
+      "punto_id": "N4-G018",
+      "uso_id": "N4-G018-U01",
+      "id": "E-516cb77a-c827-4ffc-97c1-113d000b2c3e",
+      "tipo": "comprobacion_clase",
+      "direccion": "es_ja",
+      "consigna": "Mi hermano menor es muy sensible al dolor, así que no le gusta el hospital.",
+      "primera_respuesta": "otouto wa atsugari de biouin ga suki janai desu",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "resultado": "parcialmente_correcta",
+      "diagnostico": "Estructura N+がり+で correcta. Error léxico: 暑がり (calor) en vez de 痛がり (dolor); biouin = errata. Naturalidad: 痛がりなので explicita la causa; で las yuxtapone. Sustantivo toma な ante ので.",
+      "correccion": null,
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": [
+        "ERR-c0738d9e-9632-4b4c-b8dd-1e66743120e8"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-16T12:00:00.000Z",
+      "fecha_local": "2026-11-16",
+      "sesion_id": "CLS-20261116-G018",
+      "conversacion": "clases",
+      "punto_id": "N4-G018",
+      "uso_id": "N4-G018-U01",
+      "id": "E-069c2735-bd8e-4c07-98a0-2f08ffec536c",
+      "tipo": "comprobacion_clase",
+      "direccion": "ja_es",
+      "consigna": "兄は暑がりなので、冬も窓を開けて寝ています。",
+      "primera_respuesta": "mi hermano es calienturiento asi que en invierno también abre la ventana y me dormiré.",
+      "autocorrecciones": [],
+      "ayudas": [],
+      "resultado": "incorrecta",
+      "diagnostico": "Cambió el sujeto de 寝ています a \"yo\", lo tradujo como futuro y no como hábito, y leyó 開けて寝る como secuencia. calienturiento en español de Chile tiene connotación sexual: léxico del español, no del japonés.",
+      "correccion": null,
+      "contexto_nuevo": true,
+      "autonoma": true,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": [
+        "ERR-d3bca8ff-bef1-4afe-a0cb-7129b029012c"
+      ]
+    },
+    {
+      "fecha_hora": "2026-11-16T12:00:00.000Z",
+      "fecha_local": "2026-11-16",
+      "sesion_id": "CLS-20261116-G018",
+      "conversacion": "clases",
+      "punto_id": "N4-G018",
+      "uso_id": "N4-G018-U01",
+      "id": "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce",
+      "tipo": "comprobacion_clase",
+      "direccion": "ja_es",
+      "consigna": "兄は暑がりなので、冬も窓を開けて寝ています。 (segundo intento tras pistas)",
+      "primera_respuesta": "Cómo mi hermano mayor es muy demasiado sensible al calor, hasta en invierno duerme con la ventana abierta.",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "pista_gramatical",
+          "contenido": "Sujeto único 兄は; ています con 冬も = hábito; dos lecturas de 開けて寝る (secuencia o circunstancia).",
+          "momento": "antes"
+        }
+      ],
+      "resultado": "correcta",
+      "diagnostico": "Hábito, sujeto y 開けて寝る como circunstancia bien resueltos con ayuda. Alternativa válida: \"hasta en invierno\" (≈冬でも). \"muy demasiado\" es redundancia en español.",
+      "correccion": null,
+      "contexto_nuevo": false,
+      "autonoma": false,
+      "destrezas_observadas": [
+        "comprension"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -32028,6 +32188,28 @@
       "descripcion": "Tercera persona con 思います y cambio de 言う a 思う: \"mi mamá dice\" → 母は…と言っています; si fuera pensamiento, 思っています.",
       "estado": "abierto",
       "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-c0738d9e-9632-4b4c-b8dd-1e66743120e8",
+      "uso_id": "N4-G018-U01",
+      "evidencia_apertura_id": "E-516cb77a-c827-4ffc-97c1-113d000b2c3e",
+      "categoria": "lexico",
+      "descripcion": "Confusión 暑がり (calor) / 痛がり (dolor) al producir; estructura correcta.",
+      "estado": "abierto",
+      "evidencias_recuperacion_ids": [],
+      "fecha_resolucion": null
+    },
+    {
+      "id": "ERR-d3bca8ff-bef1-4afe-a0cb-7129b029012c",
+      "uso_id": "N4-G018-U01",
+      "evidencia_apertura_id": "E-069c2735-bd8e-4c07-98a0-2f08ffec536c",
+      "categoria": "contexto",
+      "descripcion": "Con 〜て寝ています en tercera persona habitual: sujeto cambiado a 1.ª persona y futuro en vez de hábito.",
+      "estado": "en_recuperacion",
+      "evidencias_recuperacion_ids": [
+        "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce"
+      ],
       "fecha_resolucion": null
     }
   ],
@@ -34841,6 +35023,31 @@
         "EX-20261111-85d54204ea90"
       ],
       "descripcion": "Ejercicio ja_es G003-U02/G005-U01 correcto."
+    },
+    {
+      "id": "EV-fb7f1ca3-e0a0-415e-8719-0e10d4cbeb20",
+      "fecha_hora": "2026-11-16T12:00:00.000Z",
+      "conversacion": "clases",
+      "tipo": "clase",
+      "referencias_ids": [
+        "CLS-20261116-G018",
+        "N4-G018-U01"
+      ],
+      "descripcion": "Clase G018-U01 (がり): explicación y contraste con がる."
+    },
+    {
+      "id": "EV-d2500fd2-e468-4463-99f3-51c90fe57de2",
+      "fecha_hora": "2026-11-16T12:00:00.000Z",
+      "conversacion": "clases",
+      "tipo": "cambio_estado",
+      "referencias_ids": [
+        "C-992cc000-786d-4437-88a4-2d3159d16ad6",
+        "E-f1ae56a7-0f92-441d-9bfa-2d7086634f66",
+        "E-516cb77a-c827-4ffc-97c1-113d000b2c3e",
+        "E-069c2735-bd8e-4c07-98a0-2f08ffec536c",
+        "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce"
+      ],
+      "descripcion": "G018-U01 pendiente→comenzada; 4 comprobaciones (1 incorrecta, 2 parciales, 1 correcta con ayuda)."
     }
   ],
   "instrucciones_para_iniciar": {
