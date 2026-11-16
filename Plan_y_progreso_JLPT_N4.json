@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "tipo_archivo": "plan_y_registro_compartido_de_gramatica",
   "registro_id": "estudio-japones-matias-n4-2026-10-23",
-  "revision_contenido": 173,
+  "revision_contenido": 174,
   "creado_el": "2026-10-23",
-  "actualizado_el": "2026-11-16T12:00:00.000Z",
+  "actualizado_el": "2026-11-16T13:00:00.000Z",
   "zona_horaria": "America/Santiago",
   "idioma_explicaciones": "es-CL",
   "estudiante": {
@@ -4389,33 +4389,34 @@
       "referencias_catalogo": [
         "CAT-N4-015"
       ],
-      "estado_general": "comenzada",
+      "estado_general": "en_practica",
       "nota_estado_general": "Resumen de usos; consultar cada uso antes de elegir ejercicios. Conocida no significa dominada.",
       "usos": [
         {
           "id": "N4-G018-U01",
           "objetivo": "Reconocer sustantivos de tendencia personal, como 寒がり",
-          "estado": "comenzada",
+          "estado": "en_practica",
           "origen_estado": "clase",
           "antecedentes_ids": [],
           "clase": {
-            "fase": "comprobacion",
+            "fase": "completada",
             "sesiones_ids": [
               "CLS-20261116-G018"
             ],
             "pasos_completados": [
               "Explicación: 寒がる→raíz→sustantivo léxico 寒がり; ejemplos 寒がり/暑がり/痛がり; contraste episodio vs rasgo con 〜がる; restricción de léxico no libre.",
               "Comprobación de contraste y de alcance en primera persona.",
-              "Producción es_ja y comprensión ja_es con ayuda."
+              "Producción es_ja y comprensión ja_es con ayuda.",
+              "Decisión del estudiante/tutor 2026-11-16: criterios de salida cumplidos (reconoce significado, construye ejemplo, separa fallo léxico de estructural); habilitado para práctica."
             ],
             "fecha_inicio": "2026-11-16",
-            "fecha_completada": null,
+            "fecha_completada": "2026-11-16",
             "alcance": "U01 enseñado: sustantivos de tendencia con 寒がり, 暑がり, 痛がり (+ 怖がり mencionado). No habilitado aún para ejercicios."
           },
           "destrezas": {
             "comprension": "con_ayuda",
             "formacion": "evidencia_parcial",
-            "produccion": "evidencia_parcial",
+            "produccion": "con_ayuda",
             "contraste_y_contexto": "evidencia_parcial"
           },
           "dominio": null,
@@ -4434,7 +4435,8 @@
             "E-f1ae56a7-0f92-441d-9bfa-2d7086634f66",
             "E-516cb77a-c827-4ffc-97c1-113d000b2c3e",
             "E-069c2735-bd8e-4c07-98a0-2f08ffec536c",
-            "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce"
+            "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce",
+            "E-def8a7f4-2f19-4814-97d8-f9b4ff0b5835"
           ],
           "historial_cambios": [
             {
@@ -4449,6 +4451,18 @@
                 "E-516cb77a-c827-4ffc-97c1-113d000b2c3e",
                 "E-069c2735-bd8e-4c07-98a0-2f08ffec536c",
                 "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce"
+              ],
+              "origen": "clase"
+            },
+            {
+              "id": "C-8a619fc6-b829-4416-916b-78cae0ae776a",
+              "fecha_hora": "2026-11-16T13:00:00.000Z",
+              "uso_id": "N4-G018-U01",
+              "anterior": "comenzada",
+              "nuevo": "en_practica",
+              "motivo": "Clase completada; práctica guiada hecha. Errores restantes léxicos (暑/痛) y de ています/で, no del concepto がり.",
+              "evidencias_ids": [
+                "E-def8a7f4-2f19-4814-97d8-f9b4ff0b5835"
               ],
               "origen": "clase"
             }
@@ -22752,13 +22766,13 @@
       "modulo_actual_id": "M02",
       "punto_actual_id": "N4-G018",
       "uso_actual_id": "N4-G018-U01",
-      "fase": "comprobacion",
+      "fase": "completada",
       "actividad_pendiente": null,
       "ultima_actividad": {
-        "evidencia_id": "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce",
-        "descripcion": "ja_es 兄は暑がりなので… correcta con ayuda; error léxico 暑/痛 abierto."
+        "evidencia_id": "E-def8a7f4-2f19-4814-97d8-f9b4ff0b5835",
+        "descripcion": "G018-U01 habilitado para ejercicios; error léxico 暑/痛 abierto para recuperación en práctica."
       },
-      "siguiente_accion": "Una comprobación más (produccion sin ayuda, p. ej. contraste がっている/がり en contexto nuevo); si es correcta, habilitar G018-U01 y pasar a G019 (方). Cabos sueltos de clase: N4-G001-U02 (comprobación) y N4-G014-U02 (comprobación).",
+      "siguiente_accion": "Siguiente en el plan: N4-G019 (方, conocida: validación breve, no clase completa). Cabos sueltos de clase: N4-G001-U02 y N4-G014-U02 (comprobación).",
       "fecha_ultima_pausa": "2026-11-16T12:00:00.000Z"
     },
     "ejercicios": {
@@ -23216,7 +23230,8 @@
       ],
       "eventos_ids": [
         "EV-fb7f1ca3-e0a0-415e-8719-0e10d4cbeb20",
-        "EV-d2500fd2-e468-4463-99f3-51c90fe57de2"
+        "EV-d2500fd2-e468-4463-99f3-51c90fe57de2",
+        "EV-0597cdfb-dcad-4d5d-91d6-feac61ecc522"
       ],
       "resultado": "en_curso"
     }
@@ -31670,6 +31685,37 @@
         "comprension"
       ],
       "error_ids": []
+    },
+    {
+      "fecha_hora": "2026-11-16T13:00:00.000Z",
+      "fecha_local": "2026-11-16",
+      "sesion_id": "CLS-20261116-G018",
+      "conversacion": "clases",
+      "punto_id": "N4-G018",
+      "uso_id": "N4-G018-U01",
+      "id": "E-def8a7f4-2f19-4814-97d8-f9b4ff0b5835",
+      "tipo": "comprobacion_clase",
+      "direccion": "es_ja",
+      "consigna": "Mi papá es muy sensible al frío, así que hoy también está con el abrigo puesto en la casa, aunque yo no siento frío.",
+      "primera_respuesta": "父は寒がりなので私は寒くなくても今日も家でコートを着ます",
+      "autocorrecciones": [],
+      "ayudas": [
+        {
+          "tipo": "modelo",
+          "contenido": "El tutor entregó por error la oración corregida antes de este intento; intento previo (天気が寒くないでも…コートを使っています) incorrecto: でも mal usado, 使う por 着る, 家に por 家で.",
+          "momento": "antes"
+        }
+      ],
+      "resultado": "variante_valida",
+      "diagnostico": "Formación correcta (寒がりなので, 寒くなくても, 着る, で) pero el tema 私は pasa a ser sujeto de 着ます: cambia el significado (yo me pongo el abrigo) y 着ます no expresa estado resultante. No es producción autónoma.",
+      "correccion": null,
+      "contexto_nuevo": false,
+      "autonoma": false,
+      "destrezas_observadas": [
+        "formacion",
+        "produccion"
+      ],
+      "error_ids": []
     }
   ],
   "errores": [
@@ -35048,6 +35094,18 @@
         "E-1b4bd005-afc4-4a03-8306-a04ceac0e0ce"
       ],
       "descripcion": "G018-U01 pendiente→comenzada; 4 comprobaciones (1 incorrecta, 2 parciales, 1 correcta con ayuda)."
+    },
+    {
+      "id": "EV-0597cdfb-dcad-4d5d-91d6-feac61ecc522",
+      "fecha_hora": "2026-11-16T13:00:00.000Z",
+      "conversacion": "clases",
+      "tipo": "cambio_estado",
+      "referencias_ids": [
+        "C-8a619fc6-b829-4416-916b-78cae0ae776a",
+        "E-def8a7f4-2f19-4814-97d8-f9b4ff0b5835",
+        "N4-G018-U01"
+      ],
+      "descripcion": "G018-U01 comenzada→en_practica (habilitado). Consigna 弟は暑がりですが、今日は暑がっていません descartada sin intento."
     }
   ],
   "instrucciones_para_iniciar": {
